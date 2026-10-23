@@ -1,6 +1,6 @@
-# local_llm_exam
+# Lokale LLMs – Eksamensprojekt
 
-Dette repository er et projekt i faget **Lokale LLMs**.
+Dette repository er et eksamensprojekt i faget **Lokale LLMs** på uddannelsen **Softwareudvikling**.
 
 ## Medvirkende
 
