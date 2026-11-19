@@ -1,0 +1,41 @@
+# Lokal LLM med Ollama. Model og parametre styres fra .env (se .env.example).
+name: llm-local
+
+x-ollama-image: &ollama-image ollama/ollama:${OLLAMA_VERSION:-0.40.13}
+
+services:
+  ollama:
+    image: *ollama-image
+    container_name: ollama
+    ports:
+      - "${OLLAMA_PORT:-11434}:11434"
+    volumes:
+      - ollama_data:/root/.ollama # downloadede modeller overlever genstart
+    environment:
+      OLLAMA_KEEP_ALIVE: ${OLLAMA_KEEP_ALIVE:-10m}
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+    restart: unless-stopped
+
+  # Engangs-container: henter modellen og opretter alias-modellen (LLM_ALIAS) med parametrene fra .env.
+  model-init:
+    image: *ollama-image
+    depends_on:
+      ollama:
+        condition: service_healthy
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-qwen:0.5b-chat-v1.5-q2_K}
+      LLM_ALIAS: ${LLM_ALIAS:-rag-llm}
+      LLM_TEMPERATURE: ${LLM_TEMPERATURE:-0.2}
+      LLM_NUM_CTX: ${LLM_NUM_CTX:-4096}
+    volumes:
+      - ./init-model.sh:/init-model.sh:ro
+    entrypoint: ["/bin/sh", "/init-model.sh"]
+    restart: "no"
+
+volumes:
+  ollama_data:
