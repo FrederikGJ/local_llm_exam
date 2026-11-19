@@ -1,0 +1,51 @@
+{
+  "danish_tax_sysp136_en_2022.pdf": {
+    "title": "A practical guide to the Danish tax system",
+    "publisher": "Skattestyrelsen (The Danish Tax Agency)",
+    "published": "August 2022",
+    "source_url": "https://skat.dk/media/4dqiwexi/p136_en_2022.pdf",
+    "source_page": "https://skat.dk/workingindenmark"
+  },
+  "Digital Welcome Guide_mobile-optimized.pdf": {
+    "title": "Welcome - Your guide to life in Copenhagen (Digital Welcome Guide)",
+    "publisher": "Københavns Kommune - International House Copenhagen (City of Copenhagen)",
+    "published": "September 2025",
+    "source_url": "https://ihcph.kk.dk/sites/default/files/2025-09/Digital%20Welcome%20Guide_mobile-optimized.pdf",
+    "source_page": "https://ihcph.kk.dk/digital-welcome-guide"
+  },
+  "Guide-non-EU-citizens-general.pdf": {
+    "title": "Step by step guide for non-EU citizens - For an easy relocation to Sønderborg Municipality",
+    "publisher": "Sønderborg Kommune - Newcomer Service Sønderborg (Sønderborg Municipality)",
+    "published": "",
+    "source_url": "",
+    "source_page": "https://sonderborg.dk/en/newcomer"
+  },
+  "pjece_dig-og-din-sundhed_en.pdf": {
+    "title": "You and your health",
+    "publisher": "Sundhedsstyrelsen (The Danish Health Authority)",
+    "published": "25 March 2022",
+    "source_url": "https://sst.dk/-/media/Udgivelser/2022/Beredskab/Pjece_Dig-og-din-sundhed_EN.ashx",
+    "source_page": "https://sst.dk/en/English/publications/2022/You-and-your-health"
+  },
+  "rules-and-rights-when-working-in-denmark.pdf": {
+    "title": "Rules and rights - when working in Denmark",
+    "publisher": "Beskæftigelsesministeriet (The Danish Ministry of Employment), published via Workindenmark",
+    "published": "",
+    "source_url": "https://workindenmark.dk/media/ejig5wc4/rules-and-rights-when-working-in-denmark.pdf",
+    "source_page": "https://workindenmark.dk/for-employers/public-services-and-tools/rules-and-rights-for-international-employees"
+  },
+  "us_application_form_guide_en.pdf": {
+    "title": "The Immigration Service Application Form Guide",
+    "publisher": "Udlændingestyrelsen (The Danish Immigration Service)",
+    "published": "27 August 2026",
+    "source_url": "https://www.nyidanmark.dk/-/media/Files/US/Application-forms/Guide/us_form_guide_en.pdf",
+    "source_page": "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Diverse-US/Application-forms-–-The-Danish-Immigration-Service"
+  },
+  "wcag-welcome-to-denmark-2023-lille.pdf": {
+    "title": "Welcome to Denmark - Useful information which will make it easier for you to settle into your professional and private life in Denmark",
+    "publisher": "Workindenmark - Styrelsen for Arbejdsmarked og Rekruttering (The Danish Agency for Labour Market and Recruitment)",
+    "published": "February 2022 (accessible PDF version 2023)",
+    "source_url": "",
+    "source_page": "https://www.workindenmark.dk/"
+  }
+}
