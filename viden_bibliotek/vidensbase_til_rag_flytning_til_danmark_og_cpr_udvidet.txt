@@ -1,0 +1,1972 @@
+================================================================================
+VIDENSBASE: FLYTNING TIL DANMARK, OPHOLD, CPR, SKAT, MITID, SUNDHED, BOLIG, ARBEJDE OG HVERDAGSLIV
+Kilder (emnemæssigt): Borger.dk, Ny i Danmark (nyidanmark.dk), Skat.dk, MitID.dk, Sundhed.dk, Lifeindenmark.dk, Workindenmark.dk, Udbetaling Danmark, Familieretshuset, Motorstyrelsen, Færdselsstyrelsen, SU.dk, Virk.dk
+Formål: RAG (Retrieval-Augmented Generation) vidensbase for tilflyttere til Danmark
+Version: Udvidet udgave, november 2026 (studieprojekt)
+================================================================================
+
+[OM VIDENSBASEN: OPBYGNING OG FORBEHOLD]
+- Vidensbasen er opdelt i nummererede sektioner med overskriften [SEKTION X: TITEL] og nummererede underafsnit (f.eks. 4.3). Hvert underafsnit er skrevet, så det kan læses og forstås alene.
+- Hver sektion har en linje med "Søgeord", som indeholder danske og engelske synonymer for sektionens emner. Linjen er til for at forbedre søgningen, når brugeren spørger på engelsk eller bruger andre ord end myndighederne.
+- Beløb, satser, gebyrer og beløbsgrænser reguleres typisk hvert år. De er derfor angivet som cirkabeløb med årstal og skal læses som størrelsesordener, ikke som bindende tal.
+- Vidensbasen er generel vejledning og ikke juridisk rådgivning. Ved tvivl gælder altid den ansvarlige myndigheds egne oplysninger (nyidanmark.dk, borger.dk, skat.dk, mitid.dk, sundhed.dk).
+- Lifeindenmark.dk er den engelsksprogede udgave af Borger.dk og dækker de samme emner for internationale borgere.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 1: OVERORDNET RÆKKEFØLGE - TRIN-FOR-TRIN GUIDE FOR TILFLYTTERE]
+Søgeord: rækkefølge, trin for trin, tjekliste, hvor starter jeg, første skridt, flytte til Danmark, step by step, checklist, moving to Denmark, getting started, first steps, relocation, newcomer
+
+Når en person flytter til Danmark fra udlandet, skal en række administrative skridt gennemføres i en bestemt rækkefølge, da de enkelte systemer bygger ovenpå hinanden:
+
+Trin 1: Opholdsgrundlag (visum, EU-registreringsbevis eller opholdstilladelse).
+Trin 2: Fast bopæl/adresse i Danmark (krav for CPR-registrering ved ophold over 3 måneder).
+Trin 3: Tilmelding til Folkeregistret og udstedelse af CPR-nummer (via Borgerservice eller International Citizen Service - ICS).
+Trin 4: Valg af praktiserende læge og udstedelse af det gule sundhedskort (sker automatisk ved CPR-registrering).
+Trin 5: Oprettelse af MitID (digitalt ID til offentlige selvbetjeningsløsninger og netbank).
+Trin 6: Skattekort og forskudsopgørelse hos Skattestyrelsen.
+Trin 7: Oprettelse af dansk bankkonto og tilknytning af NemKonto.
+Trin 8: Digital Post (e-Boks / mit.dk / Borger.dk) til kommunikation med offentlige myndigheder.
+
+1.1 Hvorfor rækkefølgen er vigtig (afhængigheder mellem systemerne):
+- Uden lovligt opholdsgrundlag kan man ikke blive bopælsregistreret. EU/EØS-borgere skal derfor have EU-registreringsbevis fra SIRI, og tredjelandsborgere skal have opholdstilladelse, før kommunen kan give et CPR-nummer.
+- Uden en adresse i Danmark kan man ikke få et CPR-nummer. Boligen er derfor ofte den første praktiske flaskehals.
+- Uden CPR-nummer kan man normalt ikke få MitID, dansk bankkonto, sundhedskort eller en fast læge.
+- Uden MitID kan man ikke logge ind på skat.dk, borger.dk, sundhed.dk, Digital Post eller netbank.
+- Uden skattekort trækker arbejdsgiveren 55 % i skat af lønnen.
+- Uden bankkonto og NemKonto kan man ikke modtage løn, overskydende skat, SU, boligstøtte eller børneydelse på normal vis.
+
+1.2 Tidslinje: Hvad kan gøres før ankomst til Danmark?
+- Søg opholds- og arbejdstilladelse (tredjelandsborgere) og vent på afgørelsen, før rejsen bestilles.
+- Find bolig, eller i det mindste en midlertidig bolig, hvor man må registrere sin adresse. Få lejekontrakten eller en logiværtserklæring på skrift.
+- Saml originale dokumenter: pas, vielsesattest, børns fødselsattester, eksamensbeviser, eventuelle skilsmissepapirer, kørekort. Få dem oversat og legaliseret/apostilleret hjemmefra, hvis de ikke er på dansk, engelsk, tysk, norsk eller svensk.
+- Søg om skattekort hos Skattestyrelsen, hvis man allerede har en ansættelseskontrakt (kan gøres uden CPR-nummer, og man får så et skattepersonnummer).
+- Tegn en privat sygeforsikring for de første uger, indtil man er dækket af den danske sygesikring.
+- Skaf dokumentation fra hjemlandet, som senere er svær at få: skatteidentifikationsnummer (TIN), attest for arbejdsløshedsforsikring (PD U1), skadefri år fra bilforsikring, vaccinationskort til børn, journaler for kronisk sygdom og recepter.
+
+1.3 Tidslinje: Den første uge i Danmark
+- EU/EØS-borgere: Søg EU-registreringsbevis hos SIRI (eller hos ICS).
+- Tredjelandsborgere: Få optaget biometri (ansigtsfoto og fingeraftryk), hvis det ikke allerede er sket.
+- Bestil tid i Borgerservice eller ICS til CPR-registrering, og mød personligt op med hele familien.
+- Sæt fuldt navn på postkassen og dørtelefonen samme dag, man flytter ind.
+- Vælg praktiserende læge ved CPR-registreringen.
+
+1.4 Tidslinje: Den første måned i Danmark
+- Opret MitID (app med pas-scanning eller fremmøde i Borgerservice).
+- Søg skattekort og udfyld forskudsopgørelse på skat.dk.
+- Opret bankkonto og udpeg en NemKonto.
+- Aktivér Digital Post og installér en app til at læse den.
+- Tegn indbo- og ansvarsforsikring, og vælg elleverandør.
+- Meld børn til dagtilbud eller skole, og tilmeld dig danskundervisning i kommunen.
+- Overvej medlemskab af a-kasse (vigtigt at gøre hurtigt, hvis forsikringsperioder fra et andet EU/EØS-land skal overføres).
+
+1.5 Tidslinje: De første 3-6 måneder i Danmark
+- Ombyt udenlandsk kørekort fra lande uden for EU/EØS (inden 180 dage efter bopælsregistrering).
+- Indregistrér medbragt udenlandsk bil (inden 30 dage).
+- Søg boligstøtte og børne- og ungeydelse, hvis man opfylder betingelserne.
+- Tjek forskudsopgørelsen igen, når den første løn er udbetalt, og ret den, hvis indkomsten afviger.
+- Bestil det blå EU-sygesikringskort til rejser i EU.
+
+1.6 Typisk samlet tidsforbrug:
+- En EU-borger med job og bolig på plads kan ofte have CPR-nummer, MitID, skattekort og bankkonto inden for 2-6 uger.
+- For tredjelandsborgere kommer sagsbehandlingstiden for opholdstilladelsen oveni (typisk 1-3 måneder før indrejse, længere for familiesammenføring).
+
+--------------------------------------------------------------------------------
+
+[SEKTION 2: TJEKLISTER FOR FORSKELLIGE TYPER AF TILFLYTTERE]
+Søgeord: tjekliste, scenarie, min situation, EU-borger, arbejdstager, studerende, nordisk statsborger, tredjeland, medfølgende ægtefælle, grænsegænger, pendler, hjemvendt dansker, checklist, EU citizen, worker, student, Nordic citizen, non-EU, accompanying spouse, cross-border commuter, returning Dane
+
+2.1 Tjekliste for EU/EØS-borger, der flytter til Danmark for at arbejde:
+1) Find bolig og få lejekontrakt eller logiværtserklæring. 2) Søg EU-registreringsbevis hos SIRI som arbejdstager (medbring pas/ID-kort og ansættelseskontrakt eller arbejdsgivererklæring). 3) Få CPR-nummer i Borgerservice eller ICS. 4) Opret MitID. 5) Søg skattekort på skat.dk. 6) Opret bankkonto og NemKonto. 7) Aktivér Digital Post. 8) Meld dig ind i a-kasse inden 8 uger, hvis du vil overføre forsikringsperioder med PD U1. 9) Tilmeld dig gratis danskundervisning.
+
+2.2 Tjekliste for EU/EØS-borger, der flytter til Danmark for at studere:
+1) Få optagelsesbrev fra uddannelsesstedet. 2) Find studiebolig (kollegium, ungdomsbolig eller privat værelse). 3) Søg EU-registreringsbevis hos SIRI som studerende (optagelsesbrev og erklæring om, at man kan forsørge sig selv). 4) Få CPR-nummer. 5) Opret MitID og bankkonto. 6) Hvis man får studiejob: søg skattekort. 7) Undersøg, om man kan få SU som EU-arbejdstager (kræver typisk arbejde på mindst 10-12 timer om ugen ved siden af studiet).
+
+2.3 Tjekliste for nordisk statsborger (Sverige, Norge, Finland, Island):
+1) Find bolig. 2) Mød op i Borgerservice med pas eller anden billedlegitimation og dokumentation for bolig (intet registreringsbevis eller opholdstilladelse er nødvendig). 3) Oplys personnummer fra det tidligere nordiske bopælsland, så landene kan udveksle oplysninger. 4) Få CPR-nummer, MitID, skattekort og bankkonto som alle andre.
+
+2.4 Tjekliste for tredjelandsborger med job i Danmark:
+1) Arbejdsgiver og ansøger indgiver ansøgning om opholds- og arbejdstilladelse til SIRI (f.eks. Beløbsordningen, Positivlisten eller Fast-track). 2) Betal gebyr og få optaget biometri. 3) Vent på tilladelsen, før arbejdet påbegyndes (Fast-track kan give ret til hurtig start). 4) Rejs ind, og bopælsregistrér dig i kommunen for at få CPR-nummer. 5) Opret MitID, skattekort, bankkonto. 6) Ombyt kørekort inden 180 dage. 7) Hold øje med tilladelsens udløbsdato, og søg forlængelse i god tid (tidligst 3 måneder før udløb).
+
+2.5 Tjekliste for medfølgende ægtefælle/partner og børn:
+1) Søg opholdstilladelse som medfølgende familie samtidig med hovedansøgeren (tredjelandsborgere) eller EU-registreringsbevis som familiemedlem (EU-borgere). 2) Medbring vielsesattest og børns fødselsattester i original, oversat og legaliseret om nødvendigt. 3) Hele familien møder personligt op til CPR-registrering. 4) Skriv børn op til dagtilbud eller skole. 5) Medfølgende ægtefæller til udenlandske arbejdstagere må normalt arbejde frit i Danmark uden egen arbejdstilladelse.
+
+2.6 Tjekliste for grænsegænger/pendler (bor i Sverige, Tyskland eller andet land og arbejder i Danmark):
+1) Man skal ikke bopælsregistreres i Danmark. 2) Søg skattekort hos Skattestyrelsen og få et skattepersonnummer (administrativt CPR-nummer). 3) Man er som udgangspunkt socialt sikret i arbejdslandet Danmark og kan få et særligt sundhedskort. 4) Opret MitID med det administrative CPR-nummer. 5) Opret dansk bankkonto eller registrér udenlandsk konto som NemKonto. 6) Undersøg grænsegængerreglen i skattesystemet og dobbeltbeskatningsoverenskomsten mellem landene.
+
+2.7 Tjekliste for dansk statsborger, der vender hjem efter ophold i udlandet:
+1) Anmeld indrejse til kommunen senest 5 dage efter flytningen (kan ofte ske digitalt på borger.dk, hvis man har MitID). 2) Det gamle CPR-nummer genaktiveres, og man får sundhedskort og læge igen. 3) Søg skattekort/forskudsopgørelse. 4) Tjek a-kasse-forhold (PD U1 fra opholdslandet). 5) Udenlandsk ægtefælle fra et tredjeland skal søge familiesammenføring efter danske regler eller EU-reglerne.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 3: OPHOLDSGRUNDLAG (NORDEN, EU/EØS OG TREDJELANDE)]
+Søgeord: opholdstilladelse, arbejdstilladelse, EU-registreringsbevis, registreringsbevis, visum, SIRI, Udlændingestyrelsen, nyidanmark, Beløbsordningen, Positivlisten, Fast-track, familiesammenføring, permanent ophold, statsborgerskab, biometri, opholdskort, residence permit, work permit, EU residence document, registration certificate, visa, Pay Limit Scheme, Positive List, family reunification, permanent residence, citizenship, residence card
+
+Reglerne for at rejse ind og opholde sig i Danmark afhænger af statsborgerskab:
+
+3.1 Nordiske statsborgere (Sverige, Norge, Finland, Island):
+- Nordiske statsborgere kan frit rejse ind, bo, studere og arbejde i Danmark uden visum, opholdstilladelse eller EU-registreringsbevis.
+- Ved ophold på over 6 måneder skal man registreres i det danske folkeregister (CPR). Ved ophold mellem 3 og 6 måneder kan man vælge at lade sig registrere, eller man kan få et administrativt CPR-nummer (skattepersonnummer), hvis man arbejder.
+- Flytning mellem nordiske lande sker efter en fælles nordisk aftale om folkeregistrering: Man melder flytning i tilflytningslandet, og myndighederne giver selv besked til fraflytningslandet.
+
+3.2 EU/EØS-statsborgere samt schweiziske statsborgere:
+- Må opholde sig i Danmark i op til 3 måneder uden registrering (op til 6 måneder som aktivt jobsøgende).
+- Ved ophold over 3 måneder skal man søge om et EU-opholdsdokument (registreringsbevis) hos Styrelsen for International Rekruttering og Integration (SIRI). Ansøgningen skal indgives senest 3 måneder efter indrejsen.
+- Betingelser for EU-registreringsbevis: Man skal opfylde et af følgende kriterier: arbejdstager, selvstændig erhvervsdrivende, studerende, person med tilstrækkelige midler (selvforsørgende) eller familiemedlem til en EU-borger i Danmark.
+- Vigtigt: EU-registreringsbeviset fra SIRI skal udstedes, FØR man kan blive bopælsregistreret og få et CPR-nummer i kommunen/Borgerservice.
+- Ansøgning om EU-registreringsbevis er gratis. Man udfylder ansøgningen online via nyidanmark.dk og møder derefter personligt op hos SIRI eller ICS for at vise legitimation.
+
+3.3 Dokumentation til EU-registreringsbevis for hver kategori:
+- Arbejdstager: Pas eller nationalt ID-kort samt ansættelseskontrakt eller arbejdsgivererklæring. Arbejdet skal være reelt og faktisk (ikke kun få timer af rent marginal karakter).
+- Selvstændig erhvervsdrivende: Dokumentation for, at virksomheden er etableret i Danmark eller er ved at blive det (f.eks. CVR-registrering, regnskab, kontrakter med kunder).
+- Studerende: Optagelsesbrev fra en godkendt dansk uddannelsesinstitution og en erklæring om, at man kan forsørge sig selv under opholdet.
+- Person med tilstrækkelige midler: Dokumentation for midler eller indtægter, der gør, at man ikke falder det offentlige til byrde (f.eks. kontoudtog eller pension), samt normalt en sygeforsikring.
+- Familiemedlem til EU-borger: Dokumentation for familieforholdet (vielsesattest, fødselsattest) og for hovedpersonens opholdsgrundlag. Familiemedlemmer, der selv er tredjelandsborgere, får et EU-opholdskort i stedet for et registreringsbevis.
+
+3.4 EU-borgeres rettigheder efter registrering:
+- Efter 5 års uafbrudt lovligt ophold i Danmark efter EU-reglerne har EU/EØS-borgere og deres familiemedlemmer ret til tidsubegrænset ophold og kan få bevis for det hos SIRI.
+- En EU-arbejdstager, der bliver ufrivilligt arbejdsløs, kan under visse betingelser bevare sin status som arbejdstager og dermed sin opholdsret i en periode.
+- EU-borgere har ret til ligebehandling med danske statsborgere på arbejdsmarkedet og ved de fleste sociale ydelser, når de har status som arbejdstager.
+
+3.5 Statsborgere fra lande uden for Norden og EU/EØS (tredjelandsstatsborgere):
+- Skal som hovedregel have en opholds- og arbejdstilladelse (eller studie-/familieopholdstilladelse) udstedt FØR indrejse i Danmark. Personer, der i forvejen opholder sig lovligt i Danmark (f.eks. visumfrit eller med en anden tilladelse), kan i nogle tilfælde indgive ansøgningen her.
+- Ansøgning indgives via Ny i Danmark (SIRI eller Udlændingestyrelsen afhængigt af opholdsgrundlag, f.eks. Beløbsordningen, Positivlisten, Fast-track, studier eller familiesammenføring).
+- SIRI behandler sager om arbejde, studier, au pair, praktik og medfølgende familie til arbejdstagere og studerende. Udlændingestyrelsen behandler bl.a. familiesammenføring, asyl, permanent opholdstilladelse og visum.
+- Efter indrejse i Danmark skal man have registreret sin bopæl i kommunen for at få et CPR-nummer og modtage sit opholdskort med posten.
+- Det er ulovligt at arbejde i Danmark uden arbejdstilladelse. Både medarbejder og arbejdsgiver kan straffes med bøde, og udlændingen risikerer udvisning.
+
+3.6 De vigtigste erhvervsordninger for tredjelandsborgere:
+- Beløbsordningen: For personer med et jobtilbud med en høj årsløn. Beløbsgrænsen var ca. 514.000 kr. om året i 2025 og reguleres hvert år. Der er ingen krav til uddannelse eller branche.
+- Supplerende beløbsordning: Lavere beløbsgrænse (ca. 415.000 kr. i 2025), men med ekstra betingelser, bl.a. at stillingen har været slået op på Jobnet og EURES.
+- Der er desuden vedtaget en særlig ordning med en lavere beløbsgrænse (omkring 300.000 kr.) for statsborgere fra en række udvalgte lande ved ansættelse i virksomheder med overenskomst. De præcise betingelser og landelisten står på nyidanmark.dk.
+- Positivlisten for personer med en videregående uddannelse: For job inden for fagområder med mangel på højtuddannet arbejdskraft (f.eks. ingeniører, læger, it-specialister). Listen opdateres to gange om året (1. januar og 1. juli).
+- Positivlisten for faglærte: For job inden for faglærte områder med mangel på arbejdskraft.
+- Fast-track-ordningen: For ansatte i virksomheder, som er certificeret af SIRI. Giver hurtig sagsbehandling og mulighed for at begynde arbejdet, før den endelige tilladelse er udstedt. Ordningen har flere spor: beløbssporet, det supplerende beløbsspor, forskersporet, uddannelsessporet og korttidssporet.
+- Forskerordningen: For forskere ansat ved universiteter eller forskningsvirksomheder. Der er ikke noget krav om en bestemt løn, men løn og vilkår skal være sædvanlige.
+- Start-up Denmark: For iværksættere fra tredjelande, der vil drive en innovativ vækstvirksomhed i Danmark. Forretningsplanen skal godkendes af et ekspertpanel.
+- Øvrige ordninger: Praktikanter, fodermestre og driftsledere i landbruget, særlige individuelle kvalifikationer (f.eks. kunstnere, sportsfolk og specialiserede kokke), samt bibeskæftigelse.
+- Fælles krav: Løn og ansættelsesvilkår skal svare til danske standarder, og lønnen skal normalt udbetales til en dansk bankkonto.
+
+3.7 Tredjelandsborgere, der skal studere i Danmark:
+- Kræver optagelse på en godkendt uddannelse, dokumentation for at man kan forsørge sig selv, og normalt at studieafgiften for første semester er betalt.
+- Studerende på videregående uddannelser må typisk arbejde et begrænset antal timer ved siden af studiet (omkring 90 timer om måneden) og fuld tid i juni, juli og august.
+- Efter afsluttet dansk bachelor-, kandidat- eller ph.d.-uddannelse kan man få et jobsøgningsophold på op til 3 år.
+- Reglerne for arbejde og medfølgende familie er strammet for visse uddannelser, der ikke er statsligt godkendte. Tjek altid den konkrete uddannelse på nyidanmark.dk.
+
+3.8 Familiesammenføring og medfølgende familie:
+- Medfølgende familie til arbejdstagere og studerende (SIRI): Ægtefælle, registreret partner eller fast samlever samt børn under 18 år kan få opholdstilladelse, hvis familien bor sammen og kan forsørge sig selv. Den medfølgende ægtefælle må arbejde frit.
+- Ægtefællesammenføring efter udlændingeloven (Udlændingestyrelsen): Gælder, når den herboende er dansk statsborger eller har permanent ophold. Der stilles en række krav, bl.a. 24-årsreglen (begge skal normalt være fyldt 24 år), boligkrav, selvforsørgelseskrav, et integrationskrav, økonomisk sikkerhedsstillelse over for kommunen (ca. 57.000 kr. i 2025-niveau) og bestået danskprøve på A1- og A2-niveau efter ankomst.
+- Familiesammenføring efter EU-reglerne: En EU-borger i Danmark, eller en dansk statsborger, der har brugt retten til fri bevægelighed i et andet EU-land og vender hjem, kan få sin familie til Danmark på de mere lempelige EU-regler (behandles af SIRI).
+- Børn: Børn under 15 år kan som udgangspunkt familiesammenføres med en forælder i Danmark. Der bør søges hurtigst muligt efter, at forælderen har fået opholdstilladelse.
+
+3.9 Ansøgningsprocessen hos SIRI og Udlændingestyrelsen (tredjelandsborgere):
+- Trin 1: Opret et sagsbestillings-ID på nyidanmark.dk, og betal gebyret. Gebyrerne reguleres årligt og ligger fra ca. 2.000 kr. til over 6.000 kr. for studie- og arbejdssager og omkring 10.000 kr. for ægtefællesammenføring.
+- Trin 2: Udfyld den digitale ansøgning (arbejdsgiveren udfylder sin del i erhvervssager) og vedhæft dokumentation: pas (alle sider), ansættelseskontrakt, eksamensbeviser m.m.
+- Trin 3: Få optaget biometri (ansigtsfoto, fingeraftryk og underskrift) senest 14 dage efter, at ansøgningen er indgivet. Det sker på en dansk repræsentation eller et visumansøgningscenter i udlandet eller hos SIRI/Udlændingestyrelsens borgerservice i Danmark.
+- Trin 4: Vent på afgørelsen. Vejledende sagsbehandlingstid er ca. 1 måned for Fast-track og Beløbsordningen, 1-2 måneder for studier og flere måneder for familiesammenføring.
+- Trin 5: Opholdskortet (et plastikkort med chip i kreditkortformat) sendes til adressen i Danmark, når man er bopælsregistreret. Opholdskortet er bevis for tilladelsen og skal medbringes sammen med passet ved rejser.
+
+3.10 Forlængelse, jobskifte og tab af job:
+- En opholdstilladelse på grund af arbejde er knyttet til det konkrete job. Ved skift af arbejdsgiver skal man normalt søge en ny tilladelse, senest den dag man begynder i det nye job.
+- Forlængelse skal søges, før tilladelsen udløber, og tidligst 3 måneder før udløb. Søger man rettidigt, må man blive i Danmark og fortsætte arbejdet under sagsbehandlingen.
+- Mister man uforskyldt sit job, kan man under flere ordninger få et jobsøgningsophold på op til 6 måneder for at finde nyt arbejde. SIRI skal have besked om ophøret.
+- Passet skal være gyldigt. En opholdstilladelse gives normalt kun til 3 måneder før passets udløbsdato.
+- En opholdstilladelse kan bortfalde, hvis man opgiver sin bopæl i Danmark eller opholder sig uden for landet i mere end 6 sammenhængende måneder (12 måneder, hvis man har boet lovligt i Danmark i over 2 år).
+
+3.11 Visum og korttidsophold i Schengen:
+- Danmark er med i Schengen-samarbejdet. Tredjelandsborgere må opholde sig i Schengen-området i højst 90 dage inden for en periode på 180 dage, enten visumfrit (f.eks. statsborgere fra USA, Canada, Japan, Australien og Storbritannien) eller med et Schengen-visum.
+- Et visum eller et visumfrit ophold giver ikke ret til at arbejde i Danmark.
+- EU's ind- og udrejsesystem (EES) registrerer tredjelandsborgeres biometri ved Schengens ydre grænser og blev indført gradvist fra efteråret 2025. Rejsetilladelsen ETIAS for visumfri rejsende ventes indført efterfølgende.
+- Opholdstilladelse i Danmark giver ret til at besøge andre Schengen-lande i op til 90 dage pr. 180 dage, men ikke til at bo eller arbejde der.
+
+3.12 Britiske statsborgere efter Brexit:
+- Britiske statsborgere er siden 1. januar 2021 tredjelandsborgere og skal have opholds- og arbejdstilladelse efter de almindelige regler for at flytte til Danmark.
+- Briter, der boede lovligt i Danmark før udgangen af 2020, er omfattet af udtrædelsesaftalen og har et særligt opholdsdokument.
+
+3.13 Særlige grupper:
+- Au pair: For unge (typisk 18-29 år), der bor hos en værtsfamilie. Højst 30 timers huslige opgaver om ugen, og værtsfamilien betaler lommepenge, kost og logi samt bl.a. forsikring og en del af danskundervisningen.
+- Working Holiday: Unge fra bl.a. Argentina, Australien, Canada, Chile, Japan, New Zealand og Sydkorea kan få op til 1 års ophold med begrænset ret til arbejde.
+- Fordrevne fra Ukraine: Har adgang til midlertidig opholdstilladelse efter en særlov, som giver ret til at arbejde, gå i skole og modtage sundhedsydelser. Særloven er forlænget flere gange.
+- Asylansøgere og flygtninge er omfattet af særskilte regler under Udlændingestyrelsen og er ikke dækket nærmere af denne vidensbase.
+
+3.14 Permanent opholdstilladelse (tidsubegrænset ophold) for tredjelandsborgere:
+- Hovedregel: Man kan søge efter 8 års lovligt ophold i Danmark. Opfylder man alle fire supplerende betingelser, kan man søge allerede efter 4 år.
+- Grundlæggende betingelser (skal alle være opfyldt): fyldt 18 år, fortsat opfylde betingelserne for sin nuværende tilladelse, ingen alvorlig kriminalitet, ingen forfalden gæld til det offentlige, ikke have modtaget visse offentlige ydelser (f.eks. kontanthjælp) de seneste 4 år, bestået Prøve i Dansk 2, underskrevet erklæring om integration og aktivt medborgerskab samt ordinær fuldtidsbeskæftigelse i mindst 3 år og 6 måneder inden for de seneste 4 år.
+- Supplerende betingelser: bestået Prøve i Dansk 3, fuldtidsbeskæftigelse i mindst 4 år inden for de seneste 4 år og 6 måneder, bestået medborgerskabsprøve eller udvist aktivt medborgerskab i mindst 1 år, samt en årlig skattepligtig indkomst over en fastsat grænse (ca. 330.000 kr. i 2025-niveau) i de seneste 2 år.
+- Ansøgning indgives til Udlændingestyrelsen mod gebyr.
+
+3.15 Dansk statsborgerskab (indfødsret):
+- Udlændinge får dansk statsborgerskab ved naturalisation, dvs. ved at blive optaget på et lovforslag om indfødsrets meddelelse, som Folketinget vedtager typisk to gange om året.
+- Hovedkrav: permanent opholdstilladelse, normalt 9 års uafbrudt ophold i Danmark (kortere for bl.a. nordiske statsborgere, flygtninge og ægtefæller til danske statsborgere), bestået Prøve i Dansk 3, bestået Indfødsretsprøve, selvforsørgelse, ingen gæld til det offentlige og ingen alvorlig kriminalitet.
+- Ansøgningen koster ca. 6.000 kr. Til sidst skal man deltage i en grundlovsceremoni i kommunen, hvor man underskriver en erklæring og giver hånd.
+- Danmark tillader dobbelt statsborgerskab, så man behøver ikke opgive sit oprindelige statsborgerskab efter danske regler.
+- Børn får automatisk dansk statsborgerskab ved fødslen, hvis mindst én af forældrene er dansk statsborger. Fødsel i Danmark giver ikke i sig selv dansk statsborgerskab.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 4: CPR-NUMMER (DET CENTRALE PERSONREGISTER) OG FOLKEREGISTER]
+Søgeord: CPR, CPR-nummer, personnummer, folkeregister, bopælsregistrering, Borgerservice, ICS, International Citizen Service, logiværtserklæring, bopælsattest, flytteanmeldelse, adressebeskyttelse, skattepersonnummer, civil registration number, personal identification number, CPR number, register address, national register, proof of address, landlord declaration, change of address, administrative CPR
+
+Hvad er et CPR-nummer?
+- Et 10-cifret personnummer (DDMMÅÅ-XXXX), der identificerer enhver person med bopæl eller skattepligt i Danmark.
+- De første 6 cifre er fødselsdatoen, og de sidste 4 cifre er et løbenummer (det sidste ciffer angiver juridisk køn: ulige for mænd, lige for kvinder).
+- CPR-nummeret er nøglen til det danske samfund: sundhedsvæsen, bank, skat, lønudbetaling, uddannelse, bibliotek og forsikringer.
+- Man beholder det samme CPR-nummer hele livet, også hvis man flytter fra Danmark og senere vender tilbage.
+- CPR-nummeret er ikke hemmeligt, men det er fortroligt. Det skal kun oplyses til myndigheder, arbejdsgiver, bank, læge og andre med et sagligt behov, og det bør ikke sendes i ukrypterede e-mails eller deles på sociale medier.
+
+4.1 Hvornår skal man registreres med bopæl og få CPR-nummer?
+- Hvis man flytter til Danmark for at bo her i mere end 3 måneder (for nordiske statsborgere: mere end 6 måneder).
+- EU/EØS-borgere og schweiziske statsborgere har ret til registrering ved ophold over 3 måneder og kan i praksis vente, hvis opholdet varer under 6 måneder, men de fleste har brug for CPR-nummeret med det samme.
+- Anmeldelse om indrejse skal ske senest 5 dage efter, at betingelserne er opfyldt (dvs. man er indrejst, har et lovligt opholdsgrundlag og har en fast bopæl).
+
+4.2 De tre betingelser for at få et CPR-nummer ved tilflytning:
+- Betingelse 1: Opholdet i Danmark skal vare over 3 måneder.
+- Betingelse 2: Man skal have lovligt ophold (nordisk statsborgerskab, EU-registreringsbevis eller opholdstilladelse).
+- Betingelse 3: Man skal have en bolig eller et fast opholdssted i Danmark.
+- Kommunen kan afvise registreringen, hvis én af betingelserne ikke er dokumenteret. Afgørelsen kan påklages.
+
+4.3 Krav til bolig/adresse ved CPR-registrering:
+- Man skal have en fast bolig eller et fast opholdssted i Danmark, hvor man faktisk bor og overnatter.
+- En postboks eller en c/o-adresse uden reel beboelse er ikke gyldig.
+- Dokumentation for bolig: Underskrevet lejekontrakt, skøde på bolig, eller en logiværtserklæring (hvis man bor til leje/bor hos en anden person, som står på lejekontrakten eller ejer boligen).
+- En logiværtserklæring er en underskrevet erklæring fra den person, man bor hos, om at man reelt bor på adressen. Mange kommuner har en formular til det, og logiværten kan ofte bekræfte digitalt med MitID.
+- Fremleje: Bor man i fremleje, skal fremlejekontrakten være gyldig, og udlejer eller boligforeningen skal i nogle tilfælde have godkendt fremlejen.
+- Man kan kun have én folkeregisteradresse. Det er strafbart at lade sig registrere på en adresse, hvor man ikke bor (proformaadresse).
+
+4.4 Nødvendig dokumentation ved personligt fremmøde (Borgerservice / ICS):
+Man skal møde personligt op (ofte efter tidsbestilling) og medbringe originale dokumenter:
+- Gyldigt pas eller nationalt ID-kort (for EU/EØS-borgere).
+- EU-registreringsbevis (fra SIRI) eller opholdstilladelse (fra SIRI/Udlændingestyrelsen) – gælder ikke nordiske statsborgere.
+- Dokumentation for bopæl i Danmark (lejekontrakt, skøde eller logiværtserklæring).
+- Vielsesattest (hvis man er gift, også selvom ægtefællen ikke flytter med).
+- Fødsels- eller dåbsattest (især relevant for medfølgende børn under 18 år, samt for at dokumentere forældremyndighed).
+- Evt. skilsmisse- eller dødsattest (hvis relevant for civilstand).
+- Bemærk om dokumenter: Dokumenter på dansk, norsk, svensk, engelsk eller tysk accepteres normalt uden oversættelse. Dokumenter på andre sprog skal være oversat af en autoriseret translatør og eventuelt legaliseret/forsynet med Apostille-stempel.
+- Hvis man tidligere har boet i et andet nordisk land, skal man oplyse sit tidligere personnummer/identitetsnummer fra det pågældende land.
+
+4.5 Sådan foregår CPR-registreringen trin for trin:
+- Trin 1: Mange kommuner beder om, at man først udfylder en digital anmeldelse af indrejse ("Flytning til Danmark") på kommunens hjemmeside og uploader dokumenter.
+- Trin 2: Man bestiller tid i Borgerservice eller ICS. I de store byer kan der være ventetid, især i august og september, hvor mange internationale studerende ankommer.
+- Trin 3: Alle familiemedlemmer, der skal registreres, møder personligt op, også børn.
+- Trin 4: Kommunen kontrollerer dokumenterne og opretter CPR-nummeret. Man får normalt nummeret på papir med det samme eller i løbet af få dage.
+- Trin 5: Man vælger læge. Sundhedskortet sendes derefter med posten til adressen.
+- Registreringen er gratis.
+
+4.6 International Citizen Service (ICS):
+- Udlændinge, der flytter til Danmark for at arbejde eller studere, kan få ordnet EU-registrering, CPR-nummer, sundhedskort og skattekort samlet ét sted hos International Citizen Service (ICS) i København, Aarhus, Odense eller Aalborg.
+- ICS er et samarbejde mellem SIRI, Skattestyrelsen, kommunerne og Workindenmark. I København ligger ICS i International House Copenhagen.
+- ICS kan normalt kun bruges af borgere, der bor i eller flytter til de kommuner, som det pågældende ICS-center betjener. Bor man andre steder, bruger man SIRI's afdelinger og sin egen kommunes Borgerservice.
+- ICS vejleder også om jobsøgning, danskundervisning og hverdagsliv i Danmark.
+
+4.7 Administrativt CPR-nummer (skattepersonnummer):
+- Hvis man arbejder i Danmark i under 3 måneder (eller er grænsegænger, der bor i Sverige/Tyskland og arbejder i Danmark), skal man ikke bopælsregistreres i Folkeregistret.
+- I stedet udsteder Skattestyrelsen et administrativt CPR-nummer (skattepersonnummer) i forbindelse med ansøgning om skattekort.
+- Et administrativt CPR-nummer ligner et almindeligt CPR-nummer, men giver ikke i sig selv ret til sundhedskort, fast læge eller andre rettigheder, der er knyttet til bopæl i Danmark.
+- Hvis man senere tager bopæl i Danmark, beholder man det samme nummer, som så bliver et almindeligt CPR-nummer ved bopælsregistreringen.
+
+4.8 Flytning inden for Danmark (adresseændring):
+- Flytning skal meldes til kommunen senest 5 dage efter flytningen. Den kan meldes tidligst 4 uger før flyttedatoen.
+- Flytningen meldes digitalt med MitID på borger.dk ("Flytning"). Hele husstanden kan meldes på samme anmeldelse.
+- Ved flytning til en anden kommune eller en adresse langt fra den nuværende læge skal man vælge ny læge, og man får et nyt sundhedskort gratis.
+- Adresseændringen går automatisk videre til de fleste offentlige myndigheder, banker og forsikringsselskaber, men ikke nødvendigvis til arbejdsgiver, abonnementer og udenlandske myndigheder.
+- For sen flytteanmeldelse kan give bøde.
+
+4.9 Udrejse og længere ophold i udlandet:
+- Man skal melde udrejse til kommunen, hvis man flytter til udlandet eller opholder sig i udlandet i mere end 6 måneder.
+- Når man er registreret som udrejst, mister man sit sundhedskort og sin ret til fast læge i Danmark, men beholder sit CPR-nummer og sit MitID.
+- For tredjelandsborgere kan længere ophold i udlandet betyde, at opholdstilladelsen bortfalder (se afsnit 3.10).
+
+4.10 Bopælsattest og personattest:
+- En bopælsattest er et officielt dokument med oplysning om nuværende og tidligere adresser i Danmark. Den bestilles på borger.dk eller i Borgerservice, normalt mod et mindre gebyr, og kan fås på engelsk.
+- En personattest indeholder oplysninger fra personregistret (navn, fødsel, forældre, civilstand) og bestilles på borger.dk eller hos sognet.
+- Banker, udenlandske myndigheder og arbejdsgivere beder ofte om en bopælsattest som dokumentation for adresse (proof of address).
+
+4.11 Beskyttelse af navn, adresse og oplysninger i CPR:
+- Navne- og adressebeskyttelse ("hemmelig adresse"): Man kan bede kommunen om, at navn og adresse ikke må videregives til private. Beskyttelsen gælder normalt 1 år ad gangen og bestilles på borger.dk.
+- Reklamebeskyttelse (Robinsonlisten): Man kan frabede sig adresserede reklamer og henvendelser fra virksomheder.
+- Forskerbeskyttelse blev afskaffet for nye tilmeldinger, og oplysninger kan som udgangspunkt bruges til statistik og forskning.
+
+4.12 Navn og civilstand i CPR:
+- Navnet registreres som udgangspunkt, som det står i passet. Bogstaver, der ikke findes i det danske alfabet, kan blive omskrevet.
+- Udenlandske navneskikke (f.eks. flere efternavne eller patronymer) kan give problemer i it-systemer med begrænset feltlængde. Kontrollér stavningen ved registreringen, fordi fejl følger med til sundhedskort, bank og MitID.
+- Civilstand (gift, ugift, fraskilt, enke/enkemand) registreres ud fra de dokumenter, man fremlægger. Uden dokumentation registreres civilstanden som "uoplyst", hvilket senere kan give problemer ved f.eks. ægteskab, børneydelser og arv.
+- Navneændring søges digitalt på borger.dk og koster et gebyr, medmindre ændringen sker i forbindelse med vielse.
+
+4.13 Børn og CPR-nummer:
+- Børn født i Danmark af en mor, der er bopælsregistreret, får automatisk et CPR-nummer ved fødslen.
+- Børn, der flytter med til Danmark, registreres sammen med forældrene og skal møde personligt op med pas og fødselsattest.
+- Hvis kun den ene forælder flytter med barnet, kan kommunen bede om samtykke fra den anden forælder eller dokumentation for forældremyndighed.
+
+4.14 Hvad bruges CPR-nummeret til i hverdagen?
+- Lægebesøg, hospital, apotek og tandlæge (sundhedskortet scannes).
+- Ansættelse og løn (arbejdsgiveren indberetter løn og skat på CPR-nummer).
+- Bank, lån, forsikring, mobilabonnement og internetabonnement.
+- Uddannelse, bibliotek, daginstitution og skole.
+- Køb af bolig, bil og indgåelse af ægteskab.
+- Alle digitale selvbetjeningsløsninger via MitID.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 5: SUNDHEDSKORT, LÆGEVALG OG SUNDHEDSVÆSEN]
+Søgeord: sundhedskort, gult kort, sygesikring, sygesikringsbevis, læge, praktiserende læge, lægevagt, 1813, akut, skadestue, akutmodtagelse, 112, tandlæge, apotek, medicin, recept, psykolog, graviditet, jordemoder, vaccination, hospital, speciallæge, blåt kort, EU-sygesikringskort, tolk, health card, yellow card, health insurance, GP, doctor, general practitioner, emergency, dentist, pharmacy, prescription, pregnancy, midwife, hospital, specialist, EHIC, interpreter
+
+5.1 Det gule sundhedskort (sygesikringsbevis):
+- Når man bliver bopælsregistreret i Folkeregistret og får et CPR-nummer, bliver man automatisk omfattet af den offentlige danske sygesikring (sikringsgruppe 1 som standard).
+- Det fysiske gule sundhedskort sendes med posten til ens registrerede adresse inden for ca. 2-3 uger. Det er vigtigt, at ens navn står tydeligt på postkassen, ellers returneres brevet til kommunen.
+- Man kan også hente det digitale sundhedskort via appen "Sundhedskortet", så snart man har fået MitID. Appen gælder på lige fod med det fysiske kort.
+- Sundhedskortet giver ret til gratis behandling hos praktiserende læge, speciallæger (efter henvisning) og på offentlige hospitaler i Danmark.
+- Sundhedskortet viser navn, adresse, CPR-nummer samt lægens navn, adresse og telefonnummer.
+- Der er ingen karensperiode: Man er dækket fra den dag, man er bopælsregistreret. I ventetiden på kortet kan man bruge brevet fra kommunen eller appen som dokumentation.
+- Mistet eller ødelagt sundhedskort genbestilles på borger.dk mod et gebyr. Ved flytning får man automatisk et nyt kort uden betaling.
+- Der er politiske planer om at gøre det digitale sundhedskort til standard og nedtone det fysiske plastikkort.
+
+5.2 Sikringsgruppe 1 og sikringsgruppe 2:
+- Sikringsgruppe 1 (langt de fleste): Man har en fast praktiserende læge, behandlingen er gratis, og man skal have henvisning fra lægen for at komme til de fleste speciallæger.
+- Sikringsgruppe 2: Man kan frit vælge læge og speciallæge uden henvisning, men betaler selv en del af regningen. Gruppeskift sker på borger.dk.
+
+5.3 Valg af læge:
+- I forbindelse med CPR-registreringen vælger man en praktiserende læge (almen medicin) blandt de læger i nærområdet, der har åbent for tilgang af nye patienter.
+- Senere lægeskift kan foretages digitalt via borger.dk mod et gebyr (ca. 230-250 kr.), medmindre man flytter adresse.
+- Børn under 15 år har normalt samme læge som forældrene.
+- Den praktiserende læge er indgangen til resten af sundhedsvæsenet og kaldes ofte "egen læge". Lægen behandler selv de fleste ting og henviser videre til speciallæge, hospital, psykolog eller fysioterapeut.
+
+5.4 Sådan bruger man sin praktiserende læge:
+- Tidsbestilling sker online via lægens hjemmeside eller appen "Min Læge" eller pr. telefon, typisk om morgenen kl. 8-9.
+- Lægen har normalt åbent på hverdage kl. 8-16. De fleste læger har en ugentlig aftenkonsultation.
+- E-konsultation: Man kan skrive korte, ikke-akutte spørgsmål til lægen digitalt og forny recepter.
+- Udeblivelse uden afbud kan koste et gebyr hos nogle behandlere.
+- Mange læger taler engelsk. Har man brug for tolk, bestiller lægen tolken.
+
+5.5 Akut sygdom uden for lægens åbningstid (lægevagt og akuttelefon):
+- Ved livstruende sygdom eller alvorlig ulykke ringer man 112 (ambulance, brand, politi).
+- Ved akut, men ikke livstruende sygdom uden for lægens åbningstid ringer man til lægevagten/akuttelefonen i sin region. Man skal altid ringe først og må ikke møde op på akutmodtagelsen uden aftale.
+- Region Hovedstaden: Akuttelefonen 1813.
+- Region Sjælland: Akuttelefonen 1818.
+- Region Syddanmark: Lægevagten 70 11 07 07.
+- Region Midtjylland: Lægevagten 70 11 31 31.
+- Region Nordjylland: Lægevagten 70 15 03 00.
+- Akutmodtagelsen/skadestuen på hospitalet behandler akutte skader og sygdom. Behandlingen er gratis for personer med sundhedskort.
+- Giftlinjen (82 12 12 12) rådgiver døgnet rundt om forgiftninger.
+
+5.6 Speciallæger og hospitaler:
+- Speciallæger (f.eks. hudlæge, gynækolog, psykiater) kræver normalt henvisning fra egen læge. Øjenlæger og ørelæger kan kontaktes uden henvisning.
+- Behandling på offentlige hospitaler er gratis. Man har frit sygehusvalg mellem offentlige hospitaler i hele landet.
+- Ret til hurtig udredning: Man har ret til at blive udredt inden for 30 dage, hvis det er fagligt muligt.
+- Udvidet frit sygehusvalg: Hvis ventetiden på behandling i det offentlige overstiger en fastsat grænse (typisk 30 dage), kan man vælge et privathospital, som har aftale med regionerne, uden egenbetaling.
+
+5.7 Tandlæge:
+- Børn og unge har gratis kommunal tandpleje. Ordningen er udvidet, så den gradvist omfatter unge op til og med 21 år.
+- Voksne går til privat tandlæge og betaler det meste selv. Den offentlige sygesikring giver et mindre tilskud, som automatisk trækkes fra regningen.
+- En almindelig undersøgelse med tandrensning koster typisk nogle hundrede kroner, mens kroner, rodbehandlinger og implantater er dyre. Priserne varierer, og tandlæger skal have en prisliste.
+
+5.8 Medicin, apotek og recepter:
+- Receptpligtig medicin udskrives digitalt af lægen og kan hentes på ethvert apotek ved at vise sundhedskort. Recepterne kan ses på "Medicinkortet" på sundhed.dk eller i appen "Medicinkortet".
+- Tilskud til medicin: Det offentlige giver automatisk tilskud, som stiger med ens samlede årlige udgifter til tilskudsberettiget medicin. Voksne betaler selv de første ca. 1.100 kr. om året; derefter dækkes en stigende andel, og der er et loft over den årlige egenbetaling.
+- Håndkøbsmedicin (f.eks. smertestillende) kan købes på apoteker og i begrænset omfang i supermarkeder.
+- Mange typer medicin, der sælges frit i andre lande (f.eks. antibiotika), kræver recept i Danmark.
+- Medbragt medicin fra udlandet: Tag recept eller lægeerklæring med, og få den danske læge til at vurdere og udskrive tilsvarende medicin.
+
+5.9 Psykolog, psykiatri og mental sundhed:
+- Egen læge kan henvise til psykolog med offentligt tilskud (ca. 60 % af honoraret) ved bestemte årsager, f.eks. depression, angst, alvorlig sygdom, dødsfald i nær familie eller overgreb.
+- Unge på 18-24 år kan få gratis psykologhjælp ved let til moderat depression eller angst efter henvisning.
+- Uden henvisning betaler man selv hele prisen (typisk 1.000-1.400 kr. pr. session).
+- Psykiatrisk akutmodtagelse findes i alle regioner og kan kontaktes ved akut psykisk krise.
+- Livslinien (70 201 201) tilbyder anonym rådgivning ved selvmordstanker.
+
+5.10 Graviditet, fødsel og småbørn:
+- Graviditetsundersøgelser hos egen læge og jordemoder, scanninger, fødsel på hospital og efterfødselsbesøg er gratis.
+- Første skridt er at kontakte egen læge, som udfylder en vandrejournal og henviser til jordemoder og fødested.
+- Efter fødslen kommer en sundhedsplejerske fra kommunen på hjemmebesøg flere gange i barnets første leveår.
+- Børn tilbydes gratis forebyggende børneundersøgelser hos egen læge og gratis vaccinationer efter børnevaccinationsprogrammet.
+- Børn, der er vaccineret i udlandet, bør have vaccinationskortet med til lægen, så programmet kan tilpasses.
+
+5.11 Andre behandlere:
+- Fysioterapi: Tilskud efter henvisning fra læge (man betaler selv ca. 60 %).
+- Kiropraktor: Tilskud uden henvisning.
+- Briller og kontaktlinser betales som hovedregel af en selv. Synsprøve hos optiker er ofte gratis eller billig.
+- Høreapparat: Gratis via det offentlige efter henvisning, eller tilskud ved privat køb.
+
+5.12 Det blå EU-sygesikringskort:
+- Når man er socialt sikret i Danmark (f.eks. via arbejde eller bopæl), kan man bestille det blå EU-sygesikringskort på borger.dk, som dækker nødvendig læge- og hospitalsbehandling under midlertidige ophold i andre EU/EØS-lande og Schweiz.
+- Kortet er gratis, gælder i op til 5 år og udstedes af Udbetaling Danmark.
+- Det blå kort dækker på samme vilkår som for borgere i opholdslandet, så der kan være egenbetaling. Det dækker ikke hjemtransport.
+- Det gule sundhedskort dækker ikke længere ved rejser i udlandet. En privat rejseforsikring anbefales til alle rejser, også i EU.
+
+5.13 Sundhedsdækning for dem, der endnu ikke har CPR-nummer, og for turister:
+- Alle, der opholder sig i Danmark, har ret til akut hospitalsbehandling. Personer uden bopæl i Danmark kan blive opkrævet betaling.
+- EU-borgere på midlertidigt ophold bruger deres hjemlands blå EU-sygesikringskort.
+- Tredjelandsborgere bør have privat sygeforsikring, indtil de er bopælsregistreret.
+- Grænsegængere, der arbejder i Danmark og bor i et andet EU-land, kan få et særligt sundhedskort, som giver adgang til behandling i Danmark.
+
+5.14 Tolk i sundhedsvæsenet:
+- Behandlingsstedet bestiller en tolk, hvis lægen vurderer, at det er nødvendigt for behandlingen.
+- Der har været regler om gebyr for tolkebistand til personer, der har boet i Danmark i mere end 3 år. Spørg behandlingsstedet om de gældende regler.
+
+5.15 Private sundhedsforsikringer:
+- Mange arbejdsgivere tilbyder en privat sundhedsforsikring, som giver hurtigere adgang til f.eks. fysioterapi, psykolog og privathospital.
+- "Sygeforsikringen danmark" er en medlemsejet forsikring, der giver tilskud til bl.a. tandlæge, briller og medicin. Den er ikke en del af den offentlige sygesikring.
+
+5.16 Digitale sundhedstjenester:
+- sundhed.dk: Egen journal fra hospitaler, laboratoriesvar, henvisninger, medicinkort og vaccinationer (kræver MitID).
+- Appen "MinSundhed": Samlet adgang til sundhedsoplysninger og aftaler.
+- Appen "Min Læge": Tidsbestilling, e-konsultation og videokonsultation hos egen læge.
+- Appen "Medicinkortet": Recepter og receptfornyelse.
+- Appen "Sundhedskortet": Digitalt sundhedskort.
+- Forældre har adgang til deres børns oplysninger på sundhed.dk, indtil barnet fylder 15 år.
+
+5.17 Regionernes rolle:
+- Danmark har 5 regioner, som driver hospitalerne og betaler de praktiserende læger. Fra 2027 lægges Region Hovedstaden og Region Sjælland sammen til Region Østdanmark som led i en sundhedsreform.
+- De 98 kommuner står for bl.a. sundhedspleje, hjemmepleje, børnetandpleje, genoptræning og forebyggelse.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 6: MITID (DIGITAL IDENTITET)]
+Søgeord: MitID, digitalt ID, login, NemID, MitID-app, kodeviser, kodeoplæser, pas-scanning, vidne, vitterlighedsvidne, aktiveringskode, spærre MitID, MitID Erhverv, digital fuldmagt, digital ID, e-ID, digital signature, code display, passport scan, witness, activation code, block MitID, power of attorney
+
+Hvad er MitID?
+- MitID er Danmarks nationale digitale ID. Det bruges til at logge ind på offentlige selvbetjeningsløsninger (borger.dk, skat.dk, sundhed.dk, Digital Post), netbank, samt til at underskrive digitale dokumenter (f.eks. lejekontrakter og ansættelseskontrakter).
+- MitID har afløst NemID, som er lukket.
+- MitID er personligt. Man må aldrig dele sit bruger-ID, sin adgangskode eller sine koder med andre, heller ikke ægtefælle eller familie.
+- MitID kan fås af personer fra 13 år.
+
+6.1 Sådan får man MitID som tilflytter:
+- Forudsætning: Man skal have et CPR-nummer (eller et administrativt CPR-nummer).
+- Metode 1 (selvbetjening via MitID-appen): Hvis man har et gyldigt pas med en indbygget chip (biometrisk pas fra Danmark eller en række udvalgte lande) og en smartphone med NFC-læser, kan man scanne sit pas og sit ansigt i MitID-appen og oprette MitID hjemmefra.
+- Metode 2 (fremmøde i Borgerservice): Hvis ens pas ikke understøttes i appen, eller man ikke har et pas med chip, skal man bestille tid hos Borgerservice.
+- Krav ved fremmøde i Borgerservice for MitID:
+  * Gyldigt pas eller nationalt ID-kort.
+  * Et vidne (vitterlighedsvidne), der kan bekræfte ens identitet. Vidnet skal selv have haft aktivt MitID i mindst 30 dage, være over 18 år og møde personligt op sammen med ansøgeren med sit eget pas/kørekort.
+  * Hvis man ikke har et vidne, kan Borgerservice i visse tilfælde godkende identiteten via politiets register (hvis man har opholdstilladelse/EU-registreringsbevis udstedt af SIRI med biometri) eller ved at stille kontrolspørgsmål ud fra oplysninger i det danske CPR-register (kræver typisk, at man har været registreret i CPR i en vis periode).
+- Det er gratis at få MitID.
+
+6.2 MitID-identifikationsmidler (måder at godkende på):
+- MitID-app: Den mest brugte løsning. Man godkender login ved at åbne appen og stryge eller indtaste en PIN-kode eller bruge fingeraftryk/ansigtsgenkendelse. Appen kræver en nyere smartphone eller tablet.
+- MitID-kodeviser: En lille elektronisk enhed, der viser en engangskode. Bruges af personer uden smartphone eller som ekstra sikkerhed, hvis telefonen går i stykker.
+- MitID-kodeoplæser: En enhed, der læser koden højt, til personer med synshandicap.
+- MitID-chip: En fysisk sikkerhedsnøgle (FIDO), der giver ekstra høj sikkerhed.
+- Det anbefales at have et ekstra identifikationsmiddel (f.eks. en kodeviser eller appen på to enheder), så man ikke mister adgangen, hvis telefonen bliver væk.
+
+6.3 Bruger-ID og adgangskode:
+- Ved oprettelsen vælger man et bruger-ID. Det må ikke være ens CPR-nummer og bør ikke være let at gætte.
+- Bruger-ID'et er ikke hemmeligt på samme måde som en adgangskode, men bør holdes for sig selv, fordi andre kan spærre ens MitID midlertidigt ved at taste forkert.
+- Har man glemt sit bruger-ID, kan det findes i MitID-appen.
+
+6.4 Hvis telefonen er mistet eller skiftet:
+- Ny telefon: Man kan flytte MitID-appen til den nye telefon ved hjælp af den gamle telefon, en kodeviser eller ved at scanne sit pas igen.
+- Mistet telefon: Spær straks MitID-appen via mitid.dk eller ved at ringe til MitID-supporten (33 98 00 10, døgnåben spærring).
+- Har man ingen andre identifikationsmidler og et pas, der ikke kan scannes, må man møde op i Borgerservice igen.
+
+6.5 Sikkerhed og svindel med MitID:
+- Banker, politi og myndigheder beder aldrig om, at man oplyser sine MitID-koder eller godkender noget i appen, mens man taler i telefon med dem.
+- Godkend kun anmodninger i MitID-appen, som man selv har sat i gang, og læs altid teksten i appen, som fortæller, hvad man godkender.
+- Mistanke om misbrug: Spær MitID, kontakt banken, og anmeld sagen til politiet.
+- Typiske svindelformer rettet mod nytilflyttere er falske sms'er og e-mails fra "Skat", "MitID", "PostNord" eller "banken" med links.
+
+6.6 MitID uden CPR-nummer:
+- Det er teknisk muligt at få et MitID uden dansk CPR-nummer, men det giver ikke adgang til de offentlige tjenester, der kræver CPR-nummer. For tilflyttere er det derfor normalt nødvendigt at vente på CPR-nummeret.
+
+6.7 MitID Erhverv og fuldmagter:
+- MitID Erhverv bruges, når man handler på vegne af en virksomhed eller forening (f.eks. på virk.dk og skat.dk).
+- Digital fuldmagt: På borger.dk kan man give en anden person fuldmagt til at handle for sig i bestemte offentlige selvbetjeningsløsninger. Personen bruger så sit eget MitID.
+- Man kan også give en anden person læseadgang til sin Digital Post.
+
+6.8 Brug af MitID i andre EU-lande og udenlandsk e-ID i Danmark:
+- EU's eIDAS-regler betyder, at nogle danske offentlige tjenester kan tilgås med et godkendt digitalt ID fra et andet EU-land. Det dækker dog ikke alt, og banker kræver normalt MitID.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 7: DIGITAL POST OG KOMMUNIKATION MED DET OFFENTLIGE]
+Søgeord: Digital Post, e-Boks, mit.dk, borger.dk, post fra det offentlige, fritagelse, læseadgang, NemSMS, brev fra kommunen, digital mail, official mail, letters from authorities, exemption, e-Boks app, public digital mailbox
+
+7.1 Hvad er Digital Post?
+- I Danmark er kommunikation fra offentlige myndigheder (kommune, region, stat, hospitaler, Skat, politi) som udgangspunkt digital.
+- Når man får CPR-nummer og er fyldt 15 år, tilmeldes man automatisk Digital Post.
+- Man skal selv aktivere sin Digital Post-postkasse og tjekke den regelmæssigt, da breve i Digital Post har samme juridiske retsvirkning som fysiske breve (f.eks. indkaldelser til sygehus, skatteopgørelser og afgørelser).
+- Et brev i Digital Post anses for at være kommet frem, når det ligger i postkassen. Frister (f.eks. klagefrister og betalingsfrister) løber, uanset om man har åbnet brevet.
+
+7.2 Hvor læser man Digital Post?
+- Digital Post kan læses på borger.dk, mit.dk eller e-boks.dk (samt via de tilhørende mobilapps) ved brug af MitID.
+- Det er den samme offentlige post, der vises alle tre steder. Man vælger selv, hvilken løsning man vil bruge.
+- e-Boks og mit.dk viser også post fra private virksomheder (bank, forsikring, lønsedler, pensionsselskab), hvis man har tilmeldt dem.
+- Mange arbejdsgivere sender lønsedler til e-Boks.
+
+7.3 Notifikationer:
+- Man kan tilmelde e-mail og mobilnummer, så man får besked, når der er ny post. Det gøres i indstillingerne første gang, man logger ind.
+- NemSMS er en frivillig ordning, hvor myndigheder kan sende sms-påmindelser, f.eks. om aftaler på hospitalet.
+
+7.4 Fritagelse for Digital Post:
+- Fritagelse: Kun personer med særlige udfordringer (f.eks. fysisk/kognitiv funktionsnedsættelse, sproglige vanskeligheder, manglende adgang til computer/internet i hjemmet eller varig udrejse) kan søge om fritagelse for Digital Post ved personligt fremmøde i Borgerservice.
+- Er man fritaget, får man i stedet posten som fysiske breve.
+
+7.5 Læseadgang for andre:
+- Man kan give en ægtefælle, et familiemedlem eller en anden person læseadgang til hele eller dele af sin Digital Post. Personen logger ind med sit eget MitID.
+
+7.6 Digital Post efter fraflytning fra Danmark:
+- Postkassen findes stadig, efter man er flyttet fra Danmark, og myndigheder kan fortsat sende post til den (f.eks. årsopgørelse og pensionsbreve). Man bør derfor beholde sit MitID og fortsat tjekke posten.
+
+7.7 Hjælp til det digitale:
+- Borgerservice og bibliotekerne hjælper med at bruge borger.dk, MitID og Digital Post.
+- Den Digitale Hotline (70 20 00 00) giver telefonisk hjælp til offentlige selvbetjeningsløsninger.
+- Meget indhold på borger.dk findes på engelsk på lifeindenmark.dk.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 8: SKAT, SKATTEKORT, FORSKUDSOPGØRELSE OG ÅRSOPGØRELSE]
+Søgeord: skat, skattekort, hovedkort, bikort, frikort, forskudsopgørelse, årsopgørelse, trækprocent, fradrag, personfradrag, AM-bidrag, arbejdsmarkedsbidrag, kommuneskat, topskat, restskat, overskydende skat, TastSelv, Skattestyrelsen, forskerskatteordningen, dobbeltbeskatning, tax, tax card, preliminary income assessment, annual tax assessment, tax return, withholding rate, deductions, personal allowance, labour market contribution, tax refund, researcher tax scheme, expat tax, double taxation
+
+8.1 Skattepligt i Danmark:
+- Fuld skattepligt: Indtræder normalt den dag, man tager bopæl i Danmark og begynder at opholde sig her (eller efter 6 måneders sammenhængende ophold uden fast bopæl). Man er skattepligtig af sin globale indkomst (både dansk og udenlandsk indkomst).
+- Begrænset skattepligt: Gælder for personer, der bor i udlandet, men arbejder i Danmark (f.eks. pendlere/grænsegængere). Man beskattes kun af indkomst optjent i Danmark.
+- Skattepligten afgøres af skattereglerne og ikke af, om man har CPR-nummer eller opholdstilladelse.
+- Har man tilknytning til to lande, afgør dobbeltbeskatningsoverenskomsten mellem landene, hvor man er skattemæssigt hjemmehørende, og hvilket land der må beskatte hvilken indkomst.
+
+8.2 Skattekort og forskudsopgørelse:
+- En dansk arbejdsgiver kan ikke udbetale løn korrekt uden et digitalt skattekort. Uden skattekort trækkes der automatisk 55 % i kildeskat.
+- Sådan får man et skattekort: Man ansøger online hos Skattestyrelsen (via skat.dk) om et skattekort og udfylder sin forskudsopgørelse (forventet indkomst for resten af kalenderåret samt eventuelle fradrag som kørselsfradrag eller renteudgifter).
+- Første gang bruger man den digitale blanket "Ansøgning om skattekort/personnummer" (blanket 04.063) på skat.dk. Blanketten kan udfyldes uden MitID.
+- Ved ansøgning skal man vedhæfte sin ansættelseskontrakt, pas/ID og opholdsdokumentation. Gifte personer vedhæfter også vielsesattest.
+- Når Skattestyrelsen har behandlet ansøgningen, overføres skattekortet automatisk og digitalt til arbejdsgiveren (eIndkomst). Man skal ikke selv aflevere noget til arbejdsgiveren.
+- Behandlingstiden er typisk nogle uger. Søg derfor så tidligt som muligt, gerne før første lønudbetaling.
+
+8.3 Hovedkort, bikort og frikort:
+- Hovedkort: Bruges af den primære arbejdsgiver. Det indeholder trækprocenten og det månedlige fradrag (den del af lønnen, der ikke trækkes skat af).
+- Bikort: Bruges af øvrige arbejdsgivere eller udbetalere. Det har samme trækprocent, men intet fradrag.
+- Frikort: Bruges, hvis den samlede årsindkomst forventes at ligge under personfradraget (ca. 54.100 kr. i 2026). Så længe man tjener mindre end frikortets beløb, betaler man kun arbejdsmarkedsbidrag.
+- Arbejdsgiveren henter selv det rigtige kort. Har man flere job, kan man på skat.dk vælge, hvem der skal bruge hovedkortet.
+
+8.4 Forskudsopgørelsen i praksis:
+- Forskudsopgørelsen er ens "skattebudget" for året: forventet løn, anden indkomst, renteudgifter, fradrag og pensionsindbetalinger.
+- Den kan ændres når som helst i løbet af året på skat.dk (TastSelv) med MitID. Ændringen slår igennem på næste lønudbetaling.
+- Forskudsopgørelsen for det kommende år bliver tilgængelig i november.
+- Tilflyttere, der kun arbejder en del af året, bør angive den faktiske indkomst for perioden i Danmark. Er man kun skattepligtig en del af året, omregnes indkomsten som hovedregel til helårsindkomst (helårsomregning), så personfradrag og beløbsgrænser reelt kun gives forholdsmæssigt for den periode, man har været skattepligtig.
+- En forkert forskudsopgørelse giver enten restskat (man har betalt for lidt) eller overskydende skat (man har betalt for meget).
+
+8.5 Sådan er den danske indkomstskat bygget op (ca. 2026-niveau):
+- Arbejdsmarkedsbidrag (AM-bidrag): 8 % af bruttolønnen. Trækkes først, før øvrig skat beregnes.
+- Personfradrag: Ca. 54.100 kr. om året for personer over 18 år. Af dette beløb betales ingen indkomstskat.
+- Bundskat (til staten): Ca. 12 %.
+- Kommuneskat: Ca. 23-27 % afhængigt af kommunen (gennemsnit ca. 25 %).
+- Kirkeskat: Ca. 0,4-1,3 %, men betales kun af medlemmer af Folkekirken. Tilflyttere er ikke automatisk medlemmer.
+- Mellemskat: 7,5 % af indkomst over ca. 641.000 kr. efter AM-bidrag.
+- Topskat: Yderligere 7,5 % af indkomst over ca. 778.000 kr. efter AM-bidrag.
+- Toptopskat: Yderligere 5 % af indkomst over ca. 2,6 mio. kr. efter AM-bidrag.
+- Mellemskat, topskat og toptopskat afløste i 2026 den tidligere topskat på 15 %.
+- Beskæftigelsesfradrag og jobfradrag gives automatisk til personer med lønindkomst og reducerer skatten.
+- Tommelfingerregel: En almindelig lønmodtager betaler samlet omkring 35-40 % af lønnen i skat inklusive AM-bidrag. Marginalskatten for de højeste indkomster er ca. 56-60 %.
+
+8.6 Lønsedlen forklaret:
+- Bruttoløn: Lønnen før skat.
+- ATP-bidrag: Et lille lovpligtigt pensionsbidrag (ca. 99 kr. om måneden for en fuldtidsansat; arbejdsgiveren betaler det dobbelte).
+- Pension: Medarbejderens eget bidrag til arbejdsmarkedspension trækkes før skat.
+- AM-bidrag: 8 % af lønnen efter ATP og eget pensionsbidrag.
+- A-skat: Trækprocenten ganget med lønnen efter AM-bidrag og fradrag.
+- Nettoløn: Det beløb, der udbetales til kontoen.
+- Feriepenge eller ferietillæg, personalegoder (f.eks. fri telefon, firmabil) og eventuel fritvalgskonto fremgår også af lønsedlen.
+
+8.7 De mest almindelige fradrag:
+- Befordringsfradrag (kørselsfradrag): Gives, hvis der er mere end 24 km i alt mellem hjem og arbejde pr. dag, uanset transportmiddel. Man indberetter selv antal arbejdsdage og adresser.
+- Fagforeningskontingent: Fradrag op til et årligt loft (ca. 7.000 kr.). Indberettes automatisk af fagforeningen.
+- A-kasse-kontingent: Fuldt fradragsberettiget. Indberettes automatisk.
+- Renteudgifter: Renter af boliglån, banklån og studielån er fradragsberettigede. Danske banker indberetter automatisk; udenlandske renteudgifter skal man selv oplyse.
+- Pensionsindbetalinger: Indbetalinger til ratepension og livrente er fradragsberettigede inden for visse grænser.
+- Servicefradrag: Fradrag for visse serviceydelser i hjemmet som rengøring og børnepasning.
+- Gaver til godkendte velgørende foreninger: Fradrag op til et årligt loft.
+- Rejsefradrag og fradrag for dobbelt husførelse: Kan være relevant ved midlertidigt arbejde langt fra den sædvanlige bopæl.
+- Underholdsbidrag til børn eller tidligere ægtefælle kan give fradrag.
+
+8.8 Årsopgørelse:
+- Hvert år i marts måned danner Skattestyrelsen en årsopgørelse for det foregående kalenderår på skat.dk (TastSelv). Her opgøres, om man har betalt for meget i skat (overskydende skat udbetales til NemKonto) eller for lidt (restskat skal indbetales).
+- Man har pligt til at kontrollere årsopgørelsen og rette fejl eller mangler. Fristen for at rette er normalt 1. maj.
+- Overskydende skat udbetales typisk i april. Restskat kan betales frivilligt; ellers opkræves den med et rentetillæg, enten i rater eller via næste års forskudsopgørelse.
+- Det første år får tilflyttere ofte en årsopgørelse, der skal kontrolleres ekstra grundigt, fordi indkomst før flytningen og udenlandske forhold ikke kendes af Skattestyrelsen.
+
+8.9 Oplysningsskema og udenlandsk indkomst:
+- Personer med udenlandsk indkomst, udenlandske bankkonti, udenlandsk ejendom, udenlandske aktier eller selvstændig virksomhed får et oplysningsskema i stedet for en færdig årsopgørelse. Fristen er normalt 1. juli.
+- Som fuldt skattepligtig skal man oplyse udenlandske renter, udbytter, lejeindtægter, pension og løn. Dobbeltbeskatning undgås ved lempelse (credit eller eksemption) efter dobbeltbeskatningsoverenskomsten.
+- Udenlandske bankkonti og værdipapirdepoter skal oplyses til Skattestyrelsen. Landene udveksler automatisk kontooplysninger (CRS).
+- Ejer man fast ejendom i udlandet, skal man oplyse om den, og der kan skulle betales dansk ejendomsværdiskat.
+
+8.10 Aktier, investering og kryptovaluta:
+- Aktieindkomst (gevinst og udbytte) beskattes med 27 % op til en årlig grænse (ca. 67.500 kr. i 2025; det dobbelte for ægtepar) og 42 % af beløb derover.
+- Ved tilflytning får aktier og andre værdipapirer en skattemæssig indgangsværdi svarende til markedsværdien på tilflytningstidspunktet, så kun værdistigning efter flytningen beskattes i Danmark.
+- Aktiesparekonto: En særlig konto med lav skat (17 %) og et loft over indskud.
+- Investeringsfonde og ETF'er kan være lagerbeskattede (skat af årets værdistigning, også uden salg).
+- Gevinst på kryptovaluta er skattepligtig og skal selv oplyses.
+- Ved fraflytning fra Danmark kan der blive beregnet fraflytterskat (exitskat) af større aktiebeholdninger og af pensionsordninger.
+
+8.11 Særlige skatteordninger (forskerskatteordningen / 27 %-ordningen):
+- Højtlønnede medarbejdere og forskere, der rekrutteres fra udlandet og ikke har været skattepligtige i Danmark de seneste 10 år, kan under strenge betingelser (bl.a. et fastsat minimumsbeløb for månedsløn, der reguleres årligt) søge om at blive beskattet efter forskerskatteordningen (bruttoskat på 27 % + 8 % arbejdsmarkedsbidrag i op til 7 år). Ansøgning skal indgives af arbejdsgiveren.
+- Den samlede skat på ordningen er 32,84 % af lønnen, og man kan ikke bruge fradrag i den indkomst.
+- Minimumslønnen var ca. 78.000 kr. om måneden i 2025 (efter ATP). Det er politisk besluttet at sænke lønkravet mærkbart fra 2026 (til omkring 63.000 kr. om måneden). Tjek det aktuelle beløb på skat.dk.
+- Godkendte forskere er undtaget fra lønkravet.
+- Ordningen skal vælges ved ansættelsens start, og arbejdsgiveren skal være dansk eller have fast driftssted i Danmark.
+- Efter de 7 år (84 måneder) overgår man til almindelig beskatning.
+
+8.12 Grænsegængere og pendlere:
+- Personer, der bor i udlandet og arbejder i Danmark, er begrænset skattepligtige og betaler dansk skat af den danske løn.
+- Grænsegængerreglen: Tjener man mindst 75 % af sin samlede indkomst i Danmark, kan man vælge at få de samme fradrag som fuldt skattepligtige (f.eks. renteudgifter og befordring).
+- Mellem Danmark og Sverige gælder Øresundsaftalen, og mellem Danmark og Tyskland en dobbeltbeskatningsoverenskomst med særlige regler for hjemmearbejde.
+- Arbejdsudleje: Udenlandske medarbejdere, der udlejes til en dansk virksomhed, beskattes efter særlige regler med en bruttoskat.
+
+8.13 Andre skatter og afgifter, som tilflyttere møder:
+- Moms: 25 % på næsten alle varer og tjenester, også fødevarer. Priser i butikker er altid inklusive moms.
+- Registreringsafgift på biler (se afsnit om bil).
+- Ejendomsskat (grundskyld) og ejendomsværdiskat for boligejere.
+- Afgifter på el, benzin, tobak, alkohol, sukkerholdige varer og emballage (pant).
+- Medielicensen er afskaffet; DR finansieres via skatten.
+- Gaver og arv: Gaver over en årlig grænse mellem nære familiemedlemmer er afgiftspligtige. Gaver fra udlandet til personer bosat i Danmark kan også være omfattet.
+
+8.14 Kontakt og hjælp om skat:
+- Skattestyrelsen kan kontaktes på telefon 72 22 18 18 og via skat.dk. Der er engelsksproget vejledning på skat.dk/english.
+- Skattestyrelsen sender aldrig sms'er eller e-mails med links, hvor man skal oplyse kortoplysninger for at få penge tilbage. Overskydende skat udbetales altid automatisk til NemKonto.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 9: BANKKONTO, NEMKONTO OG BETALING]
+Søgeord: bank, bankkonto, lønkonto, NemKonto, basal betalingskonto, hvidvask, KYC, netbank, MobilePay, Dankort, betalingskort, Betalingsservice, IBAN, kredit, lån, RKI, bank account, open account, salary account, basic payment account, anti-money laundering, online banking, debit card, direct debit, credit check, loan
+
+9.1 Oprettelse af dansk bankkonto:
+- For at modtage løn fra en dansk arbejdsgiver og betale regninger (Betalingsservice/MobilePay) er en dansk bankkonto i praksis nødvendig.
+- Hvidvaskregler (KYC - Know Your Customer): Danske banker har skrappe lovkrav til identifikation og dokumentation.
+- Hvad kræver banken typisk?
+  * CPR-nummer.
+  * Gyldigt pas (nogle banker kræver pas frem for nationalt ID-kort).
+  * Dansk folkeregisteradresse.
+  * Ansættelseskontrakt eller studiebevis (dokumentation for formålet med kundeforholdet og midlernes oprindelse).
+  * Skatteidentifikationsnummer (TIN - Tax Identification Number) fra ens hjemland.
+  * MitID (gør processen markant hurtigere).
+- Behandlingstid: Det kan tage fra få dage til flere uger at få oprettet en konto i en dansk bank. Det anbefales at kontakte banken i god tid.
+- Ret til basal betalingskonto: Alle med lovligt ophold i EU har efter dansk lovgivning ret til en basal betalingskonto i en dansk bank, medmindre særlige hvidvaskmæssige årsager taler imod.
+
+9.2 Basal betalingskonto og afslag fra banken:
+- En basal betalingskonto er en konto med de grundlæggende funktioner: indsætte og hæve penge, modtage løn, betale regninger og have et betalingskort. Der er et loft over, hvad banken må tage i gebyr.
+- Banken skal behandle anmodningen inden for ca. 10 bankdage og må kun afslå af bestemte grunde, f.eks. hvis hvidvaskreglerne ikke kan overholdes.
+- Et afslag skal være skriftligt og begrundet. Man kan klage til bankens klageansvarlige og derefter til Det finansielle ankenævn.
+- En basal betalingskonto giver ikke ret til kredit, lån eller kassekredit.
+
+9.3 Valg af bank:
+- De største banker i Danmark er bl.a. Danske Bank, Nordea, Jyske Bank, Nykredit Bank, Sydbank og Arbejdernes Landsbank. Der findes også mange lokale sparekasser og rent digitale banker.
+- Flere banker har særlige afdelinger eller forløb for internationale kunder og kan betjene på engelsk.
+- Sammenlign gebyrer for konto, kort og udenlandske overførsler. Mange banker tager et månedligt kundegebyr.
+- Renten på almindelige lønkonti er lav. Opsparing forrentes bedre på særlige opsparingskonti.
+
+9.4 Betalingskort og betaling i hverdagen:
+- Dankort er det nationale debetkort og udstedes oftest som et kombineret Visa/Dankort. Mange banker udsteder også Mastercard Debit.
+- Danmark er næsten kontantløst. Kort, mobilbetaling (Apple Pay/Google Pay) og MobilePay bruges overalt, og nogle butikker tager ikke imod kontanter om aftenen.
+- Nye kunder får ofte først et debetkort med saldokontrol. Kreditkort kræver en kreditvurdering.
+- Kort og pinkode sendes i hvert sit brev til folkeregisteradressen. Navnet skal stå på postkassen.
+
+9.5 MobilePay:
+- MobilePay er en meget udbredt app til at overføre penge mellem privatpersoner og betale i butikker og webshops.
+- Kravene er normalt et dansk CPR-nummer, et dansk mobilnummer, en konto i en dansk bank og MitID. Brugere skal være mindst 13 år.
+- Uden MobilePay kan det være besværligt at dele regninger, købe brugt og betale små beløb i foreninger og på loppemarkeder.
+
+9.6 Betalingsservice og regninger:
+- Betalingsservice (BS) er en ordning, hvor faste regninger (husleje, el, forsikring, telefon) trækkes automatisk fra kontoen. Man tilmelder hver regning i netbanken eller via regningens oplysninger.
+- Indbetalingskort har en kode, der begynder med +71, +73 eller +75, og betales i netbanken.
+- Betales en regning for sent, kommer der rykkergebyrer (typisk 100 kr. pr. rykker) og renter. Ubetalte regninger kan ende hos inkasso og føre til registrering som dårlig betaler.
+
+9.7 NemKonto:
+- En NemKonto er en helt almindelig bankkonto, som man udpeger som sin primære konto over for det offentlige.
+- Alle udbetalinger fra offentlige myndigheder (overskydende skat, SU, børne- og ungeydelse, boligstøtte, dagpenge, pension) indsættes automatisk på NemKonto.
+- Oprettelse af NemKonto: Når man åbner en dansk bankkonto, kan banken registrere kontoen som NemKonto med det samme. Man kan også selv registrere eller ændre sin NemKonto på nemkonto.dk med MitID.
+- Udenlandsk konto som NemKonto: Det er også muligt at registrere en udenlandsk bankkonto (med IBAN og BIC/SWIFT) som NemKonto via nemkonto.dk (kræver evt. manuel godkendelse med dokumentation for kontoejerskab).
+- Man kan kun have én NemKonto ad gangen. Arbejdsgivere kan også udbetale løn til NemKonto, hvis man ikke har oplyst et andet kontonummer.
+- Har man ingen NemKonto, kan udbetalinger fra det offentlige blive forsinket eller sendt som en anvisning.
+
+9.8 Overførsler til og fra udlandet:
+- Overførsler i euro inden for EU/EØS (SEPA) er billige og hurtige. Overførsler i andre valutaer og til lande uden for EU koster gebyr og en vekselkurs-margin.
+- Den danske krone (DKK) har fast kurs over for euroen (ca. 7,46 kr. pr. euro).
+- Banker kan spørge til formålet med større overførsler og bede om dokumentation på grund af hvidvaskreglerne.
+- Ved indrejse til eller udrejse fra EU skal kontanter på 10.000 euro eller mere angives til tolden.
+
+9.9 Lån, kredit og kreditvurdering:
+- Danmark har ikke et centralt system med en personlig kreditscore som i f.eks. USA. Banker vurderer i stedet indkomst, gæld og rådighedsbeløb ud fra lønsedler, årsopgørelse og kontoudtog.
+- RKI og Debitor Registret er private registre over dårlige betalere. Er man registreret, er det svært at få lån, mobilabonnement og lejebolig.
+- Tilflyttere har ingen dansk kredithistorik og kan derfor opleve krav om depositum, f.eks. ved mobilabonnement.
+- Boliglån: Køb af bolig finansieres typisk med realkreditlån (op til 80 % af prisen), banklån (op til 15 %) og egen udbetaling (mindst 5 %).
+- Hurtiglån og forbrugslån har høje omkostninger og bør undgås.
+
+9.10 Svindel og sikkerhed:
+- Banken beder aldrig om MitID-koder, pinkoder eller om at flytte penge til en "sikker konto".
+- Udlån af bankkonto til andre (muldyrsvirksomhed) er strafbart, også hvis man blot har "hjulpet en bekendt".
+- Mistet kort spærres døgnet rundt hos Nets/bankens spærreservice eller i bankens app.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 10: BOLIG, LEJEKONTRAKT OG BOLIGKØB]
+Søgeord: bolig, lejebolig, lejlighed, værelse, lejekontrakt, typeformular, depositum, forudbetalt leje, indflytningssyn, fraflytning, opsigelse, huslejenævn, fremleje, almen bolig, boligforening, andelsbolig, ejerbolig, boligstøtte, boligsikring, kollegium, boligsvindel, housing, rent, apartment, room, lease, tenancy agreement, deposit, prepaid rent, move-in inspection, notice period, rent tribunal, sublet, social housing, housing association, cooperative housing, buy property, housing benefit, dormitory, rental scam
+
+10.1 Boligmarkedet for tilflyttere:
+- Det er svært og dyrt at finde bolig i København og Aarhus, især i august og september. Begynd boligsøgningen før ankomst.
+- Private lejeboliger findes bl.a. via boligportaler som BoligPortal, Lejebolig.dk, Findbolig.nu og DBA samt via Facebook-grupper og netværk. Nogle portaler kræver betalt abonnement for at kontakte udlejere.
+- Almene boliger (sociale boliger) udlejes af boligorganisationer efter venteliste. Det koster et mindre årligt gebyr at stå på listen, og ventetiden i de store byer er ofte mange år. Alle kan skrive sig op.
+- Kommunen kan i særlige sociale tilfælde anvise en bolig, men har normalt ikke pligt til at skaffe bolig til tilflyttere.
+- Mange arbejdsgivere og relocation-bureauer hjælper internationale medarbejdere med at finde bolig.
+
+10.2 Boligtyper:
+- Lejebolig: Privat udlejning eller almen bolig.
+- Værelse: Et værelse i en andens bolig, ofte med adgang til køkken og bad. Lejeren har svagere beskyttelse, og opsigelsesvarslet er kortere.
+- Kollegium og ungdomsbolig: For studerende og unge under uddannelse. Ansøgning sker via centrale ventelister i studiebyerne.
+- Andelsbolig: Man køber en andel i en forening, som ejer ejendommen, og får brugsret til en lejlighed. Prisen er lavere end ejerbolig, men kan normalt ikke finansieres med realkreditlån.
+- Ejerbolig: Ejerlejlighed eller hus, som man ejer fuldt ud.
+
+10.3 Lejekontrakt og depositum:
+- Ved leje af bolig i Danmark anvendes næsten altid standardformularen "Typeformular A, 10. udgave".
+- Det er lovligt og normalt, at udlejer kræver op til 3 måneders husleje i depositum samt op til 3 måneders forudbetalt leje ved indflytning.
+- Sammen med den første måneds leje kan indflytningen derfor koste op til 7 måneders husleje.
+- Lejekontraktens § 11 indeholder særlige vilkår, som afviger fra lejeloven. Læs dem grundigt, f.eks. om vedligeholdelse, husdyr, rygning og istandsættelse ved fraflytning.
+- Lejekontrakten bør altid være skriftlig og underskrevet af begge parter. Underskriften sker ofte digitalt med MitID.
+- Depositum og forudbetalt leje bør betales ved bankoverførsel, så der er dokumentation. Betal aldrig kontant uden kvittering.
+
+10.4 Indflytning og indflytningssyn:
+- Udlejere, der udlejer mere end én bolig, har pligt til at holde indflytningssyn sammen med lejeren og udarbejde en indflytningsrapport.
+- Lejeren har 14 dage fra lejeforholdets start til skriftligt at melde fejl og mangler til udlejeren, så lejeren ikke hæfter for dem ved fraflytning.
+- Tag billeder af hele boligen ved indflytning med dato, og gem dem sammen med rapporten.
+- Aflæs målere for el, vand og varme på indflytningsdagen.
+
+10.5 Husleje, forbrug og huslejestigninger:
+- Huslejen betales forud, normalt den 1. i måneden.
+- Ud over huslejen betales typisk aconto for varme og vand. En gang om året laves et forbrugsregnskab, hvor man enten får penge tilbage eller skal betale ekstra.
+- Huslejen kan reguleres efter reglerne i lejeloven, f.eks. efter nettoprisindekset, hvis det er aftalt i kontrakten. Udlejer kan ikke frit sætte lejen op.
+- Mener man, at huslejen er for høj, kan man få den prøvet ved huslejenævnet.
+
+10.6 Opsigelse og tidsbegrænsede lejemål:
+- Lejeren kan normalt opsige en lejlighed med 3 måneders varsel til den 1. i en måned. For enkeltværelser er varslet typisk 1 måned.
+- Udlejer kan kun opsige lejeren i særlige tilfælde, f.eks. hvis udlejeren selv skal bo i boligen (med 1 års varsel), eller ved lejerens misligholdelse.
+- Tidsbegrænset lejekontrakt: Lejemålet ophører automatisk på slutdatoen. Tidsbegrænsningen skal være begrundet i udlejerens forhold. I perioden kan lejeren normalt opsige, medmindre andet er aftalt.
+- Betales huslejen ikke til tiden, kan udlejer sende et påkrav med gebyr og efter en frist på 14 dage ophæve lejemålet.
+
+10.7 Fraflytning og tilbagebetaling af depositum:
+- Boligen skal afleveres i samme stand som ved indflytning, bortset fra almindeligt slid og ælde. Udlejer må kun kræve istandsættelse, der er nødvendig, og kan ikke kræve nyistandsættelse, hvis boligen ikke var nyistandsat ved indflytning.
+- Udlejere med mere end én bolig skal holde fraflytningssyn og udlevere en fraflytningsrapport. Krav om istandsættelse skal rejses inden for korte frister.
+- Depositum bruges til at dække istandsættelse og eventuel manglende leje. Resten skal tilbagebetales inden for rimelig tid, typisk 1-2 måneder, sammen med en opgørelse.
+- Uenighed om depositum er den mest almindelige konflikt mellem lejere og udlejere og kan indbringes for huslejenævnet.
+
+10.8 Hjælp ved konflikter om lejebolig:
+- Huslejenævnet i kommunen afgør tvister om husleje, depositum, vedligeholdelse og forbrugsregnskaber i private lejeboliger. Det koster et gebyr på nogle hundrede kroner at indbringe en sag.
+- Beboerklagenævnet behandler tilsvarende sager i almene boliger.
+- Lejernes Landsorganisation (LLO) og andre lejerforeninger rådgiver og hjælper medlemmer.
+- Reglerne står i lejeloven, som i høj grad beskytter lejeren og ikke kan fraviges til skade for lejeren.
+
+10.9 Fremleje og delebolig:
+- En lejer må fremleje højst halvdelen af boligens værelser uden udlejers tilladelse, hvis antallet af beboere ikke overstiger antallet af beboelsesrum.
+- Hele lejligheden må fremlejes i op til 2 år ved midlertidigt fravær (f.eks. studieophold, udstationering eller sygdom), medmindre udlejer har en rimelig grund til at nægte.
+- Fremlejekontrakten skal være skriftlig, og udlejer skal have en kopi. Fremlejetageren kan normalt bopælsregistreres på adressen.
+- Ulovlig fremleje kan betyde, at begge parter mister boligen.
+
+10.10 Boligsvindel - advarselstegn:
+- Udlejeren er "i udlandet" og kan ikke vise boligen frem.
+- Man bliver bedt om at betale depositum, før man har set boligen og underskrevet en kontrakt.
+- Betaling skal ske via pengeoverførselstjenester, kryptovaluta eller til en udenlandsk konto.
+- Prisen er påfaldende lav for området, eller udlejeren presser på for en hurtig beslutning.
+- Udlejeren vil ikke lade en bopælsregistrere sig på adressen. Det tyder på ulovlig fremleje og betyder, at man ikke kan få CPR-nummer.
+- Tjek, hvem der ejer boligen, på tinglysning.dk eller i BBR/OIS, og bed om at se udlejerens legitimation.
+
+10.11 Boligstøtte:
+- Bor man til leje i en helårsbolig med eget køkken, kan man søge om boligstøtte (økonomisk tilskud til huslejen) via borger.dk. Størrelsen afhænger af huslejen, boligens areal, antal beboere og husstandens samlede indkomst og formue.
+- Boligstøtte administreres af Udbetaling Danmark og hedder boligsikring for de fleste og boligydelse for pensionister.
+- Man kan normalt ikke få boligstøtte til et værelse uden eget køkken. Ansøgning bør indsendes inden for 30 dage efter indflytning for at få støtte fra indflytningsdatoen.
+- Alle i husstanden skal være bopælsregistreret på adressen, og ændringer i indkomst eller husstand skal meldes til Udbetaling Danmark.
+- Kommunen kan give lån til beboerindskud i almene boliger, hvis indkomsten er lav.
+
+10.12 Køb af bolig som udlænding:
+- Personer, der ikke har bopæl i Danmark og ikke tidligere har boet her i sammenlagt 5 år, skal som udgangspunkt have tilladelse fra Civilstyrelsen for at købe fast ejendom.
+- EU/EØS-borgere kan købe en helårsbolig uden tilladelse, hvis boligen skal bruges som deres faste bopæl eller til erhverv, mod at afgive en erklæring om det.
+- Tredjelandsborgere med opholds- og arbejdstilladelse får normalt tilladelse til at købe en helårsbolig, som de selv skal bo i, eventuelt med vilkår om salg, hvis de forlader landet.
+- Sommerhuse og fritidsboliger er omfattet af skrappe regler, og udlændinge får kun tilladelse ved særlig stærk tilknytning til Danmark.
+- Et boligkøb involverer typisk ejendomsmægler (sælgers repræsentant), egen køberrådgiver eller advokat, bank og realkreditinstitut. Handlen registreres ved digital tinglysning mod en tinglysningsafgift.
+- Boligejere betaler ejendomsskat (grundskyld) og ejendomsværdiskat samt eventuelle fællesudgifter til ejerforeningen.
+
+10.13 Husorden og naboskab:
+- De fleste ejendomme har en husorden med regler om støj (typisk ro efter kl. 22 på hverdage), vasketider, affald, husdyr og brug af fællesarealer.
+- Husdyr er ofte forbudt eller kræver tilladelse i lejeboliger.
+- Det er normalt selv at stå for rengøring af trappe eller snerydning i mindre ejendomme, hvis det står i kontrakten.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 11: EL, VAND, VARME, INTERNET, MOBIL, AFFALD, POST OG FORSIKRING]
+Søgeord: el, strøm, elleverandør, elpris, vand, varme, fjernvarme, internet, bredbånd, fiber, mobilabonnement, taletidskort, SIM-kort, affald, affaldssortering, genbrug, pant, postkasse, post, pakke, forsikring, indboforsikring, ansvarsforsikring, ulykkesforsikring, electricity, power supplier, utilities, water, heating, district heating, broadband, mobile subscription, prepaid SIM, waste sorting, recycling, bottle deposit, mailbox, parcel, insurance, home contents insurance, liability insurance
+
+11.1 El:
+- Man skal selv tilmelde sig en elleverandør, når man flytter ind, ellers risikerer man at få lukket for strømmen. Priser og produkter kan sammenlignes på elpris.dk.
+- Elregningen består af selve elprisen (til elleverandøren), transport (til netselskabet) og afgifter og moms (til staten). Afgifter og transport udgør en stor del af regningen.
+- De fleste har timeafregning, hvor elprisen varierer time for time. Strømmen er typisk dyrest om morgenen og mellem kl. 17 og 21 og billigst om natten.
+- Tilmelding kræver normalt CPR-nummer. Ved flytning skal man melde flytning til elleverandøren.
+- Stikkontakter i Danmark har en særlig dansk jordforbindelse (type K), men almindelige europæiske stik (type C og F) passer i kontakterne. Netspændingen er 230 volt.
+
+11.2 Vand og varme:
+- Vand og varme afregnes ofte aconto via huslejen til udlejer, men i visse boliger skal man selv tilmelde sig forsyningsselskabet.
+- Fjernvarme er den mest udbredte opvarmning i byerne. I huse findes også varmepumpe, naturgas og træpiller.
+- Vandet fra hanen kan drikkes overalt i Danmark og er af høj kvalitet. Vand er relativt dyrt, fordi prisen inkluderer afledning af spildevand og afgifter.
+- Luft ud flere gange dagligt i kort tid for at undgå fugt og skimmelsvamp. Lejere kan blive holdt ansvarlige for skader, der skyldes manglende udluftning.
+
+11.3 Internet og tv:
+- Internet leveres via fiber, kabel-tv-net, kobber (DSL) eller mobilt bredbånd (4G/5G). Udbuddet afhænger af adressen.
+- I mange lejligheder er der en fælles aftale gennem ejendommen eller antenneforeningen, som kan være obligatorisk eller give rabat.
+- Abonnementer har typisk en bindingsperiode på højst 6 måneder for private.
+- Der er ingen tv-licens. De offentlige kanaler fra DR kan ses gratis via DRTV.
+
+11.4 Mobiltelefon:
+- Taletidskort (forudbetalt SIM-kort) kan købes i kiosker og supermarkeder uden CPR-nummer og er en god løsning de første uger.
+- Mobilabonnement kræver normalt CPR-nummer og ofte en kreditvurdering eller betaling med betalingskort.
+- Et dansk mobilnummer (+45, 8 cifre) er i praksis nødvendigt til MobilePay, bank, læge og kontakt med myndigheder.
+- EU's roamingregler betyder, at abonnementer fra andre EU-lande kan bruges i Danmark til hjemlandets priser i en periode, men ikke permanent.
+
+11.5 Affald, genbrug og pant:
+- Husholdninger skal sortere affald i en række fraktioner: madaffald, papir, pap, glas, metal, plast, mad- og drikkekartoner, tekstiler, farligt affald og restaffald. Ordningerne og beholderne varierer fra kommune til kommune.
+- Storskrald, elektronik, møbler og haveaffald afleveres på genbrugspladsen eller hentes efter kommunens ordning.
+- Pant: Der er pant på de fleste flasker og dåser med øl, sodavand, vand og juice. Pantmærke A giver 1 kr., B giver 1,50 kr. og C giver 3 kr. Emballagen afleveres i pantautomater i supermarkeder.
+- Batterier og elektronik må ikke komme i restaffaldet.
+
+11.6 Postkasse, breve og pakker:
+- Beboerens fulde navn skal stå tydeligt på postkassen ved boligen. Uden navn på postkassen bliver breve ikke leveret, herunder sundhedskort, bankkort og pinkoder.
+- Alle voksne i husstanden skal stå på postkassen, også fremlejere og logerende.
+- PostNord er stoppet med at omdele breve i Danmark, og brevomdeling varetages nu af andre distributører som DAO. Breve kommer ikke nødvendigvis hver dag.
+- Pakker leveres af bl.a. PostNord, GLS, DAO, Bring og DHL, oftest til pakkeshops og pakkebokse, hvor de hentes med en kode.
+- Man kan sætte et "Reklamer - Nej tak"-mærke på postkassen for at undgå uadresserede reklamer.
+- Ved varer bestilt fra lande uden for EU skal der betales moms (25 %) og eventuelt told samt et ekspeditionsgebyr.
+
+11.7 Forsikringer, som de fleste i Danmark har:
+- Indboforsikring (familieforsikring): Dækker ens ejendele ved brand, tyveri og vandskade. Den indeholder næsten altid en ansvarsforsikring og retshjælpsforsikring. Udlejers forsikring dækker kun bygningen, ikke lejerens ting.
+- Ansvarsforsikring: Dækker, hvis man kommer til at skade andre personer eller deres ting. Det er ikke lovpligtigt for privatpersoner, men anses for nødvendigt.
+- Ulykkesforsikring: Giver erstatning ved varige mén efter ulykker. Arbejdsgiverens forsikring dækker kun i arbejdstiden.
+- Rejseforsikring: Nødvendig ved rejser, da det gule sundhedskort ikke dækker i udlandet.
+- Bilforsikring: Ansvarsforsikring er lovpligtig for alle motorkøretøjer. Kasko er frivillig.
+- Hundeforsikring: Ansvarsforsikring er lovpligtig for alle hunde.
+- Husforsikring: For boligejere.
+- Livsforsikring og forsikring ved kritisk sygdom og tab af erhvervsevne er ofte en del af arbejdsmarkedspensionen.
+- Forsikringsselskaber spørger efter CPR-nummer og tidligere skadeshistorik. Dokumentation for skadefri år fra udlandet kan give rabat på bilforsikringen.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 12: ARBEJDSMARKED, ANSÆTTELSE, LØN, FERIE OG BARSEL]
+Søgeord: arbejde, job, jobsøgning, ansættelseskontrakt, ansættelsesbevis, løn, mindsteløn, overenskomst, fagforening, funktionær, opsigelse, prøvetid, arbejdstid, overarbejde, ferie, feriepenge, FerieKonto, sygdom, sygedagpenge, barsel, barselsdagpenge, arbejdsmiljø, Arbejdstilsynet, helligdage, work, employment, job search, employment contract, salary, minimum wage, collective agreement, trade union, notice period, probation, working hours, overtime, holiday, holiday pay, sick leave, parental leave, maternity leave, paternity leave, working environment, public holidays
+
+12.1 Jobsøgning i Danmark:
+- Job findes bl.a. på Jobnet.dk (det offentlige jobsite), Jobindex.dk, LinkedIn, virksomhedernes egne hjemmesider og via vikarbureauer.
+- Workindenmark.dk er den offentlige engelsksprogede jobportal for internationale ansøgere og giver gratis hjælp til jobsøgning.
+- EURES er EU's jobportal for job på tværs af landegrænser.
+- Mange job besættes gennem netværk og uopfordrede ansøgninger. Det er almindeligt at kontakte en virksomhed direkte.
+- Et dansk CV er kort (1-2 sider), omvendt kronologisk og følges af en målrettet ansøgning på højst én side. Foto er valgfrit. Arbejdsgiveren kan bede om referencer og i nogle job en straffeattest eller børneattest.
+
+12.2 Ansættelseskontrakt:
+- Har man en arbejdstid på over 3 timer om ugen i gennemsnit over 4 uger, har man krav på et skriftligt ansættelsesbevis/ansættelseskontrakt senest 7 dage (for væsentlige vilkår) eller 1 måned efter ansættelsens start.
+- Kontrakten skal bl.a. oplyse arbejdssted, stillingsbetegnelse, startdato, løn og tillæg, arbejdstid, ferie, opsigelsesvarsler, prøvetid og hvilken overenskomst der gælder.
+- Læs kontrakten grundigt, før den underskrives. En fagforening kan gennemgå den for medlemmer.
+- Særlige klausuler som konkurrence- og kundeklausuler begrænser, hvad man må efter jobbet, og skal opfylde lovkrav om bl.a. kompensation.
+
+12.3 Den danske model, overenskomster og løn:
+- Det danske arbejdsmarked er baseret på "den danske model", hvor løn og arbejdsvilkår i høj grad aftales mellem fagforeninger og arbejdsgiverorganisationer (overenskomster). Der er ingen lovbestemt mindsteløn i Danmark.
+- En overenskomst fastsætter typisk mindsteløn, tillæg for overarbejde og skæve arbejdstider, pension, løn under sygdom og barsel, ekstra feriedage og opsigelsesvarsler.
+- Er arbejdspladsen ikke dækket af en overenskomst, gælder kun lovgivningen og det, der står i den individuelle kontrakt. Det er derfor vigtigt selv at forhandle løn og pension.
+- Mindstelønnen i de fleste overenskomster ligger i størrelsesordenen 130-150 kr. i timen for voksne ufaglærte, men varierer mellem brancher.
+- Lønnen udbetales normalt månedsvis bagud, sidst på måneden, til ens bankkonto. Løn forhandles typisk en gang om året.
+- Sort arbejde (arbejde uden skat) er ulovligt og giver ingen ret til feriepenge, pension, forsikring ved arbejdsskade eller dagpenge.
+
+12.4 Funktionærloven og opsigelse:
+- Funktionærer er ansatte med kontor-, handels-, lager- eller tekniske opgaver eller ledelsesopgaver, der arbejder mere end 8 timer om ugen. De er dækket af funktionærloven.
+- Prøvetid: Der kan aftales en prøvetid på op til 3 måneder, hvor arbejdsgiveren kan opsige med 14 dages varsel.
+- Arbejdsgiverens opsigelsesvarsel efter funktionærloven stiger med ancienniteten: 1 måned i de første ca. 6 måneder, derefter 3 måneder og gradvist op til 6 måneder efter ca. 9 års ansættelse.
+- Medarbejderens eget opsigelsesvarsel er 1 måned til udgangen af en måned.
+- For ikke-funktionærer står varslerne i overenskomsten eller kontrakten og er ofte kortere.
+- En opsigelse skal være sagligt begrundet. Usaglig opsigelse kan give ret til godtgørelse. Det er ulovligt at opsige nogen på grund af graviditet, barsel, køn, alder, handicap, religion, etnicitet, seksuel orientering eller fagforeningsmedlemskab.
+
+12.5 Arbejdstid:
+- En normal fuldtidsuge er 37 timer, typisk fordelt på mandag til fredag. Frokostpausen er ofte 30 minutter og kan være betalt eller ubetalt.
+- Den gennemsnitlige ugentlige arbejdstid må ikke overstige 48 timer inklusive overarbejde, målt over 4 måneder. Man har ret til 11 timers hvile i døgnet og et ugentligt fridøgn.
+- Arbejdsgivere skal have et system til at registrere medarbejdernes daglige arbejdstid.
+- Fleksible arbejdstider og hjemmearbejde er udbredt, og der er stor respekt for, at medarbejdere går tidligt for at hente børn.
+- Overarbejde afregnes efter overenskomst eller kontrakt. For mange funktionærer er overarbejde inkluderet i lønnen.
+
+12.6 Fagforening:
+- Fagforening: Varetager dine rettigheder på arbejdspladsen, yder juridisk hjælp og tjekker ansættelseskontrakter. Medlemskab er frivilligt og fradragsberettiget i skat (op til et årligt loft).
+- De fleste fagforeninger er opdelt efter fag eller uddannelse (f.eks. 3F, HK, IDA, Djøf, Dansk Sygeplejeråd, Dansk Magisterforening). Der findes også tværfaglige ("gule") fagforeninger, som er billigere, men som normalt ikke forhandler overenskomster.
+- Fagforeningen kan føre sag for medlemmet ved manglende løn, usaglig fyring, arbejdsskade og konkurs.
+- Mange fagforeninger tilbyder vejledning på engelsk og særlige tilbud til internationale medlemmer.
+- Tillidsrepræsentanten er kollegernes valgte repræsentant på arbejdspladsen og første kontakt ved problemer.
+
+12.7 Ferieloven og feriepenge:
+- Alle lønmodtagere i Danmark optjener 2,08 feriedage med løn eller feriegodtgørelse (12,5 % af lønnen) pr. måned, hvilket svarer til 5 ugers (25 dages) betalt ferie om året.
+- Danmark har samtidighedsferie: Optjent ferie kan afholdes allerede måneden efter, den er optjent. Optjeningsåret løber fra 1. september til 31. august, og ferien kan afholdes i ferieafholdelsesperioden fra 1. september til 31. december året efter (16 måneder).
+- Månedslønnede får normalt løn under ferie plus et ferietillæg på mindst 1 %. Timelønnede får i stedet 12,5 % af lønnen indbetalt til FerieKonto eller en feriekasse og får pengene udbetalt, når de holder ferie.
+- Feriepenge udbetales ved at anmode om det på borger.dk ("Feriepenge") med MitID.
+- Man har ret til at holde 3 ugers sammenhængende ferie (hovedferien) i perioden 1. maj til 30. september.
+- Mange overenskomster og kontrakter giver en 6. ferieuge (5 feriefridage).
+- Ved fratræden indbetaler arbejdsgiveren de optjente feriepenge til FerieKonto. Forlader man Danmark permanent, kan man få feriepengene udbetalt.
+- Nyansatte, der endnu ikke har optjent ferie, kan aftale ferie på forskud eller holde ferie uden løn.
+
+12.8 Helligdage:
+- Officielle helligdage: nytårsdag, skærtorsdag, langfredag, påskedag, 2. påskedag, Kristi himmelfartsdag, pinsedag, 2. pinsedag, juledag og 2. juledag.
+- Store bededag er afskaffet som helligdag.
+- Grundlovsdag (5. juni), 1. maj, juleaftensdag (24. december) og nytårsaftensdag (31. december) er ikke helligdage, men mange har helt eller delvist fri efter overenskomst eller kontrakt.
+- De fleste butikker holder åbent på almindelige søndage, men større butikker holder lukket på helligdage.
+
+12.9 Sygdom:
+- Man skal melde sig syg til arbejdsgiveren hurtigst muligt, normalt ved arbejdstids begyndelse på første sygedag.
+- Funktionærer og mange overenskomstansatte får fuld løn under sygdom. Andre får sygedagpenge, som arbejdsgiveren betaler de første 30 dage, hvis man har været ansat i mindst 8 uger og arbejdet mindst 74 timer.
+- Arbejdsgiveren kan bede om en friattest eller en mulighedserklæring fra lægen ved længere sygdom, men har ikke krav på at kende diagnosen.
+- Ved længere sygdom indkalder kommunen til opfølgning.
+- Barns første sygedag: Mange overenskomster giver ret til fri med løn på barnets første (og ofte anden) sygedag.
+
+12.10 Barsel og forældreorlov:
+- Moren har ret til 4 ugers graviditetsorlov før forventet fødsel og 10 ugers orlov efter fødslen (de første 2 uger er obligatoriske).
+- Faren eller medmoren har ret til 2 ugers orlov i forbindelse med fødslen.
+- Derudover har hver forælder ret til forældreorlov. Samlet har hver forælder som udgangspunkt 24 ugers orlov med barselsdagpenge efter fødslen.
+- For lønmodtagere er 11 uger øremærket til hver forælder og kan ikke overdrages. De resterende uger kan overdrages til den anden forælder.
+- Barselsdagpenge udbetales af Udbetaling Danmark og er højst knap 5.000 kr. om ugen før skat (2025-26-niveau). Retten kræver, at man opfylder et beskæftigelseskrav.
+- Mange arbejdsgivere betaler fuld eller delvis løn i en del af orloven efter overenskomst eller kontrakt.
+- Graviditeten skal meddeles arbejdsgiveren senest 3 måneder før forventet fødsel. Gravide og forældre på orlov er særligt beskyttet mod opsigelse.
+- Soloforældre og LGBT+-familier har særlige muligheder for at overdrage orlov.
+- EU-borgere kan under EU-reglerne få medregnet forsikrings- og beskæftigelsesperioder fra andre EU-lande til beskæftigelseskravet.
+
+12.11 Arbejdsmiljø og arbejdsskader:
+- Arbejdsgiveren har ansvaret for, at arbejdet er sikkert og sundt, og skal instruere medarbejdere på et sprog, de forstår.
+- Arbejdstilsynet fører tilsyn og kan kontaktes anonymt om farligt arbejde. Arbejdstilsynet har en hotline for udenlandske medarbejdere.
+- Alle arbejdsgivere skal have en arbejdsskadeforsikring. Arbejdsulykker og erhvervssygdomme anmeldes til forsikringen og Arbejdsmarkedets Erhvervssikring (AES).
+- Mobning, chikane og seksuel chikane er arbejdsgiverens ansvar at forebygge og håndtere.
+
+12.12 Arbejdskultur på danske arbejdspladser:
+- Hierarkiet er fladt. Man er på fornavn med chefen, og det forventes, at man siger sin mening og tager selvstændigt ansvar.
+- Møder begynder til tiden, og punktlighed er vigtig.
+- Balance mellem arbejde og fritid vægtes højt. De fleste går hjem mellem kl. 16 og 17.
+- Sociale traditioner på arbejdspladsen er bl.a. fælles frokost, morgenbrød, fredagsbar, sommerfest og julefrokost.
+- Kommunikationen er direkte og uformel, hvilket kan virke kontant på nytilkomne, men sjældent er ment uhøfligt.
+
+12.13 Udstationerede og udenlandske virksomheder:
+- Udenlandske virksomheder, der midlertidigt leverer tjenesteydelser i Danmark, skal anmelde sig i Registret for Udenlandske Tjenesteydere (RUT).
+- Udstationerede medarbejdere er omfattet af danske regler om bl.a. arbejdsmiljø, ligebehandling og ferie under opholdet.
+- Social sikring: En A1-attest dokumenterer, hvilket lands sociale sikring man er omfattet af ved arbejde på tværs af grænser i EU.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 13: A-KASSE, DAGPENGE, SOCIALE YDELSER OG PENSION]
+Søgeord: a-kasse, arbejdsløshedskasse, dagpenge, ledig, arbejdsløs, jobcenter, Jobnet, PD U1, kontanthjælp, sociale ydelser, Udbetaling Danmark, pension, folkepension, ATP, arbejdsmarkedspension, pensionsalder, unemployment insurance, unemployment benefits, unemployed, job centre, social assistance, welfare benefits, state pension, occupational pension, retirement age
+
+13.1 A-kasse (arbejdsløshedskasse):
+- A-kasse: En forsikring mod arbejdsløshed (dagpenge). Medlemskab er frivilligt og fradragsberettiget.
+- A-kassen er ikke det samme som fagforeningen, selvom de ofte samarbejder og kan betales samlet.
+- Kontingentet er typisk ca. 500-600 kr. om måneden før skattefradrag.
+- Man kan være medlem som lønmodtager, selvstændig eller studerende. Studerende på en uddannelse af mindst 18 måneders varighed kan ofte være gratis medlem og få ret til dagpenge som nyuddannet.
+
+13.2 Betingelser for dagpenge:
+- For at opnå ret til dagpenge kræves normalt 1 års medlemskab af en a-kasse samt opfyldelse af et indkomstkrav (en samlet indkomst på ca. 263.000 kr. inden for de seneste 3 år i 2025-niveau, med et loft over hvor meget der kan medregnes pr. måned).
+- Man skal være tilmeldt som ledig på Jobnet.dk fra første ledige dag, have bopæl og ophold i Danmark, stå til rådighed for arbejdsmarkedet og søge job aktivt.
+- Dagpengene udgør højst 90 % af den tidligere løn op til et maksimum (ca. 21.000-22.000 kr. om måneden før skat for fuldtidsforsikrede).
+- Dagpengeperioden er op til 2 år inden for 3 år.
+- Siger man selv op uden gyldig grund, får man en karantæne på nogle uger.
+- Tredjelandsborgere med en opholdstilladelse, der er bundet til et bestemt job, kan have svært ved at opfylde kravet om at stå til rådighed. Spørg a-kassen, før man melder sig ind.
+
+13.3 Overførsel af forsikringsperioder fra andre EU/EØS-lande (PD U1):
+- Hvis man har været arbejdsløshedsforsikret i et andet EU/EØS-land, kan forsikringsperioder ofte overføres via dokument PD U1 – kræver hurtig tilmelding i en dansk a-kasse inden for 8 uger efter ophør af forsikring i udlandet.
+- Normalt skal man også have arbejdet i Danmark i en periode efter indmeldelsen, før de udenlandske perioder kan medregnes.
+- PD U1 udstedes af myndigheden i det land, hvor man senest var forsikret.
+- PD U2: En ledig dagpengemodtager kan tage sine danske dagpenge med til et andet EU-land i op til 3 måneder for at søge job.
+
+13.4 Jobcenter og kommunens beskæftigelsesindsats:
+- Ledige bliver indkaldt til samtaler i a-kassen og kommunens jobcenter og skal have et opdateret CV på Jobnet.
+- Beskæftigelsessystemet er under omlægning, så kommunerne får større frihed til at organisere indsatsen.
+- Kommunen kan tilbyde virksomhedspraktik, løntilskudsjob og opkvalificering.
+
+13.5 Kontanthjælp og krav om ophold:
+- Kontanthjælp er kommunens laveste forsørgelsesydelse til personer, der ikke kan forsørge sig selv, og som ikke har ret til andre ydelser. Den afhænger af formue og ægtefælles indkomst.
+- For at få den almindelige sats skal man opfylde et opholdskrav (lovligt ophold i Danmark i mindst 9 af de seneste 10 år) og et beskæftigelseskrav (fuldtidsarbejde i ca. 2,5 år inden for de seneste 10 år). Opfylder man ikke kravene, får man en lavere sats.
+- Tredjelandsborgere med opholdstilladelse på grundlag af arbejde, studier eller familiesammenføring skal kunne forsørge sig selv. Modtagelse af kontanthjælp kan betyde, at opholdstilladelsen inddrages, og det forsinker muligheden for permanent ophold og statsborgerskab.
+- EU-borgere med status som arbejdstager har ret til ligebehandling, men en jobsøgende EU-borger uden arbejdstagerstatus har normalt ikke ret til kontanthjælp.
+
+13.6 Udbetaling Danmark:
+- Udbetaling Danmark er den myndighed, der udbetaler de fleste landsdækkende ydelser: folkepension, førtidspension, boligstøtte, barselsdagpenge, børne- og ungeydelse, børnetilskud, børnebidrag og international social sikring.
+- Selvbetjening sker på borger.dk med MitID. Afgørelser sendes i Digital Post.
+- Man har pligt til at oplyse om ændringer, f.eks. flytning, ændret indkomst, samliv eller ophold i udlandet. For meget udbetalt støtte skal betales tilbage.
+
+13.7 Pensionssystemet i Danmark:
+- Folkepension: Den offentlige grundpension. Folkepensionsalderen er 67 år og stiger gradvist (68 år i 2030, 69 år i 2035 og 70 år i 2040) i takt med levealderen.
+- Retten til folkepension optjenes gennem bopæl i Danmark. Fuld folkepension kræver ca. 40 års bopæl mellem det fyldte 15. år og pensionsalderen (for yngre årgange 9/10 af perioden). Har man boet her i kortere tid, får man en brøkpension, f.eks. 10/40.
+- Udenlandske statsborgere skal normalt have boet i Danmark i mindst 10 år for at få folkepension. EU-reglerne og aftaler om social sikring kan lempe kravet, og man kan samtidig få pension fra de andre lande, man har boet i.
+- ATP Livslang Pension: En lovpligtig ordning, som alle lønmodtagere og de fleste ydelsesmodtagere indbetaler til. Den udbetales fra folkepensionsalderen, også til udlandet.
+- Arbejdsmarkedspension: Aftales i overenskomst eller kontrakt. Typisk indbetales 12-18 % af lønnen, hvoraf arbejdsgiveren betaler to tredjedele. Ordningen indeholder ofte forsikring ved død, kritisk sygdom og tab af erhvervsevne.
+- Privat pension: Frivillig opsparing i bank eller pensionsselskab (aldersopsparing, ratepension, livrente).
+- Pensionsinfo.dk giver et samlet overblik over alle ens danske pensionsordninger (kræver MitID).
+
+13.8 Pension ved fraflytning fra Danmark:
+- Opsparet arbejdsmarkedspension bliver som udgangspunkt stående og udbetales, når man når pensionsalderen, uanset hvor man bor.
+- I nogle tilfælde kan ordningen udbetales før tid (genkøb) mod en afgift på typisk 60 %, eller overføres til en udenlandsk ordning. Kontakt pensionsselskabet.
+- Personer på forskerskatteordningen og udstationerede kan have særlige muligheder. Indbetalinger til udenlandske pensionsordninger er som hovedregel ikke fradragsberettigede i Danmark, medmindre ordningen er godkendt.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 14: SELVSTÆNDIG VIRKSOMHED OG FREELANCE]
+Søgeord: selvstændig, virksomhed, firma, CVR, enkeltmandsvirksomhed, ApS, moms, momsregistrering, freelancer, B-indkomst, faktura, virk.dk, iværksætter, self-employed, start a business, company, sole proprietorship, limited company, VAT, freelance, invoice, entrepreneur
+
+14.1 Start af virksomhed:
+- En virksomhed registreres digitalt på virk.dk med MitID og får et CVR-nummer.
+- Enkeltmandsvirksomhed: Den enkleste form uden kapitalkrav. Ejeren hæfter personligt med hele sin formue.
+- Anpartsselskab (ApS): Kræver en selskabskapital på mindst 20.000 kr. Ejeren hæfter som udgangspunkt kun med den indskudte kapital.
+- Aktieselskab (A/S): Kræver en selskabskapital på mindst 400.000 kr.
+- EU/EØS-borgere kan frit starte virksomhed i Danmark. Tredjelandsborgere skal have en opholdstilladelse, der giver ret til at drive selvstændig virksomhed, f.eks. gennem Start-up Denmark.
+
+14.2 Moms og skat for selvstændige:
+- Virksomheden skal momsregistreres, når omsætningen overstiger 50.000 kr. inden for 12 måneder. Momsen er 25 % og afregnes kvartalsvis eller halvårligt for små virksomheder.
+- Selvstændige betaler selv skat via rater (B-skat) ud fra forskudsopgørelsen og indberetter årets resultat i oplysningsskemaet (frist 1. juli).
+- Virksomhedsordningen og kapitalafkastordningen er særlige skatteregler, som kan give lavere beskatning af overskud, der bliver i virksomheden.
+- Der er krav om digital bogføring og om at gemme regnskabsmateriale i 5 år.
+
+14.3 Freelancere og honorarmodtagere:
+- En freelancer kan arbejde som selvstændig med CVR-nummer eller som honorarmodtager med B-indkomst, hvor man selv betaler skatten.
+- Der findes faktureringsbureauer, som mod et gebyr gør det muligt at fakturere kunder uden eget CVR-nummer.
+- Selvstændige har ikke automatisk ret til sygedagpenge fra første dag, pension eller feriepenge og bør selv tegne forsikringer og spare op.
+
+14.4 Hjælp til iværksættere:
+- Erhvervshusene og de kommunale erhvervskontorer tilbyder gratis vejledning om opstart.
+- virk.dk og Erhvervsstyrelsen har vejledninger på engelsk ("Business in Denmark").
+
+--------------------------------------------------------------------------------
+
+[SEKTION 15: ANERKENDELSE AF UDENLANDSKE UDDANNELSER OG ERHVERVSKVALIFIKATIONER]
+Søgeord: anerkendelse, udenlandsk uddannelse, eksamensbevis, autorisation, lovreguleret erhverv, vurdering, Uddannelses- og Forskningsstyrelsen, læge, sygeplejerske, lærer, recognition, foreign qualifications, diploma, degree, authorisation, regulated profession, assessment
+
+15.1 Vurdering af udenlandsk uddannelse:
+- Uddannelses- og Forskningsstyrelsen vurderer gratis, hvad en udenlandsk uddannelse svarer til i det danske uddannelsessystem. Vurderingen kan bruges over for arbejdsgivere, a-kasser og uddannelsessteder.
+- Ansøgningen sker digitalt og kræver eksamensbeviser og karakterudskrifter, eventuelt med oversættelse.
+- Vurderingen er vejledende for arbejdsgivere, men bindende for bl.a. a-kasser og for adgang til offentlige stillinger med uddannelseskrav.
+
+15.2 Lovregulerede erhverv:
+- En række erhverv kræver dansk autorisation eller godkendelse, før man må arbejde. Det gælder bl.a. læger, sygeplejersker, tandlæger, jordemødre, psykologer, fysioterapeuter, farmaceuter, dyrlæger, advokater, revisorer, elektrikere, vvs-installatører og lærere i folkeskolen.
+- Sundhedspersoner søger autorisation hos Styrelsen for Patientsikkerhed. For uddannede uden for EU/EØS er forløbet langt og omfatter bl.a. sprogprøve, fagprøver og en evalueringsansættelse.
+- El- og vvs-fagene hører under Sikkerhedsstyrelsen.
+- For EU-borgere gælder EU's regler om gensidig anerkendelse af erhvervskvalifikationer, som gør processen hurtigere.
+
+15.3 Adgang til videreuddannelse:
+- Danske uddannelsesinstitutioner vurderer selv, om en udenlandsk eksamen giver adgang til en bestemt uddannelse, ofte med hjælp fra styrelsens vurdering.
+- Der kan stilles krav om dokumenterede dansk- eller engelskkundskaber (f.eks. Studieprøven i dansk eller en international engelsktest).
+
+--------------------------------------------------------------------------------
+
+[SEKTION 16: TRANSPORT, KØREKORT, BIL OG CYKEL]
+Søgeord: kørekort, ombytning af kørekort, køreprøve, bil, registreringsafgift, nummerplader, syn, bilforsikring, parkering, færdselsregler, cykel, cykelregler, offentlig transport, Rejsekort, tog, bus, metro, DSB, pendlerkort, driving licence, exchange licence, driving test, car, registration tax, licence plates, vehicle inspection, parking, traffic rules, bicycle, bike, public transport, travel card, train, commuter pass
+
+16.1 Udenlandsk kørekort i Danmark:
+- Kørekort fra EU/EØS-lande (samt Færøerne og Grønland): Er gyldigt i Danmark på samme vilkår som et dansk kørekort, så længe det er gyldigt i udstedelseslandet. Kan frivilligt ombyttes til et dansk kørekort.
+- Kørekort fra lande uden for EU/EØS (Gruppe 1 og Gruppe 2 lande): Er kun gyldigt i Danmark i op til 180 dage (6 måneder) fra den dag, man registreres med bopæl i Folkeregistret. Derefter skal det ombyttes til et dansk kørekort hos Borgerservice.
+  * Gruppe 1-lande (bl.a. Australien, Brasilien, Canada, Japan, Sydkorea, New Zealand, Rusland, Schweiz, Storbritannien, Taiwan, Ukraine, USA): Kan ombyttes uden kontrollerende køreprøve (kræver dog lægeerklæring og erklæring om køreerfaring).
+  * Øvrige lande (Gruppe 2): Kræver, at man består en kontrollerende køreprøve (både teoriprøve og praktisk køreprøve) for at få ombyttet kørekortet til dansk.
+- Landelisten ændres løbende, og for nogle lande gælder ombytning uden prøve kun bestemte kategorier (typisk almindelig bil, kategori B). Tjek den aktuelle liste på borger.dk eller hos Færdselsstyrelsen.
+- Turister og personer på kortvarigt ophold må køre på deres udenlandske kørekort. Er kørekortet ikke skrevet med latinske bogstaver, skal det ledsages af en oversættelse eller et internationalt kørekort.
+
+16.2 Sådan ombyttes et udenlandsk kørekort:
+- Man møder personligt op i Borgerservice (i nogle kommuner med tidsbestilling) og medbringer det originale kørekort, pas, opholdsdokumentation, et pasfoto og for lande uden for EU/EØS en lægeattest fra egen læge.
+- Der betales et gebyr. Det udenlandske kørekort afleveres og sendes normalt tilbage til udstedelseslandet.
+- Mens sagen behandles, får man et midlertidigt kørekort, som kun gælder i Danmark.
+- Den kontrollerende køreprøve kan tages på dansk eller med tolk. Teoriprøven kan i mange tilfælde aflægges på engelsk. Det anbefales at tage nogle køretimer hos en dansk kørelærer først.
+- Et dansk kørekort kan også vises digitalt i appen "Kørekort", som gælder i Danmark.
+
+16.3 At tage et dansk kørekort fra bunden:
+- Man kan få kørekort til bil (kategori B) som 18-årig, og som 17-årig med krav om ledsager.
+- Uddannelsen omfatter teoriundervisning, køretimer, manøvrebane, glatbane og et færdselsrelateret førstehjælpskursus og koster typisk 15.000-20.000 kr.
+
+16.4 Indførsel af udenlandsk bil:
+- Hvis man flytter til Danmark og medbringer en bil på udenlandske nummerplader, skal bilen omregistreres til danske nummerplader, og der skal betales dansk registreringsafgift til Motorstyrelsen senest 30 dage efter indrejse/bopælsregistrering. Dansk registreringsafgift er høj og beregnes ud fra bilens handelsværdi i Danmark.
+- Registreringsafgiften er progressiv og kan for benzin- og dieselbiler overstige bilens værdi i udlandet. El- og brintbiler har en lavere afgift, som indfases gradvist.
+- Processen: Bilen toldsynes hos en synshal, værdien fastsættes (selv eller af Motorstyrelsen), afgiften betales, og bilen får danske nummerplader og registreres i Motorregistret.
+- Flyttegods-fritagelse gælder for told og moms ved flytning fra lande uden for EU, men ikke for registreringsafgiften.
+- Midlertidigt ophold: Personer, der kun skal opholde sig i Danmark i en begrænset periode (typisk under 185 dage), eller som har arbejdsgiverbetalt bil fra udlandet, kan i visse tilfælde få tilladelse til at køre på udenlandske plader eller betale forholdsmæssig registreringsafgift. Der skal søges hos Motorstyrelsen.
+- Det er strafbart for personer med bopæl i Danmark at køre i en udenlandsk indregistreret bil uden tilladelse, og det kan udløse både bøde og krav om fuld afgift.
+
+16.5 At eje bil i Danmark:
+- Ansvarsforsikring er lovpligtig. Derudover betales periodisk afgift (grøn ejerafgift/CO2-baseret afgift) til Motorstyrelsen.
+- Personbiler skal til periodisk syn med faste intervaller, når de har nået en vis alder.
+- Biler er dyre i Danmark på grund af registreringsafgiften. Mange vælger brugt bil, privatleasing, delebil eller ingen bil i de større byer.
+- Ved køb af brugt bil bør man tjekke bilens historik, gæld og synsrapporter (f.eks. via Motorregistret og tinglysning.dk). Ejerskifte registreres digitalt på motorregister.skat.dk med MitID.
+
+16.6 De vigtigste færdselsregler:
+- Højrekørsel. Almindelige hastighedsgrænser er 50 km/t i byer, 80 km/t på landeveje og 130 km/t på motorveje (110 km/t på visse strækninger). Lokale grænser fremgår af skiltning.
+- Kørelys skal være tændt døgnet rundt. Sele er påbudt på alle pladser. Børn under 135 cm skal bruge godkendt barnesæde.
+- Promillegrænsen er 0,5. Spirituskørsel straffes hårdt med bøde efter indkomst, frakendelse af kørekortet og i grove tilfælde konfiskation af bilen.
+- Håndholdt mobiltelefon er forbudt under kørsel og giver bøde og klip i kørekortet.
+- Vanvidskørsel (f.eks. mere end 100 % over grænsen eller over 200 km/t) fører til konfiskation af bilen, også hvis den er lånt eller leaset.
+- Ved højresving skal bilister holde tilbage for cyklister og fodgængere, der kører eller går ligeud.
+- Vinterdæk er ikke lovpligtige, men anbefales fra november til marts.
+
+16.7 Parkering og betalingsveje:
+- Parkeringsskive (P-skive) er påbudt i bilens forrude, når der er tidsbegrænset parkering.
+- I byerne er der betalingszoner, hvor man betaler via app (f.eks. EasyPark) eller automat. Beboere kan købe beboerlicens i kommunen.
+- Private parkeringspladser har egne regler, og kontrolafgifter er høje (typisk 800-1.100 kr.).
+- Storebæltsbroen og Øresundsbroen har betaling. Der er ingen generel vejafgift for personbiler.
+- Miljøzoner i de største byer stiller krav til ældre dieselkøretøjer.
+
+16.8 Cykel:
+- Cyklen er et hovedtransportmiddel i danske byer, og der er cykelstier de fleste steder.
+- Regler: Kør i højre side af cykelstien, giv tegn med armen ved sving og stop, brug lygter (hvid for, rød bag) fra solnedgang til solopgang, og cykl ikke på fortov eller i fodgængerfelt. Cyklen skal have klokke, reflekser og to virkende bremser.
+- Venstresving foregår i to trin: Kør over krydset til det modsatte hjørne, og vent på grønt.
+- Bøder for cyklister er typisk 700-1.000 kr., f.eks. for at køre uden lys, over for rødt eller med håndholdt mobil.
+- Cykelhjelm er ikke lovpligtig, men anbefales.
+- Cykeltyveri er udbredt. Brug en godkendt lås, notér stelnummeret, og tjek ved køb af brugt cykel, at stelnummeret ikke er registreret som stjålet hos politiet.
+- Elcykler (op til 25 km/t) følger samme regler som almindelige cykler. Elløbehjul har egne regler med bl.a. hjelmpåbud og forsikringspligt.
+
+16.9 Offentlig transport:
+- Rejsekort bruges til tog, metro, letbane og busser i hele Danmark. Det fysiske rejsekort er ved at blive udfaset og erstattes af Rejsekort som app, hvor man tjekker ind og ud på telefonen. Billetter kan også købes i DSB-appen og de regionale trafikselskabers apps.
+- Det er vigtigt at tjekke ud ved rejsens afslutning, da man ellers betaler et tillæg.
+- Kontrolafgiften for at rejse uden gyldig billet er høj (typisk 750-1.000 kr.).
+- Pendlerkort: Periodekort til faste strækninger for pendlere. Ungdomskort giver studerende og unge billig transport mellem hjem og uddannelsessted.
+- Børn under 12 år rejser ofte gratis med en voksen, og der er rabat til unge, pensionister og ved rejser uden for myldretiden.
+- København har metro (døgndrift), S-tog og havnebusser. Aarhus og Odense har letbane. DSB kører de fleste fjern- og regionaltog; Arriva og andre kører visse regionale strækninger.
+- Rejseplanen (app og rejseplanen.dk) samler alle afgange og priser for offentlig transport i hele landet.
+- Fjernbusser er et billigt alternativ mellem landsdelene.
+
+16.10 Rejser til og fra Danmark:
+- Københavns Lufthavn (Kastrup) er den største lufthavn. Billund, Aalborg og Aarhus har også internationale ruter.
+- Der er direkte tog til Sverige og Tyskland og færger til bl.a. Norge, Sverige, Tyskland og Bornholm.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 17: SPROGUNDERVISNING (DANSKUDDANNELSE) OG DANSKPRØVER]
+Søgeord: dansk, danskundervisning, sprogskole, danskuddannelse, DU1, DU2, DU3, Prøve i Dansk, PD3, Studieprøven, modultest, depositum, lære dansk, Danish lessons, language school, Danish course, learn Danish, Danish test, language exam, free Danish classes
+
+17.1 Ret til gratis danskundervisning:
+- Næsten alle voksne udlændinge over 18 år med opholdstilladelse eller EU-registreringsbevis og CPR-nummer har ret til gratis danskundervisning (Danskuddannelse 1, 2 eller 3 afhængigt af uddannelsesbaggrund) gennem deres bopælskommune i op til 5 år.
+- For selvforsørgende tilflyttere (arbejdstagere, studerende, EU-borgere m.fl.) opkræves der et lovpligtigt depositum (typisk 2.000 kr.) ved opstart af undervisningen, som tilbagebetales, hvis man består modultestene inden for de fastsatte tidsfrister.
+- Uddannelsesretten er på ca. 3,5 års undervisning, som skal bruges inden for en periode på 5 år fra det tidspunkt, hvor man første gang kunne begynde.
+- Grænsependlere, der arbejder i Danmark uden at bo her, har også ret til danskundervisning.
+- Tilmelding sker via kommunen eller direkte hos en sprogskole, som kommunen har aftale med. Sprogskolen placerer kursisten på det rigtige niveau efter en samtale.
+
+17.2 De tre danskuddannelser:
+- Danskuddannelse 1 (DU1): For personer med ingen eller meget kort skolegang, eller som ikke kan læse og skrive det latinske alfabet. Afsluttes med Prøve i Dansk 1.
+- Danskuddannelse 2 (DU2): For personer med kort eller mellemlang skole- og uddannelsesbaggrund. Afsluttes med Prøve i Dansk 2.
+- Danskuddannelse 3 (DU3): For personer med mellemlang eller lang uddannelse (f.eks. gymnasium eller universitet). Afsluttes med Prøve i Dansk 3 efter modul 5 og eventuelt Studieprøven efter modul 6.
+- Hver uddannelse er opdelt i moduler, som afsluttes med en modultest, før man rykker videre.
+- Undervisningen tilbydes som daghold, aftenhold, weekendhold og online.
+
+17.3 Danskprøver og hvad de bruges til:
+- Prøve i Dansk 1 (A2-niveau): Bruges bl.a. i visse sager om familiesammenføring.
+- Prøve i Dansk 2 (B1-niveau): Krav for permanent opholdstilladelse.
+- Prøve i Dansk 3 (B2-niveau): Krav for dansk statsborgerskab og supplerende betingelse for hurtigere permanent ophold. Giver adgang til mange erhvervs- og professionsuddannelser.
+- Studieprøven (C1-niveau): Giver adgang til videregående uddannelser på dansk.
+- Danskprøve A1 og A2: Særlige prøver for ægtefællesammenførte, som skal bestås inden for en frist efter ankomst.
+- Indfødsretsprøven og medborgerskabsprøven er prøver i dansk samfund, historie og kultur og afholdes to gange om året. De er ikke sprogprøver, men foregår på dansk.
+- Prøverne afholdes typisk to gange om året (maj/juni og november/december) hos sprogskolerne. Man kan gå til prøve som selvstuderende mod et gebyr.
+
+17.4 Gode råd om at lære dansk:
+- Mange danskere slår hurtigt over i engelsk. Bed dem om at blive ved med at tale dansk.
+- Biblioteker har sprogcaféer, hvor frivillige taler dansk med tilflyttere, og låner gratis materialer ud.
+- Foreninger, frivilligt arbejde og børns institutioner er gode steder at øve sproget.
+- Selvom man kan klare sig på engelsk i de større byer og på mange arbejdspladser, kræver langt de fleste job, myndighedskontakt og sociale sammenhænge dansk på længere sigt.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 18: FAMILIE, BØRN, DAGINSTITUTIONER OG SKOLE]
+Søgeord: børn, familie, vuggestue, dagpleje, børnehave, daginstitution, pladsanvisning, pasningsgaranti, friplads, skole, folkeskole, privatskole, international skole, modtageklasse, SFO, gymnasium, børnepenge, børne- og ungeydelse, børnetilskud, children, family, nursery, daycare, kindergarten, childcare, school, public school, private school, international school, after-school care, high school, child benefit, family allowance
+
+18.1 Daginstitution (vuggestue, dagpleje og børnehave):
+- Børn fra ca. 6-10 måneder til 2 år og 10 måneder kan skrives op til vuggestue eller dagpleje via Digital Pladsanvisning på borger.dk (kræver CPR-nummer og MitID).
+- Børn fra ca. 3 år til skolestart (det år barnet fylder 6 år) går i børnehave.
+- Kommunerne har pasningsgaranti, men der kan være venteliste på specifikke institutioner, så man bør skrive barnet op hurtigst muligt efter CPR-registrering.
+- Vuggestue er en institution med uddannede pædagoger. Dagpleje er pasning af en lille gruppe børn i dagplejerens private hjem.
+- Der findes også private institutioner og private pasningsordninger med kommunalt tilskud.
+- Åbningstiden er typisk fra ca. kl. 6.30-7.00 til kl. 16.30-17.00 på hverdage.
+
+18.2 Pris for dagtilbud og økonomisk friplads:
+- Forældre betaler højst 25 % af udgiften til pladsen; kommunen betaler resten. Prisen varierer mellem kommuner og ligger typisk på ca. 3.000-4.500 kr. om måneden for vuggestue og ca. 1.800-2.800 kr. for børnehave, ofte inklusive frokost.
+- Søskenderabat: Der gives 50 % rabat på den billigste plads, når en familie har flere børn i dagtilbud.
+- Økonomisk fripladstilskud: Familier med lav husstandsindkomst kan få hel eller delvis friplads. Der søges digitalt hos kommunen.
+- Juli måned er ofte betalingsfri.
+
+18.3 Dagtilbud og hverdag:
+- Børnene er ude i al slags vejr og skal have praktisk tøj med: regntøj, gummistøvler, flyverdragt og skiftetøj.
+- De fleste vuggestuebørn sover til middag udenfor i barnevogn eller krybbe.
+- Forældre får daglige beskeder via en app (ofte Aula eller en lignende platform).
+- Indkøring: Nye børn begynder med korte dage sammen med en forælder i en til to uger.
+
+18.4 Folkeskole:
+- I Danmark er der 10 års undervisningspligt (fra børnehaveklasse/0. klasse til og med 9. klasse).
+- Offentlig folkeskole er gratis. Tilmelding sker ved henvendelse til den lokale distriktsskole eller kommunens skoleforvaltning. For børn, der endnu ikke taler dansk, tilbyder kommunerne modtageklasser eller sprogstøtte.
+- Der er undervisningspligt, men ikke skolepligt. Børn kan derfor gå i privatskole eller hjemmeundervises under kommunalt tilsyn.
+- Barnet hører til distriktsskolen nær bopælen, men forældre kan søge om en anden skole, hvis der er plads (frit skolevalg).
+- 10. klasse er et frivilligt ekstra år. Mange unge tager 8., 9. eller 10. klasse på en efterskole (kostskole).
+- Skoledagen varer typisk fra kl. 8 til kl. 14-15. Der gives karakterer fra 8. klasse efter 7-trinsskalaen (-3, 00, 02, 4, 7, 10, 12), og 9. klasse afsluttes med folkeskolens afgangsprøver.
+- Aula er skolernes og dagtilbuddenes digitale platform til beskeder, skemaer og kontakt mellem skole og hjem (kræver MitID).
+- Forældre forventes at deltage i forældremøder, skole-hjem-samtaler og sociale arrangementer i klassen.
+
+18.5 SFO og fritidstilbud:
+- Skolefritidsordning (SFO) eller fritidshjem tilbyder pasning før og efter skoletid for børn i 0. til ca. 3. klasse mod forældrebetaling.
+- Ældre børn kan gå i fritidsklub eller ungdomsklub.
+- Musikskole, idrætsforeninger og spejdere er udbredte fritidsaktiviteter med lavt kontingent.
+
+18.6 Privatskoler og internationale skoler:
+- Frie grundskoler (privatskoler og friskoler) får statstilskud og opkræver forældrebetaling, typisk ca. 1.000-3.000 kr. om måneden.
+- Internationale skoler underviser på engelsk, tysk eller fransk efter internationale læseplaner (f.eks. IB eller Cambridge). De findes især i København, Aarhus, Odense, Aalborg, Esbjerg og Billund-området. Skolepengene er højere, og der er ofte venteliste.
+- Nogle kommunale folkeskoler har internationale afdelinger med engelsksproget undervisning.
+
+18.7 Ungdomsuddannelser:
+- Efter 9. eller 10. klasse vælger de unge en gymnasial uddannelse (STX, HHX, HTX eller den 2-årige HF) eller en erhvervsuddannelse (EUD/EUX).
+- International Baccalaureate (IB) udbydes på engelsk på en række gymnasier.
+- Ungdomsuddannelser er gratis. Unge over 18 år kan få SU.
+- Kommunens ungevejledning hjælper unge under 25 år med valg af uddannelse.
+
+18.8 Børne- og ungeydelse (børnepenge):
+- Udbetales kvartalsvist (for børn 0-14 år) eller månedligt (for unge 15-17 år) til forældre med fuld skattepligt i Danmark.
+- Udlændinge optjener ret til fuld ydelse gradvist over 6 års bopæl/beskæftigelse i Danmark (optjeningsprincippet), medmindre man er omfattet af EU-reglerne om koordinering af social sikring, hvor forsikringsperioder fra andre EU/EØS-lande kan medregnes (kræver ansøgning til Udbetaling Danmark).
+- Satser (ca. 2025-niveau): ca. 5.100 kr. pr. kvartal for 0-2-årige, ca. 4.050 kr. for 3-6-årige, ca. 3.200 kr. for 7-14-årige og ca. 1.060 kr. om måneden for 15-17-årige.
+- Ydelsen er skattefri, deles som udgangspunkt ligeligt mellem forældre med fælles forældremyndighed og nedsættes for forældre med meget høj indkomst.
+- Børn født i Danmark får normalt ydelsen automatisk. Tilflyttere og EU-borgere, der vil bruge perioder fra udlandet, skal selv søge hos Udbetaling Danmark.
+- Betingelser: Barnet skal bo i Danmark (EU-borgere kan have ret for børn i et andet EU-land), må ikke være gift og må ikke være forsørget af det offentlige.
+
+18.9 Andre familieydelser:
+- Børnetilskud: Ekstra tilskud til enlige forsørgere, forældre under uddannelse og ved flerbørnsfødsler.
+- Børnebidrag: Den forælder, barnet ikke bor hos, betaler bidrag. Familieretshuset fastsætter beløbet, og Udbetaling Danmark kan udbetale bidraget forskudsvis.
+- Tilskud til pasning af egne børn og fritidspas til børn i familier med lav indkomst findes i nogle kommuner.
+
+18.10 Børns rettigheder og opdragelse:
+- Det er forbudt at slå børn i Danmark (revselsesretten er afskaffet), også for forældre.
+- Fagpersoner som pædagoger, lærere og læger har skærpet underretningspligt til kommunen ved bekymring for et barns trivsel.
+- Børn opdrages til selvstændighed og medbestemmelse, og tonen mellem børn og voksne er uformel.
+- Børnetelefonen (116 111) er en gratis og anonym rådgivning for børn.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 19: ÆGTESKAB, SAMLIV, FØDSEL, NAVN, SKILSMISSE OG DØDSFALD]
+Søgeord: ægteskab, vielse, bryllup, prøvelsesattest, Familieretshuset, samlever, skilsmisse, separation, forældremyndighed, fødsel, fødselsregistrering, navngivning, faderskab, dødsfald, arv, testamente, marriage, wedding, certificate of marital status, cohabitation, divorce, custody, birth registration, naming, paternity, death, inheritance, will
+
+19.1 Ægteskab i Danmark:
+- For at blive gift skal parret have en prøvelsesattest, som bekræfter, at ægteskabsbetingelserne er opfyldt. Hvis begge er danske statsborgere eller har permanent ophold/EU-opholdsret, søges der hos kommunen. I andre tilfælde behandler Familieretshuset sagen mod et gebyr (ca. 2.000 kr.).
+- Vielsen kan være borgerlig (på rådhuset eller et andet sted) eller kirkelig/religiøs i et godkendt trossamfund.
+- Par af samme køn kan gifte sig på lige fod med andre par.
+- Udenlandske vielsesattester anerkendes normalt, hvis ægteskabet er gyldigt indgået i vielseslandet. Attesten kan kræves legaliseret eller apostilleret.
+- Proformaægteskaber indgået for at opnå opholdstilladelse giver ikke ret til ophold.
+
+19.2 Ugifte samlevende:
+- Ugifte samlevende arver ikke automatisk hinanden og har ikke automatisk ret til hinandens pension. Det kræver testamente og begunstigelseserklæringer.
+- Ved udlændingesager kan fast samliv af normalt mindst 1,5-2 års varighed sidestilles med ægteskab.
+
+19.3 Fødsel og registrering af barn:
+- Jordemoderen anmelder fødslen til myndighederne, og barnet får automatisk et CPR-nummer.
+- Barnet skal have et navn senest 6 måneder efter fødslen. Navngivning sker digitalt på borger.dk eller ved dåb i Folkekirken. Fornavnet skal som udgangspunkt være et godkendt navn; andre navne kan søges godkendt.
+- Fødselsregistreringen varetages af Folkekirkens sogne (i Sønderjylland af kommunen), uanset forældrenes religion.
+- Faderskab/medmoderskab: Er forældrene gift, registreres ægtefællen automatisk som forælder. Er de ugifte, afgiver de en omsorgs- og ansvarserklæring digitalt senest 28 dage efter fødslen og får derved fælles forældremyndighed.
+- Barnets statsborgerskab følger forældrenes. Udenlandske forældre skal selv registrere barnet og søge pas hos deres hjemlands ambassade.
+- Tredjelandsborgere skal søge opholdstilladelse til et barn født i Danmark.
+
+19.4 Separation, skilsmisse og forældremyndighed:
+- Ansøgning om separation eller skilsmisse indgives digitalt til Familieretshuset mod et gebyr. Er parterne enige, kan skilsmissen gives administrativt. Har de fælles børn under 18 år, er der en refleksionsperiode og et obligatorisk digitalt forløb.
+- Fælles forældremyndighed er udgangspunktet og fortsætter efter en skilsmisse. Uenighed om bopæl og samvær behandles af Familieretshuset og eventuelt familieretten.
+- For medfølgende og familiesammenførte ægtefæller kan en skilsmisse betyde, at opholdsgrundlaget bortfalder.
+
+19.5 Dødsfald og arv:
+- Et dødsfald anmeldes til sognet (begravelsesmyndigheden), normalt via bedemanden, inden for 2 hverdage.
+- Skifteretten indkalder de pårørende og behandler boet.
+- Ægtefælle og børn er tvangsarvinger efter dansk ret. Udlændinge bosat i Danmark bør overveje, hvilket lands arveregler der gælder for dem, og eventuelt oprette testamente.
+- Begravelseshjælp kan søges hos kommunen afhængigt af afdødes formue.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 20: STUDERENDE, VIDEREGÅENDE UDDANNELSE OG SU]
+Søgeord: studerende, universitet, uddannelse, optagelse, kvote 1, kvote 2, studieafgift, tuition, SU, SU-lån, studiejob, studiebolig, kollegium, udvekslingsstuderende, ph.d., student, university, higher education, admission, tuition fee, student grant, student loan, student job, student housing, dormitory, exchange student, PhD
+
+20.1 Det danske uddannelsessystem for videregående uddannelser:
+- Erhvervsakademiuddannelser (ca. 2 år), professionsbacheloruddannelser (3-4 år, f.eks. sygeplejerske, lærer, pædagog), universitetsbachelor (3 år), kandidat (typisk 2 år) og ph.d. (3 år).
+- Karakterskalaen er 7-trinsskalaen: 12, 10, 7, 4, 02 (bestået), 00 og -3 (ikke bestået).
+- Mange kandidatuddannelser udbydes på engelsk, mens de fleste bacheloruddannelser er på dansk.
+
+20.2 Optagelse:
+- Ansøgning til bachelor- og professionsuddannelser sker via optagelse.dk. Fristen er 15. marts kl. 12 for kvote 2 og for ansøgere med udenlandsk adgangsgivende eksamen, og 5. juli kl. 12 for kvote 1.
+- Ansøgning til kandidatuddannelser sker direkte til uddannelsesinstitutionen, ofte med frist i januar-marts.
+- Der kan være krav om dansk på niveau med Studieprøven eller dokumenterede engelskkundskaber.
+
+20.3 Studieafgift:
+- Videregående uddannelse er gratis for danske statsborgere, EU/EØS-borgere og schweiziske statsborgere samt for personer med permanent opholdstilladelse og visse andre opholdsgrundlag.
+- Andre tredjelandsborgere betaler studieafgift, typisk ca. 45.000-120.000 kr. om året afhængigt af uddannelsen. Der findes enkelte stipendier.
+- Ph.d.-studerende er som regel ansat med løn og betragtes som arbejdstagere.
+
+20.4 SU (Statens Uddannelsesstøtte) til udenlandske statsborgere:
+- SU er som udgangspunkt for danske statsborgere. Udenlandske statsborgere kan få SU, hvis de bliver ligestillet med danske statsborgere efter danske regler eller EU-retten.
+- Ligestilling efter danske regler: F.eks. hvis man er kommet til Danmark med sine forældre før det fyldte 20. år, er gift med en dansk statsborger i mindst 2 år, eller har boet og arbejdet i Danmark i en længere periode før uddannelsen.
+- Ligestilling efter EU-retten: EU/EØS-borgere, der har status som arbejdstager eller selvstændig i Danmark. I praksis kræves arbejde ved siden af studiet på mindst 10-12 timer om ugen i hele støtteperioden, og kravet kontrolleres løbende.
+- SU til udeboende på videregående uddannelser er ca. 7.000-7.500 kr. om måneden før skat (2025-26-niveau). Der kan suppleres med SU-lån.
+- SU søges på su.dk med MitID og udbetales forud til NemKonto. Der er et loft over, hvor meget man må tjene ved siden af (fribeløb).
+
+20.5 Praktisk for internationale studerende:
+- Studiebolig: Søg kollegium eller ungdomsbolig via byens fælles ventelister, så snart man er optaget. Uddannelsesstedets International Office kan hjælpe med bolig til udvekslingsstuderende.
+- Studiejob er almindeligt, typisk 10-15 timer om ugen. Tredjelandsborgere skal overholde timebegrænsningen i deres opholdstilladelse.
+- Studiekort giver rabat mange steder, og Ungdomskortet giver billig offentlig transport.
+- Studerende er dækket af den offentlige sygesikring, når de er bopælsregistreret.
+- Udvekslingsstuderende, der bliver under 3 måneder, får normalt ikke CPR-nummer.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 21: HVERDAGSLIV, KULTUR OG PRAKTISKE FORHOLD]
+Søgeord: hverdag, kultur, indkøb, supermarked, åbningstider, priser, leveomkostninger, bibliotek, foreninger, fritid, sport, religion, kirke, kirkeskat, medier, vejr, tøj, hygge, omgangsformer, everyday life, culture, shopping, supermarket, opening hours, cost of living, library, clubs, leisure, sports, religion, church tax, media, weather, social norms, making friends
+
+21.1 Indkøb og åbningstider:
+- Supermarkeder har typisk åbent alle ugens dage fra kl. 7-8 til kl. 21-22. Discountkæder er billigst; kiosker og døgnbutikker er dyrest.
+- Specialbutikker og stormagasiner har kortere åbningstider og lukker tidligere lørdag og søndag.
+- Apoteker har normalt åbent i dagtimerne på hverdage og lørdag formiddag. Der findes vagtapoteker med lang åbningstid i de større byer.
+- Offentlige kontorer (Borgerservice, kommunen) har korte åbningstider og kræver ofte tidsbestilling.
+- Brugte ting købes og sælges via bl.a. DBA, Facebook Marketplace, genbrugsbutikker og loppemarkeder.
+
+21.2 Leveomkostninger:
+- Danmark er et af Europas dyreste lande. Husleje er den største udgift, især i København og Aarhus.
+- Restaurantbesøg, alkohol på udskænkningssteder, biler, transport og håndværkerydelser er dyre. Dagligvarer koster mere end EU-gennemsnittet.
+- Til gengæld er læge, hospital, skole og uddannelse betalt over skatten.
+- Et groft pejlemærke for en enlig i København er 12.000-18.000 kr. om måneden til husleje, mad, transport og faste udgifter, afhængigt af boligen.
+
+21.3 Forbrugerrettigheder:
+- Reklamationsret: Man har 2 års reklamationsret på varer købt hos erhvervsdrivende.
+- Fortrydelsesret: Ved køb på nettet har man normalt 14 dages fortrydelsesret.
+- I fysiske butikker er der ingen lovbestemt fortrydelsesret, men mange butikker giver frivilligt bytte- eller returret mod kvittering.
+- Klager kan indbringes for Center for Klageløsning og Forbrugerklagenævnet eller et branchenævn. Forbruger Europa hjælper ved køb i andre EU-lande.
+
+21.4 Biblioteker og borgerhuse:
+- Folkebibliotekerne er gratis og låner bøger, film, spil og e-bøger ud (eReolen). Lånerkort oprettes med sundhedskort eller MitID.
+- Bibliotekerne har computere, print, studiepladser, sprogcaféer, lektiehjælp og hjælp til digitale selvbetjeningsløsninger.
+- Mange biblioteker har selvbetjent åbningstid fra tidlig morgen til sen aften.
+
+21.5 Foreningsliv og fritid:
+- Danmark har et meget stort foreningsliv. Idrætsklubber, aftenskoler, kor, spejdere og interesseforeninger er den nemmeste vej til at møde danskere.
+- Kontingenter er lave, fordi foreningerne drives af frivillige og får kommunal støtte.
+- Aftenskoler (f.eks. FOF, AOF og LOF) tilbyder kurser i alt fra sprog til madlavning og keramik.
+- Frivilligt arbejde er en god indgang til netværk og sprog. Tredjelandsborgere bør sikre sig, at ulønnet frivilligt arbejde er foreneligt med deres opholdstilladelse.
+- Internationale netværk findes i de større byer, bl.a. gennem International House, expat-foreninger og kommunernes velkomstarrangementer.
+
+21.6 Omgangsformer:
+- Danskere er uformelle og bruger fornavn og "du" til alle, også chefer, lærere og læger.
+- Punktlighed er vigtig, både til møder og private aftaler.
+- Privatliv respekteres, og danskere kan virke reserverede over for fremmede. Venskaber opstår oftest gennem fælles aktiviteter over tid.
+- Besøg aftales på forhånd. Man tager typisk skoene af i private hjem og medbringer en lille gave til værten.
+- "Hygge" betegner afslappet samvær, ofte hjemme, med mad, stearinlys og god tid.
+- Ligestilling mellem kønnene er en grundlæggende norm, og begge forældre deltager typisk i børnepasning og husarbejde.
+- Tillid er et kendetegn ved det danske samfund, f.eks. ubemandede vejboder og barnevogne, der står udenfor caféer.
+
+21.7 Traditioner og mærkedage:
+- Jul fejres den 24. december om aftenen. December er præget af julefrokoster og adventstraditioner.
+- Andre traditioner er fastelavn, påske, sankthans (23. juni med bål), mortensaften (10. november) og nytårsaften med kongens nytårstale og fyrværkeri.
+- Fødselsdage fejres med det danske flag (Dannebrog), som bruges ved alle festlige lejligheder.
+- Konfirmation og studentereksamen (med studenterhue og studenterkørsel) er store begivenheder for unge.
+
+21.8 Religion og Folkekirken:
+- Der er religionsfrihed i Danmark. Den evangelisk-lutherske Folkekirke har en særlig stilling og er den største kirke.
+- Kun medlemmer af Folkekirken betaler kirkeskat. Tilflyttere bliver ikke automatisk medlemmer, men kan melde sig ind. Medlemmer af tilsvarende lutherske kirker i andre nordiske lande bør tjekke deres registrering.
+- Udmeldelse af Folkekirken sker ved henvendelse til sognet.
+- Der findes moskeer, katolske kirker, synagoger, templer og mange andre trossamfund, især i de større byer.
+
+21.9 Alkohol, rygning og euforiserende stoffer:
+- Stærk alkohol må kun sælges til personer over 18 år. Unge på 16-17 år må kun købe drikke med lav alkoholprocent, og reglerne er strammet de senere år. Butikkerne kan kræve billedlegitimation.
+- Udskænkning på barer og restauranter kræver, at gæsten er fyldt 18 år.
+- Tobak og nikotinprodukter må kun sælges til personer over 18 år, og priserne er høje. Rygning er forbudt indendørs på arbejdspladser, i offentlig transport, på skoler og de fleste serveringssteder.
+- Alle euforiserende stoffer, også cannabis, er ulovlige at besidde, købe og sælge.
+
+21.10 Vejr og påklædning:
+- Klimaet er tempereret kystklima med milde, blæsende vintre (ca. 0-5 grader) og kølige somre (ca. 17-25 grader). Der falder regn året rundt.
+- Vinterdagene er korte og mørke (ca. 7 timers dagslys i december), og sommerdagene er meget lange (ca. 17 timer i juni). Mange tager D-vitamin om vinteren.
+- Praktisk regntøj og lag-på-lag-påklædning anbefales, især hvis man cykler.
+- Danmark bruger sommertid, og tidszonen er centraleuropæisk tid (CET).
+
+21.11 Medier og nyheder:
+- DR og TV 2 er de største public service-medier. De store dagblade har betalingsmur.
+- Nyheder om Danmark på engelsk findes bl.a. hos The Copenhagen Post og The Local Denmark.
+- Varsler om alvorlige hændelser udsendes via sirener og mobilvarslingssystemet (S!RENEN). Sirenerne afprøves hvert år den første onsdag i maj kl. 12.
+- Myndighederne anbefaler, at alle husstande kan klare sig selv i 3 døgn med vand, mad, medicin og andre fornødenheder ved kriser.
+
+21.12 Demokrati og samfund:
+- Danmark er et konstitutionelt monarki med et parlament (Folketinget) med 179 medlemmer. Regeringen ledes af statsministeren.
+- Landet er inddelt i 98 kommuner og 5 regioner. Kommunerne løser de fleste borgernære opgaver (skoler, dagtilbud, ældrepleje, Borgerservice, jobcenter).
+- Rigsfællesskabet omfatter også Færøerne og Grønland, som har selvstyre og ikke er med i EU. Opholdstilladelse til Danmark gælder ikke automatisk dér.
+- Danmark er medlem af EU, men har beholdt kronen og har forbehold på bl.a. retsområdet.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 22: RETTIGHEDER, VALG, POLITI, LEGITIMATION OG RETSHJÆLP]
+Søgeord: rettigheder, stemmeret, valg, kommunalvalg, politi, anmeldelse, 112, 114, straffeattest, børneattest, legitimation, ID-kort, pas, diskrimination, retshjælp, advokat, klage, ombudsmand, GDPR, rights, voting, elections, police, report crime, criminal record, ID card, passport, discrimination, legal aid, lawyer, complaint, data protection
+
+22.1 Stemmeret og valg:
+- Folketingsvalg og folkeafstemninger: Kun danske statsborgere over 18 år med bopæl i riget kan stemme.
+- Kommunal- og regionalvalg (hvert fjerde år i november): Statsborgere i EU-lande, Island og Norge kan stemme og stille op, når de er fyldt 18 år og har bopæl i kommunen. Andre udenlandske statsborgere kan stemme efter 4 års sammenhængende bopæl i riget.
+- Europa-Parlamentsvalg: EU-borgere med bopæl i Danmark kan vælge at stemme i Danmark i stedet for i hjemlandet.
+- Valgkortet sendes automatisk til adressen. Man kan brevstemme på Borgerservice i ugerne før valget.
+
+22.2 Politi og alarm:
+- 112: Alarmnummer ved akut fare for liv, helbred eller ejendom (politi, ambulance, brand).
+- 114: Politiets servicenummer til ikke-akutte henvendelser.
+- Tyveri, hærværk og svindel kan anmeldes digitalt på politi.dk med MitID. Forsikringsselskabet kræver normalt en politianmeldelse.
+- Tilliden til politiet er høj, og kontakten er uformel. Bestikkelse er strafbart og forekommer stort set ikke.
+- Vold i hjemmet: Lev Uden Volds døgnåbne hotline (1888) rådgiver anonymt. For familiesammenførte ægtefæller, der udsættes for vold, findes særlige regler, så opholdstilladelsen ikke nødvendigvis mistes ved samlivsophør.
+
+22.3 Legitimation:
+- Danmark har ikke et nationalt ID-kort, der gælder som rejsedokument. Danske statsborgere bruger pas ved rejser.
+- Udlændinge bør kunne vise pas og opholdskort/registreringsbevis ved kontrol og skal medbringe dem ved rejser over grænsen.
+- Legitimationskort: Kommunen udsteder mod gebyr et legitimationskort med foto til personer over 15 år med bopæl i kommunen. Det kan bruges som aldersbevis og billed-ID i Danmark, men ikke til rejser.
+- Kørekort og sundhedskort bruges ofte som legitimation i hverdagen. Sundhedskortet har intet foto og er ikke gyldig billedlegitimation alene.
+
+22.4 Straffeattest og børneattest:
+- En privat straffeattest bestilles gratis på politi.dk med MitID og sendes til Digital Post. Arbejdsgivere beder ofte om den ved ansættelse.
+- Børneattest indhentes af arbejdsgivere og foreninger, når man skal arbejde med børn under 15 år, og kræver ens samtykke.
+- Nytilflyttede kan blive bedt om en straffeattest fra hjemlandet.
+- Kriminalitet kan for udlændinge føre til udvisning og blokere for permanent ophold og statsborgerskab, også ved mindre forhold.
+
+22.5 Diskrimination og ligebehandling:
+- Forskelsbehandling på grund af køn, race, hudfarve, religion, politisk anskuelse, seksuel orientering, kønsidentitet, alder, handicap og national, social eller etnisk oprindelse er forbudt på arbejdsmarkedet. Uden for arbejdsmarkedet er der bl.a. forbud mod forskelsbehandling på grund af køn, race, etnisk oprindelse og handicap.
+- Ligebehandlingsnævnet behandler klager gratis. Institut for Menneskerettigheder rådgiver om diskrimination.
+- Hadforbrydelser anmeldes til politiet.
+
+22.6 Retshjælp og advokat:
+- Gratis retshjælp tilbydes af retshjælpskontorer og advokatvagter (ofte på biblioteker), hvor man anonymt kan få mundtlig rådgivning.
+- Retshjælpsforsikring er en del af de fleste indboforsikringer og kan dække advokatudgifter i civile sager.
+- Personer med lav indkomst kan få fri proces til retssager.
+- Ved anholdelse har man ret til en forsvarer og til tolk.
+
+22.7 Klage over myndigheder:
+- Afgørelser fra offentlige myndigheder skal indeholde en klagevejledning med frist og klageinstans.
+- Udlændingesager påklages typisk til Udlændingenævnet, sociale sager til Ankestyrelsen og skattesager til Skatteankestyrelsen.
+- Folketingets Ombudsmand kan behandle klager over offentlige myndigheder, når de øvrige klagemuligheder er udtømt.
+- Man har ret til aktindsigt i sin egen sag og ret til at lade sig repræsentere af en anden (partsrepræsentant).
+- Datatilsynet behandler klager over behandling af personoplysninger (GDPR).
+
+--------------------------------------------------------------------------------
+
+[SEKTION 23: KÆLEDYR, TOLD OG FLYTTEGODS]
+Søgeord: kæledyr, hund, kat, EU-pas til kæledyr, rabies, mikrochip, hunderegister, forbudte hunderacer, told, flyttegods, indbo, toldfrihed, moms ved import, medicin, kontanter, pets, dog, cat, pet passport, microchip, banned dog breeds, customs, household goods, removal goods, duty free, import VAT, cash declaration
+
+23.1 Indrejse med hund, kat eller fritte:
+- Fra andre EU-lande: Dyret skal være ID-mærket med mikrochip, være vaccineret mod rabies (mindst 21 dage før indrejse ved førstegangsvaccination) og have et EU-selskabsdyrspas udstedt af en dyrlæge.
+- Fra lande uden for EU: Der kræves mikrochip, rabiesvaccination og et dyresundhedscertifikat. Fra visse lande kræves desuden en blodprøve (antistoftest) taget i god tid før rejsen, og indrejsen skal ske via et godkendt indrejsested.
+- Højst 5 dyr kan medbringes som privat rejse. Hvalpe og killinger under ca. 15 uger kan normalt ikke indføres.
+- Reglerne administreres af Fødevarestyrelsen.
+
+23.2 Regler for hunde i Danmark:
+- Alle hunde skal være chipmærket og registreret i Dansk Hunderegister. Hunde, der indføres, skal registreres kort efter ankomst.
+- Ansvarsforsikring for hunde er lovpligtig.
+- Hunde skal føres i snor i byer og bymæssig bebyggelse, medmindre de er under fuld kontrol, og altid i snor i skove og på strande i sommerhalvåret (med lokale undtagelser).
+- 13 hunderacer og krydsninger heraf er forbudt at holde og indføre: pitbull terrier, tosa inu, amerikansk staffordshire terrier, fila brasileiro, dogo argentino, amerikansk bulldog, boerboel, kangal, centralasiatisk ovtcharka, kaukasisk ovtcharka, sydrussisk ovtcharka, tornjak og sarplaninac.
+- Mange lejeboliger tillader ikke husdyr. Tjek lejekontrakten og husordenen.
+- Katte bør være mærket og registreret. Dyrlægebesøg er dyre, og sygeforsikring til kæledyr er udbredt.
+
+23.3 Flyttegods fra lande uden for EU:
+- Brugt indbo og personlige ejendele kan indføres told- og momsfrit som flyttegods, hvis man har boet uden for EU i mindst 12 sammenhængende måneder, har ejet og brugt tingene i mindst 6 måneder, og indfører dem inden for 12 måneder efter flytningen.
+- Flyttegodset skal toldangives, normalt via flyttefirmaet eller speditøren, med en liste over indholdet og dokumentation for flytningen.
+- Tingene må ikke sælges, udlejes eller overdrages det første år efter indførslen.
+- Alkohol, tobak og erhvervsudstyr er ikke omfattet af fritagelsen.
+- En medbragt bil kan være fritaget for told og moms som flyttegods, men der skal stadig betales dansk registreringsafgift.
+
+23.4 Flytning inden for EU:
+- Der er ingen told eller moms på private ejendele, der flyttes mellem EU-lande.
+- Biler skal dog omregistreres, og der skal betales registreringsafgift. Nye køretøjer kan udløse dansk moms.
+
+23.5 Varer med særlige regler:
+- Kontanter: Beløb på 10.000 euro eller mere skal angives til Toldstyrelsen ved ind- og udrejse af EU.
+- Medicin til eget brug kan medbringes i begrænsede mængder; for euforiserende lægemidler kræves særlig attest.
+- Våben, knive, peberspray og fyrværkeri er strengt reguleret. Peberspray og de fleste knive på offentlige steder er ulovlige uden anerkendelsesværdigt formål.
+- Kød- og mejeriprodukter må ikke medbringes fra lande uden for EU. Planter og frø kan kræve plantesundhedscertifikat.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 24: FRAFLYTNING FRA DANMARK]
+Søgeord: fraflytning, flytte fra Danmark, udrejse, afmelde CPR, afmelding, skat ved fraflytning, feriepenge ved fraflytning, pension ved fraflytning, opsige lejemål, leaving Denmark, moving abroad, deregister, departure, exit, final tax, holiday pay payout, pension refund, terminate lease
+
+24.1 Tjekliste ved fraflytning fra Danmark:
+- Opsig lejemålet med det aftalte varsel (typisk 3 måneder), og aftal fraflytningssyn.
+- Meld udrejse til kommunen på borger.dk (tidligst 4 uger før afrejse), hvis opholdet i udlandet varer over 6 måneder. Oplys ny adresse i udlandet.
+- Giv Skattestyrelsen besked, og ret forskudsopgørelsen, så skattepligten ophører korrekt.
+- Behold MitID og Digital Post. Begge fungerer fra udlandet og er nødvendige for årsopgørelse, feriepenge og pension.
+- Behold en dansk bankkonto som NemKonto en periode, eller registrér en udenlandsk konto som NemKonto.
+- Anmod om udbetaling af feriepenge fra FerieKonto.
+- Kontakt pensionsselskabet om mulighederne for den opsparede pension.
+- Opsig abonnementer (el, internet, mobil, forsikringer, fitness, medier) og meld adresseændring til banken.
+- Bed a-kassen om PD U1 som dokumentation for forsikringsperioder til brug i et andet EU-land.
+- Bed om udtalelse/anbefaling fra arbejdsgiveren, eksamensbeviser og dokumentation for skolegang til børnene.
+- Aflevér opholdskort, hvis myndighederne beder om det, og afmeld bil og nummerplader eller eksportér bilen (der kan søges eksportgodtgørelse af registreringsafgiften).
+
+24.2 Skat ved fraflytning:
+- Den fulde skattepligt ophører normalt, når man opgiver sin bolig i Danmark og flytter. Beholder man en bolig til rådighed i Danmark, kan den fulde skattepligt fortsætte.
+- Man får en årsopgørelse for den del af året, man har været skattepligtig, i marts året efter. Overskydende skat udbetales til NemKonto.
+- Indkomst fra Danmark efter flytningen (f.eks. udlejning af dansk bolig, dansk pension, bestyrelseshonorar) kan fortsat være skattepligtig i Danmark som begrænset skattepligt.
+- Ved større aktiebeholdninger kan der blive beregnet fraflytterskat.
+
+24.3 Sundhed og sociale ydelser ved fraflytning:
+- Retten til det gule sundhedskort og dansk læge ophører ved registrering af udrejse.
+- Børne- og ungeydelse, boligstøtte og de fleste andre bopælsbaserede ydelser ophører. Udbetaling Danmark skal have besked.
+- Optjent ret til folkepension og ATP mistes ikke for EU-borgere og borgere fra lande med aftale om social sikring, men udbetales først ved pensionsalderen.
+
+24.4 Opholdstilladelse ved fraflytning:
+- En opholdstilladelse bortfalder normalt, når man opgiver sin bopæl i Danmark eller har opholdt sig i udlandet i mere end 6 måneder (12 måneder efter mere end 2 års lovligt ophold). Det gælder også permanent opholdstilladelse.
+- Man kan på forhånd søge Udlændingestyrelsen om dispensation, så tilladelsen ikke bortfalder under et midlertidigt ophold i udlandet (f.eks. udstationering eller uddannelse).
+
+--------------------------------------------------------------------------------
+
+[SEKTION 25: OVERSIGT OVER MYNDIGHEDER OG HVEM MAN KONTAKTER OM HVAD]
+Søgeord: myndigheder, hvem skal jeg kontakte, kontakt, telefonnummer, hjemmeside, kommune, Borgerservice, SIRI, Udlændingestyrelsen, Skattestyrelsen, Udbetaling Danmark, Familieretshuset, authorities, who to contact, contact, phone number, website, municipality, citizen service, immigration service, tax agency
+
+25.1 Opholdsgrundlag:
+- SIRI (Styrelsen for International Rekruttering og Integration): EU-registreringsbevis, opholdstilladelse til arbejde, studier, au pair, praktik og medfølgende familie. Hjemmeside: nyidanmark.dk. Telefon: 72 14 20 00. SIRI har afdelinger i bl.a. København, Odense, Aarhus, Aalborg og Aabenraa.
+- Udlændingestyrelsen: Familiesammenføring, permanent opholdstilladelse, asyl, visum og pas til udlændinge. Hjemmeside: nyidanmark.dk. Telefon: 35 36 66 00.
+- Udlændinge- og Integrationsministeriet: Ansøgning om dansk statsborgerskab.
+- Danske ambassader og visumansøgningscentre: Modtager ansøgninger og optager biometri i udlandet.
+
+25.2 Kommunen og Borgerservice:
+- CPR-registrering og flytning, sundhedskort og lægevalg, MitID ved fremmøde, pas og kørekort (ombytning og fornyelse), legitimationskort, vielse, danskundervisning, dagtilbud og skole, kontanthjælp, jobcenter og hjælp til digital selvbetjening.
+- International Citizen Service (ICS) i København, Aarhus, Odense og Aalborg samler SIRI, Skattestyrelsen og kommunen for internationale arbejdstagere og studerende.
+
+25.3 Skat og bil:
+- Skattestyrelsen: Skattekort, forskudsopgørelse, årsopgørelse, skattepersonnummer, forskerskatteordning. Hjemmeside: skat.dk. Telefon: 72 22 18 18.
+- Motorstyrelsen: Registreringsafgift, nummerplader og Motorregistret.
+- Toldstyrelsen: Told, flyttegods og kontantangivelse.
+- Færdselsstyrelsen: Regler for kørekort og syn.
+
+25.4 Ydelser og familie:
+- Udbetaling Danmark: Børne- og ungeydelse, boligstøtte, barselsdagpenge, folkepension, EU-sygesikringskort og international social sikring. Selvbetjening på borger.dk.
+- Familieretshuset: Skilsmisse, forældremyndighed, samvær, børnebidrag, prøvelse af ægteskabsbetingelser for udlændinge, adoption.
+- ATP: FerieKonto og ATP Livslang Pension.
+- Uddannelses- og Forskningsstyrelsen: SU og vurdering af udenlandske uddannelser.
+
+25.5 Digitale indgange:
+- borger.dk: Den fælles offentlige portal for selvbetjening (på engelsk: lifeindenmark.dk).
+- mitid.dk: MitID. Support og spærring: 33 98 00 10.
+- sundhed.dk: Sundhedsoplysninger og journal.
+- virk.dk: Portal for virksomheder.
+- nemkonto.dk: Registrering af NemKonto.
+- Den Digitale Hotline: 70 20 00 00 (hjælp til borger.dk, Digital Post og selvbetjening).
+- workindenmark.dk: Job og vejledning for internationale arbejdstagere.
+
+25.6 Akutte numre:
+- 112: Alarm (ambulance, brand, politi).
+- 114: Politi, ikke-akut.
+- 1813 (Region Hovedstaden) og 1818 (Region Sjælland): Akuttelefon ved sygdom og skader uden for lægens åbningstid. Øvrige regioner har egne lægevagtsnumre (se afsnit 5.5).
+- 82 12 12 12: Giftlinjen.
+- 70 201 201: Livslinien.
+- 116 111: Børnetelefonen.
+- 1888: Lev Uden Vold.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 26: ORDLISTE DANSK-ENGELSK OVER CENTRALE BEGREBER]
+Søgeord: ordliste, ordforklaring, hvad betyder, begreber, forkortelser, oversættelse, glossary, definitions, what does it mean, terms, abbreviations, translation, Danish English
+
+- A-kasse (arbejdsløshedskasse) = unemployment insurance fund. Frivillig forsikring, der giver ret til dagpenge ved ledighed.
+- A-skat = tax withheld from salary. Den skat, arbejdsgiveren trækker af lønnen.
+- AM-bidrag (arbejdsmarkedsbidrag) = labour market contribution. 8 % af lønnen, som trækkes før øvrig skat.
+- Andelsbolig = cooperative housing. Bolig, hvor man ejer en andel i en forening.
+- Apostille = apostille stamp. Påtegning, der bekræfter et dokuments ægthed til brug i udlandet.
+- ATP = Danish Labour Market Supplementary Pension. Lovpligtig tillægspension.
+- Autoriseret translatør / certificeret oversætter = certified translator.
+- Barsel = parental leave (maternity/paternity leave).
+- Beløbsordningen = Pay Limit Scheme. Opholdsordning for højtlønnede tredjelandsborgere.
+- Betalingsservice (BS) = direct debit. Automatisk betaling af faste regninger.
+- Biometri = biometrics. Ansigtsfoto og fingeraftryk til opholdskort.
+- Boligstøtte / boligsikring = housing benefit.
+- Bopælsattest = certificate of residence / proof of address.
+- Bopælsregistrering = registration of address in the national register.
+- Borgerservice = citizen service centre. Kommunens kontor for personlig betjening.
+- Børne- og ungeydelse (børnepenge) = child and youth benefit.
+- CPR-nummer (personnummer) = civil registration number / personal identification number.
+- CVR-nummer = business registration number.
+- Dagpenge = unemployment benefits.
+- Dagpleje = family day care (childminder).
+- Depositum = security deposit.
+- Digital Post = digital mailbox for official mail.
+- EU-registreringsbevis (EU-opholdsdokument) = EU registration certificate / EU residence document.
+- Fagforening = trade union.
+- Familieretshuset = Agency of Family Law.
+- Familiesammenføring = family reunification.
+- Feriepenge / feriegodtgørelse = holiday pay / holiday allowance.
+- Folkekirken = the Evangelical Lutheran Church in Denmark.
+- Folkepension = state pension.
+- Folkeregistret = the national register (kommunens del af CPR).
+- Folkeskole = public primary and lower secondary school.
+- Forskerskatteordningen = researcher taxation scheme / expat tax scheme (27 %).
+- Forskudsopgørelse = preliminary income assessment.
+- Forudbetalt leje = prepaid rent.
+- Fradrag = tax deduction / allowance.
+- Fremleje = sublet.
+- Frikort = tax exemption card.
+- Funktionær = salaried employee (covered by the Salaried Employees Act).
+- Grænsegænger / pendler = cross-border commuter.
+- Hovedkort / bikort = primary tax card / secondary tax card.
+- Huslejenævn = rent tribunal / rent assessment committee.
+- ICS (International Citizen Service) = one-stop service centre for international newcomers.
+- Indboforsikring = home contents insurance.
+- Indflytningssyn = move-in inspection.
+- Indfødsret = Danish citizenship.
+- Kommune = municipality.
+- Kontanthjælp = social assistance / cash benefit.
+- Legalisering = legalisation of documents.
+- Lejekontrakt = tenancy agreement / lease.
+- Logiværtserklæring = landlord's declaration / host's declaration of residence.
+- Lægevagt = out-of-hours medical service.
+- MitID = Danish national digital ID.
+- Moms = VAT (value added tax).
+- NemKonto = designated bank account for payments from the public sector.
+- Ny i Danmark = New to Denmark (the immigration authorities' portal).
+- Opholdskort = residence card.
+- Opholdstilladelse / arbejdstilladelse = residence permit / work permit.
+- Overenskomst = collective agreement.
+- Overskydende skat / restskat = tax refund / outstanding tax.
+- Pant = bottle deposit.
+- Pasningsgaranti = guaranteed childcare place.
+- Permanent opholdstilladelse = permanent residence permit.
+- Personfradrag = personal tax allowance.
+- Positivlisten = Positive List (shortage occupations).
+- Praktiserende læge (egen læge) = general practitioner (GP).
+- Prøvelsesattest = certificate of marital status (permission to marry).
+- Region = region (ansvarlig for hospitaler).
+- Registreringsafgift = vehicle registration tax.
+- Rejsekort = electronic travel card for public transport.
+- SFO (skolefritidsordning) = after-school care.
+- SIRI = Danish Agency for International Recruitment and Integration.
+- Skattekort = tax card.
+- Skattepersonnummer / administrativt CPR-nummer = tax identification number for non-residents.
+- Skattestyrelsen (Skat) = the Danish Tax Agency.
+- SU (Statens Uddannelsesstøtte) = state educational grant.
+- Sundhedskort (det gule kort, sygesikringsbevis) = health insurance card (yellow card).
+- Sygedagpenge = sickness benefits.
+- Tinglysning = land registration.
+- Tredjelandsborger = third-country national (non-EU/EEA citizen).
+- Trækprocent = withholding tax rate.
+- Typeformular A10 = the standard tenancy agreement form.
+- Udbetaling Danmark = the public benefits administration.
+- Udlændingestyrelsen = the Danish Immigration Service.
+- Vuggestue / børnehave = nursery / kindergarten.
+- Årsopgørelse = annual tax assessment.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 27: TYPISKE PROBLEMER OG LØSNINGER FOR TILFLYTTERE]
+Søgeord: problem, fejl, afslag, sidder fast, virker ikke, kan ikke få, hjælp, ventetid, forsinkelse, hønen og ægget, troubleshooting, stuck, rejected, not working, cannot get, delay, catch-22, help
+
+27.1 Problem: Jeg kan ikke få CPR-nummer, fordi jeg ikke har en adresse, og jeg kan ikke leje bolig uden CPR-nummer.
+- Løsning: En lejekontrakt kræver ikke juridisk et CPR-nummer. Forklar udlejeren, at CPR-nummeret kommer, når man er flyttet ind, og vis pas og ansættelseskontrakt i stedet. Alternativt kan man bo midlertidigt hos en ven, kollega eller i et fremlejet værelse, hvor værten underskriver en logiværtserklæring. Vælg aldrig en bolig, hvor man ikke må registrere sin adresse.
+
+27.2 Problem: Jeg kan ikke få bankkonto uden CPR-nummer, og min arbejdsgiver vil udbetale løn.
+- Løsning: Arbejdsgiveren kan midlertidigt udbetale lønnen til en udenlandsk konto, eller tilbageholde udbetalingen kort tid, indtil kontoen er klar. Start bankens oprettelsesproces, så snart CPR-nummeret er modtaget, og bed om en basal betalingskonto, hvis banken afviser et almindeligt kundeforhold.
+
+27.3 Problem: Min første løn er trukket med 55 % i skat.
+- Løsning: Det skyldes, at arbejdsgiveren ikke har kunnet hente et skattekort. Søg skattekort på skat.dk. Når kortet er registreret, bruges den rigtige trækprocent fremover. Den for meget betalte skat bliver ikke tabt: Arbejdsgiveren kan ofte regulere det i næste lønkørsel, og ellers udbetales beløbet som overskydende skat efter årsopgørelsen.
+
+27.4 Problem: Mit sundhedskort er ikke kommet.
+- Løsning: Tjek, at navnet står på postkassen, og at adressen (herunder etage og side, f.eks. "2. tv.") er registreret korrekt. Kontakt Borgerservice, hvis kortet ikke er kommet efter 3-4 uger. Brug i mellemtiden appen "Sundhedskortet" eller brevet fra kommunen med CPR-nummer og læge.
+
+27.5 Problem: MitID-appen kan ikke scanne mit pas.
+- Løsning: Ikke alle landes pas understøttes, og telefonen skal have NFC. Bestil tid i Borgerservice til oprettelse ved fremmøde, og medbring pas, opholdskort/registreringsbevis og om muligt et vidne med MitID.
+
+27.6 Problem: Jeg har ingen i Danmark, der kan være vidne til MitID.
+- Løsning: Spørg en kollega, studiekammerat, udlejer eller mentor. Uden vidne kan Borgerservice i nogle tilfælde bekræfte identiteten ud fra biometrien i opholdssagen eller ved kontrolspørgsmål. Ring til Borgerservice på forhånd og spørg, hvad de kan acceptere.
+
+27.7 Problem: Kommunen afviser at registrere min adresse.
+- Løsning: Afvisning skyldes typisk manglende dokumentation for bolig, manglende opholdsgrundlag, eller at opholdet er for kort. Bed om en skriftlig begrundelse. Skaf en lejekontrakt eller logiværtserklæring, og sørg for, at udlejeren ikke har flere personer registreret på adressen, end boligen er godkendt til.
+
+27.8 Problem: Mine dokumenter (vielsesattest, fødselsattest) bliver ikke accepteret.
+- Løsning: Dokumenter fra mange lande skal legaliseres eller have apostille i udstedelseslandet og oversættes af en certificeret oversætter. Uden godkendt dokumentation registreres civilstanden som uoplyst, men selve CPR-registreringen kan normalt gennemføres. Dokumenterne kan eftersendes.
+
+27.9 Problem: Jeg får ikke post fra det offentlige.
+- Løsning: Al offentlig post kommer i Digital Post og ikke i den fysiske postkasse. Log ind på borger.dk, e-Boks eller mit.dk med MitID, og tilmeld e-mail- og sms-påmindelser.
+
+27.10 Problem: Min opholdstilladelse udløber snart, og jeg har ikke fået svar på forlængelsen.
+- Løsning: Har man søgt forlængelse, før tilladelsen udløb, har man normalt ret til at blive i Danmark og fortsætte med at arbejde, indtil der er truffet afgørelse. Gem kvitteringen for ansøgningen. Ved rejser til udlandet kan det være nødvendigt med en tilbagerejsetilladelse fra SIRI eller Udlændingestyrelsen.
+
+27.11 Problem: Jeg har mistet mit job og har en arbejdstilladelse, der er knyttet til jobbet.
+- Løsning: Giv SIRI besked. Under flere ordninger kan man få et jobsøgningsophold på op til 6 måneder. Et nyt job kræver en ny ansøgning om arbejdstilladelse. Tal med a-kasse og fagforening om opsigelsesvilkår og dagpenge.
+
+27.12 Problem: Udlejer vil ikke betale mit depositum tilbage.
+- Løsning: Bed om en skriftlig opgørelse med dokumentation for udgifterne. Sammenhold med indflytningsrapporten og egne billeder. Indbring sagen for huslejenævnet (eller beboerklagenævnet i almene boliger), eventuelt med hjælp fra en lejerforening.
+
+27.13 Problem: Jeg forstår ikke et brev fra en myndighed.
+- Løsning: Ring til myndigheden; de fleste kan vejlede på engelsk. Borgerservice, ICS, biblioteket og frivillige rådgivninger hjælper også. Reagér altid inden fristen i brevet, da manglende svar kan føre til afslag, tab af ydelser eller gebyrer.
+
+27.14 Problem: Jeg har fået en sms eller e-mail om skat, pakke eller MitID med et link.
+- Løsning: Det er sandsynligvis svindel (phishing). Myndigheder og banker sender ikke links, hvor man skal indtaste MitID eller kortoplysninger. Log i stedet selv ind via den officielle hjemmeside eller app. Har man trykket og godkendt, skal man straks spærre kort og MitID og kontakte banken.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 28: OFTE STILLEDE SPØRGSMÅL (FAQ) TIL RAG-SYSTEMET]
+Søgeord: FAQ, spørgsmål og svar, ofte stillede spørgsmål, hvordan, hvornår, hvor lang tid, hvad koster, kan jeg, skal jeg, questions and answers, how do I, when, how long, how much, can I, do I need
+
+28.1 FAQ OM OPHOLD OG CPR
+
+Spørgsmål: Hvor lang tid tager det at få et CPR-nummer?
+Svar: Hvis du har al dokumentation i orden (pas, EU-registreringsbevis/opholdstilladelse, lejekontrakt og eventuelle civilstandsdokumenter), bliver dit CPR-nummer typisk oprettet med det samme ved dit personlige fremmøde i Borgerservice eller International Citizen Service (ICS). Selve det fysiske sundhedskort kommer med posten 2-3 uger senere.
+
+Spørgsmål: Hvad er forskellen på Borgerservice og ICS (International Citizen Service)?
+Svar: Borgerservice er kommunens lokale borgerkontor for alle borgere. ICS (International Citizen Service) er et specialiseret samarbejde mellem SIRI, Skattestyrelsen og kommunerne i København, Aarhus, Odense og Aalborg, hvor udenlandske arbejdstagere og studerende kan få ordnet opholdspapirer, CPR-nummer og skattekort på ét og samme besøg.
+
+Spørgsmål: Må jeg bo på hotel eller Airbnb og få et CPR-nummer?
+Svar: Som hovedregel nej. Midlertidige ophold på hotel, vandrehjem eller feriebolig/Airbnb giver normalt ikke ret til bopælsregistrering i Folkeregistret, medmindre opholdet har en sådan varighed og fast karakter, at det udgør din reelle faste bopæl, og udlejer/hotellet skriftligt bekræfter dette over for kommunen.
+
+Spørgsmål: Skal jeg have EU-registreringsbevis, før jeg kan få CPR-nummer?
+Svar: Ja, hvis du er statsborger i et EU/EØS-land eller Schweiz og skal bo i Danmark i mere end 3 måneder. Du søger først EU-registreringsbevis hos SIRI og tager derefter beviset med til Borgerservice. Hos ICS kan begge dele ordnes på samme besøg. Nordiske statsborgere skal ikke have registreringsbevis.
+
+Spørgsmål: Jeg er nordisk statsborger. Hvad skal jeg gøre for at flytte til Danmark?
+Svar: Du skal ikke have visum, opholdstilladelse eller registreringsbevis. Hvis du skal bo i Danmark i mere end 6 måneder, skal du melde flytning til kommunen i Borgerservice med legitimation og dokumentation for bolig. Oplys dit personnummer fra dit tidligere nordiske bopælsland.
+
+Spørgsmål: Kan jeg få CPR-nummer, hvis jeg skal være i Danmark i under 3 måneder?
+Svar: Nej, ikke et almindeligt CPR-nummer med bopælsregistrering. Hvis du arbejder i Danmark, får du et skattepersonnummer (administrativt CPR-nummer) fra Skattestyrelsen, når du søger skattekort.
+
+Spørgsmål: Hvad koster det at få CPR-nummer?
+Svar: Det er gratis at blive bopælsregistreret og få CPR-nummer og sundhedskort. EU-registreringsbevis er også gratis. Opholds- og arbejdstilladelser til tredjelandsborgere koster et gebyr.
+
+Spørgsmål: Skal mine børn møde personligt op for at få CPR-nummer?
+Svar: Ja. Alle familiemedlemmer, der skal registreres, skal møde personligt op i Borgerservice eller ICS med pas og fødselsattest.
+
+Spørgsmål: Hvad er en logiværtserklæring?
+Svar: En logiværtserklæring er en skriftlig bekræftelse fra den person, du bor hos (ejer eller lejer af boligen), på at du reelt bor på adressen. Den bruges som dokumentation for bolig, når du ikke selv står på en lejekontrakt.
+
+Spørgsmål: Hvornår skal jeg melde flytning, hvis jeg flytter til en ny adresse i Danmark?
+Svar: Senest 5 dage efter flytningen og tidligst 4 uger før. Du melder flytning digitalt på borger.dk med MitID.
+
+Spørgsmål: Mister jeg mit CPR-nummer, hvis jeg flytter fra Danmark?
+Svar: Nej. CPR-nummeret er dit hele livet. Du bliver registreret som udrejst og mister sundhedskort og fast læge, men nummeret genaktiveres, hvis du flytter tilbage.
+
+Spørgsmål: Kan jeg søge arbejdstilladelse, efter jeg er rejst ind i Danmark som turist?
+Svar: Hovedreglen er, at tredjelandsborgere skal søge og have tilladelsen, før de rejser ind. Personer med lovligt ophold i Danmark kan i nogle tilfælde indgive ansøgningen her, men de må ikke begynde at arbejde, før tilladelsen er givet. Tjek betingelserne for den konkrete ordning på nyidanmark.dk.
+
+Spørgsmål: Må min ægtefælle arbejde i Danmark?
+Svar: Medfølgende ægtefæller til udenlandske arbejdstagere og de fleste studerende med opholdstilladelse må arbejde frit uden egen arbejdstilladelse. Ægtefæller til EU-borgere har ret til at arbejde efter EU-reglerne. Familiesammenførte ægtefæller til danske statsborgere må også arbejde.
+
+Spørgsmål: Hvornår kan jeg få permanent opholdstilladelse?
+Svar: Tredjelandsborgere kan normalt søge efter 8 års lovligt ophold, eller efter 4 år, hvis alle supplerende betingelser er opfyldt. Der er krav om bl.a. bestået Prøve i Dansk 2, beskæftigelse, selvforsørgelse og ingen alvorlig kriminalitet. EU-borgere får ret til tidsubegrænset ophold efter 5 års lovligt ophold efter EU-reglerne.
+
+Spørgsmål: Kan jeg have dobbelt statsborgerskab i Danmark?
+Svar: Ja. Danmark tillader dobbelt statsborgerskab. Du skal dog undersøge, om dit oprindelige land tillader det.
+
+28.2 FAQ OM SUNDHED
+
+Spørgsmål: Er lægebesøg gratis i Danmark?
+Svar: Ja. Besøg hos praktiserende læge, speciallæge efter henvisning og behandling på offentlige hospitaler er gratis, når du har sundhedskort. Du betaler selv for tandlæge (voksne), en del af medicinen, psykolog og fysioterapi.
+
+Spørgsmål: Hvad gør jeg, hvis jeg bliver syg om aftenen eller i weekenden?
+Svar: Ring til lægevagten eller akuttelefonen i din region (1813 i Region Hovedstaden, 1818 i Region Sjælland). Du skal ringe, før du møder op på en akutmodtagelse. Ved livsfare ringer du 112.
+
+Spørgsmål: Kan jeg gå til læge, før jeg har fået mit sundhedskort?
+Svar: Ja, når du er bopælsregistreret og har fået CPR-nummer, er du dækket. Brug appen "Sundhedskortet" eller brevet fra kommunen. Før du har CPR-nummer, har du kun ret til akut behandling og bør have privat forsikring eller EU-sygesikringskort fra dit hjemland.
+
+Spørgsmål: Hvordan skifter jeg læge?
+Svar: Du skifter læge på borger.dk med MitID mod et gebyr. Hvis du flytter adresse, kan du vælge ny læge gratis i forbindelse med flytteanmeldelsen.
+
+Spørgsmål: Dækker det gule sundhedskort, når jeg rejser til udlandet?
+Svar: Nej. Ved rejser i EU/EØS og Schweiz bruger du det blå EU-sygesikringskort, som bestilles gratis på borger.dk. Derudover anbefales en privat rejseforsikring, som også dækker hjemtransport.
+
+Spørgsmål: Skal jeg betale for tandlæge?
+Svar: Voksne betaler selv for tandlæge med et mindre offentligt tilskud, som trækkes fra regningen. Børn og unge har gratis tandpleje gennem kommunen.
+
+Spørgsmål: Kan jeg få en engelsktalende læge?
+Svar: De fleste læger i Danmark taler engelsk. Du kan ikke vælge læge efter sprog i systemet, men du kan ringe til klinikken og spørge, før du vælger. Ved behov bestiller lægen en tolk.
+
+28.3 FAQ OM MITID OG DIGITAL POST
+
+Spørgsmål: Kan jeg få MitID uden et dansk pas?
+Svar: Ja. Hvis du har et udenlandsk biometrisk pas (med chip), der er understøttet af MitID-appen, kan du scanne passet i appen og oprette MitID selv. Hvis dit pas ikke virker i appen, kan du få oprettet MitID ved personligt fremmøde i Borgerservice med dit pas og et vitterlighedsvidne (en person over 18 år, der har haft MitID i mindst 30 dage) eller via politiets/SIRI's biometriregister.
+
+Spørgsmål: Kan jeg få MitID uden CPR-nummer?
+Svar: I praksis skal du have et CPR-nummer eller et administrativt CPR-nummer for at få et MitID, der kan bruges til offentlige tjenester og netbank.
+
+Spørgsmål: Hvad gør jeg, hvis jeg mister min telefon med MitID-appen?
+Svar: Spær MitID-appen med det samme på mitid.dk eller ved at ringe til MitID-support på 33 98 00 10. Installer derefter appen på en ny telefon og aktivér den ved at scanne dit pas, bruge en kodeviser eller møde op i Borgerservice.
+
+Spørgsmål: Hvor finder jeg post fra kommunen, Skat og hospitalet?
+Svar: I din Digital Post, som du læser på borger.dk, mit.dk eller e-boks.dk eller i de tilhørende apps med MitID. Der kommer normalt ikke fysiske breve.
+
+Spørgsmål: Hvad sker der, hvis jeg ikke læser min Digital Post?
+Svar: Brevene har samme retsvirkning som papirbreve. Frister løber, selvom du ikke har åbnet brevet, og du kan gå glip af indkaldelser, afgørelser og regninger. Tilmeld e-mail- eller sms-påmindelser.
+
+28.4 FAQ OM SKAT
+
+Spørgsmål: Skal jeg betale skat i Danmark fra dag ét?
+Svar: Ja, hvis du arbejder i Danmark, skal der trækkes skat af din løn fra første arbejdsdag. Husk at søge om et skattekort hos Skattestyrelsen (skat.dk), så snart du har fået dit CPR-nummer (eller skattepersonnummer), så din arbejdsgiver ikke trækker 55 % i skat.
+
+Spørgsmål: Hvor meget betaler man i skat i Danmark?
+Svar: En almindelig lønmodtager betaler samlet omkring 35-40 % af lønnen i skat inklusive 8 % arbejdsmarkedsbidrag. Den præcise sats afhænger af indkomst, kommune og fradrag. De højeste indkomster har en marginalskat på ca. 56-60 %.
+
+Spørgsmål: Hvad er forskellen på forskudsopgørelse og årsopgørelse?
+Svar: Forskudsopgørelsen er et budget for det indeværende år, som bestemmer din trækprocent og dit fradrag. Årsopgørelsen er den endelige opgørelse for det forgangne år, som kommer i marts og viser, om du skal have penge tilbage eller betale restskat.
+
+Spørgsmål: Skal jeg aflevere mit skattekort til min arbejdsgiver?
+Svar: Nej. Skattekortet er digitalt, og arbejdsgiveren henter det selv hos Skattestyrelsen ved hjælp af dit CPR-nummer.
+
+Spørgsmål: Kan jeg søge skattekort, før jeg har CPR-nummer?
+Svar: Ja. Du kan udfylde ansøgningen om skattekort og personnummer (blanket 04.063) på skat.dk uden CPR-nummer og MitID. Skattestyrelsen tildeler så et skattepersonnummer.
+
+Spørgsmål: Skal jeg betale dansk skat af indkomst og opsparing i mit hjemland?
+Svar: Som fuldt skattepligtig i Danmark skal du oplyse hele din globale indkomst, herunder renter, udbytter, lejeindtægter og pension fra udlandet. Dobbeltbeskatningsoverenskomster sikrer, at du ikke betaler fuld skat to gange.
+
+Spørgsmål: Hvad er forskerskatteordningen?
+Svar: En særlig ordning for højtlønnede og forskere rekrutteret fra udlandet. Lønnen beskattes med 27 % plus arbejdsmarkedsbidrag (i alt 32,84 %) i op til 7 år. Der er krav om en høj minimumsløn, og at man ikke har været skattepligtig i Danmark de seneste 10 år. Arbejdsgiveren søger om ordningen.
+
+Spørgsmål: Hvornår får jeg penge tilbage i skat?
+Svar: Overskydende skat fremgår af årsopgørelsen i marts og udbetales automatisk til din NemKonto, typisk i april.
+
+Spørgsmål: Skal jeg betale kirkeskat?
+Svar: Kun hvis du er medlem af Folkekirken. Tilflyttere er ikke automatisk medlemmer.
+
+28.5 FAQ OM BANK OG PENGE
+
+Spørgsmål: Kan jeg få en dansk bankkonto, før jeg har et CPR-nummer?
+Svar: I praksis nej. Næsten alle danske banker kræver et gyldigt dansk CPR-nummer samt en registreret dansk adresse for at oprette en konto. Enkelte banker kan påbegynde processen med et administrativt CPR-nummer (skattepersonnummer) for grænsegængere.
+
+Spørgsmål: Hvad er en NemKonto?
+Svar: En NemKonto er den bankkonto, du har udpeget til at modtage alle udbetalinger fra det offentlige, f.eks. overskydende skat, SU, børneydelse og boligstøtte. Det er en almindelig konto og ikke en særlig kontotype.
+
+Spørgsmål: Banken vil ikke oprette en konto til mig. Hvad kan jeg gøre?
+Svar: Bed udtrykkeligt om en basal betalingskonto, som alle med lovligt ophold i EU har ret til. Banken skal give et skriftligt, begrundet afslag, som du kan klage over. Prøv også en anden bank.
+
+Spørgsmål: Kan min løn udbetales til en udenlandsk konto?
+Svar: Ja, det kan mange arbejdsgivere, og en udenlandsk konto kan registreres som NemKonto. Tredjelandsborgere på visse erhvervsordninger skal dog have lønnen udbetalt til en dansk bankkonto.
+
+Spørgsmål: Hvordan får jeg MobilePay?
+Svar: Du skal have CPR-nummer, MitID, et dansk mobilnummer og en konto i en dansk bank. Derefter henter du appen og tilmelder dig.
+
+28.6 FAQ OM BOLIG
+
+Spørgsmål: Hvor meget skal jeg betale ved indflytning i en lejebolig?
+Svar: Udlejer må kræve op til 3 måneders husleje i depositum og op til 3 måneders forudbetalt leje. Med den første måneds husleje kan det samlet blive op til 7 måneders leje.
+
+Spørgsmål: Hvad sker der, hvis jeg ikke sætter mit navn på postkassen?
+Svar: Postbuddet må ikke aflevere post til dig, hvis dit navn ikke står på postkassen. Det betyder, at vigtige breve som dit gule sundhedskort, bankkort og pinkoder bliver sendt retur til afsenderen, hvilket forsinker hele din opstart i Danmark.
+
+Spørgsmål: Hvor lang er opsigelsesfristen for en lejebolig?
+Svar: Som lejer kan du normalt opsige en lejlighed med 3 måneders varsel og et enkeltværelse med 1 måneds varsel. Tjek lejekontrakten.
+
+Spørgsmål: Hvordan undgår jeg boligsvindel?
+Svar: Betal aldrig depositum, før du har set boligen og underskrevet en kontrakt. Betal kun via bankoverførsel til en dansk konto. Vær mistænksom, hvis udlejer er i udlandet, prisen er meget lav, eller du ikke må registrere din adresse.
+
+Spørgsmål: Kan jeg få boligstøtte?
+Svar: Hvis du bor til leje i en bolig med eget køkken og har lav eller moderat indkomst, kan du søge boligstøtte hos Udbetaling Danmark via borger.dk. Beløbet afhænger af husleje, boligens størrelse, husstandens indkomst og antal personer.
+
+Spørgsmål: Må jeg som udlænding købe bolig i Danmark?
+Svar: EU/EØS-borgere kan købe en helårsbolig til eget brug uden tilladelse. Tredjelandsborgere uden 5 års tidligere bopæl skal normalt have tilladelse fra Civilstyrelsen, som typisk gives, når man har opholdstilladelse og selv skal bo i boligen. Sommerhuse er omfattet af særlige, strenge regler.
+
+Spørgsmål: Hvordan får jeg strøm i min nye bolig?
+Svar: Du skal selv vælge og tilmelde dig en elleverandør, når du flytter ind. Sammenlign priser på elpris.dk.
+
+28.7 FAQ OM ARBEJDE
+
+Spørgsmål: Er der en mindsteløn i Danmark?
+Svar: Der er ingen lovbestemt mindsteløn. Lønnen fastsættes i overenskomster mellem fagforeninger og arbejdsgivere eller i den individuelle kontrakt.
+
+Spørgsmål: Skal jeg være medlem af en fagforening eller a-kasse?
+Svar: Nej, begge dele er frivillige. En a-kasse giver ret til dagpenge ved ledighed, og en fagforening hjælper med løn, kontrakt og konflikter. Mange er medlem af begge.
+
+Spørgsmål: Hvor meget ferie har jeg ret til?
+Svar: Alle lønmodtagere optjener 2,08 feriedage om måneden, svarende til 5 ugers ferie om året. Mange har en 6. ferieuge gennem overenskomst eller kontrakt.
+
+Spørgsmål: Hvad sker der med mine feriepenge, hvis jeg forlader Danmark?
+Svar: Optjente feriepenge indbetales til FerieKonto, når du fratræder. Når du flytter fra Danmark, kan du få dem udbetalt ved at anmode om det på borger.dk.
+
+Spørgsmål: Hvor lang barsel har man i Danmark?
+Svar: Forældrene har tilsammen ret til 48 ugers barselsdagpenge efter fødslen, som udgangspunkt 24 uger til hver. For lønmodtagere er 11 uger øremærket til hver forælder. Moren har desuden 4 ugers orlov før fødslen.
+
+Spørgsmål: Kan jeg få dagpenge, hvis jeg mister mit job?
+Svar: Kun hvis du har været medlem af en a-kasse i mindst 1 år og opfylder indkomstkravet. EU-borgere kan overføre forsikringsperioder fra hjemlandet med PD U1, hvis de melder sig ind i en dansk a-kasse inden for 8 uger.
+
+Spørgsmål: Kan jeg arbejde i Danmark uden at tale dansk?
+Svar: Ja, især i internationale virksomheder, it, forskning, ingeniørfag, hotel og restauration, rengøring, landbrug og byggeri. Dansk øger dog jobmulighederne markant og er nødvendigt i de fleste offentlige job og kundevendte stillinger.
+
+Spørgsmål: Hvad er normal arbejdstid i Danmark?
+Svar: En fuldtidsuge er normalt 37 timer. Den gennemsnitlige arbejdstid må ikke overstige 48 timer om ugen inklusive overarbejde.
+
+28.8 FAQ OM KØREKORT, BIL OG TRANSPORT
+
+Spørgsmål: Kan jeg køre på mit udenlandske kørekort i Danmark?
+Svar: Kørekort fra EU/EØS-lande kan bruges uden tidsbegrænsning, så længe de er gyldige. Kørekort fra andre lande må bruges i op til 180 dage, efter du har fået bopæl i Danmark, og skal derefter ombyttes til dansk kørekort.
+
+Spørgsmål: Skal jeg til køreprøve for at ombytte mit kørekort?
+Svar: Det afhænger af udstedelseslandet. Kørekort fra EU/EØS og en række andre lande (bl.a. USA, Canada, Australien, Japan, Sydkorea, Schweiz, Storbritannien og Ukraine) ombyttes uden prøve. Kørekort fra øvrige lande kræver en kontrollerende teori- og køreprøve.
+
+Spørgsmål: Må jeg køre i min udenlandske bil, når jeg bor i Danmark?
+Svar: Nej, ikke permanent. Når du har bopæl i Danmark, skal bilen registreres i Danmark, og der skal betales registreringsafgift inden for 30 dage, medmindre du har fået en særlig tilladelse fra Motorstyrelsen.
+
+Spørgsmål: Hvordan betaler jeg for bus og tog?
+Svar: Med Rejsekort (som app), i DSB-appen eller i de regionale trafikselskabers apps. Husk at tjekke ind og ud. Pendlere kan købe et pendlerkort.
+
+28.9 FAQ OM SPROG, BØRN OG UDDANNELSE
+
+Spørgsmål: Er danskundervisning gratis?
+Svar: Ja, for de fleste nytilkomne voksne med CPR-nummer. Selvforsørgende betaler et depositum på typisk 2.000 kr., som man får tilbage, når modulerne bestås til tiden.
+
+Spørgsmål: Hvornår kan mit barn begynde i vuggestue eller børnehave?
+Svar: Du kan skrive barnet op via Digital Pladsanvisning på borger.dk, så snart barnet har CPR-nummer. Kommunen har pasningsgaranti og skal tilbyde en plads inden for en fastsat frist, men ikke nødvendigvis i den ønskede institution.
+
+Spørgsmål: Koster det noget at gå i skole i Danmark?
+Svar: Folkeskolen er gratis. Privatskoler og internationale skoler opkræver skolepenge. Ungdomsuddannelser og videregående uddannelser er gratis for EU/EØS-borgere og personer med permanent ophold.
+
+Spørgsmål: Mit barn taler ikke dansk. Hvordan foregår skolestart?
+Svar: Kommunen vurderer barnets behov og tilbyder en modtageklasse eller sprogstøtte i en almindelig klasse (dansk som andetsprog). Kontakt kommunens skoleforvaltning eller distriktsskolen.
+
+Spørgsmål: Kan jeg få børnepenge som nytilflyttet?
+Svar: Du optjener retten gradvist over 6 år med bopæl eller beskæftigelse i Danmark. EU-borgere kan få medregnet perioder fra andre EU-lande og skal søge hos Udbetaling Danmark.
+
+Spørgsmål: Kan udenlandske studerende få SU?
+Svar: EU/EØS-borgere kan få SU, hvis de har status som arbejdstager i Danmark, hvilket i praksis betyder arbejde på mindst 10-12 timer om ugen ved siden af studiet. Andre udlændinge kan få SU, hvis de opfylder særlige betingelser for ligestilling med danske statsborgere.
+
+28.10 FAQ OM FRAFLYTNING OG ANDET
+
+Spørgsmål: Hvad skal jeg gøre, når jeg flytter fra Danmark?
+Svar: Opsig din bolig, meld udrejse til kommunen på borger.dk, giv Skattestyrelsen besked, få feriepenge udbetalt, kontakt dit pensionsselskab, og behold MitID og Digital Post, så du kan modtage årsopgørelse og andre breve.
+
+Spørgsmål: Kan jeg tage min hund eller kat med til Danmark?
+Svar: Ja. Dyret skal have mikrochip, gyldig rabiesvaccination og EU-selskabsdyrspas (fra EU) eller dyresundhedscertifikat (fra lande uden for EU). 13 hunderacer er forbudt i Danmark. Hunde skal registreres i Dansk Hunderegister og have ansvarsforsikring.
+
+Spørgsmål: Kan jeg stemme i Danmark?
+Svar: EU-borgere samt norske og islandske statsborgere kan stemme til kommunal- og regionalvalg, når de har bopæl i Danmark. Andre udlændinge kan stemme til disse valg efter 4 års bopæl. Kun danske statsborgere kan stemme til folketingsvalg.
+
+Spørgsmål: Hvilke forsikringer har jeg brug for?
+Svar: De fleste har som minimum en indboforsikring med ansvarsforsikring. Derudover er ulykkesforsikring og rejseforsikring almindelige. Bilejere og hundeejere skal have lovpligtig ansvarsforsikring.
+
+Spørgsmål: Hvem ringer jeg til i en nødsituation?
+Svar: Ring 112 ved akut fare for liv eller ejendom. Ring 114 til politiet, når det ikke er akut. Ring til lægevagten eller akuttelefonen (f.eks. 1813 i Region Hovedstaden) ved akut sygdom uden for lægens åbningstid.
+
+--------------------------------------------------------------------------------
+
+[SEKTION 29: ENGLISH QUICK REFERENCE - KEY QUESTIONS AND ANSWERS]
+Keywords: moving to Denmark, CPR number, residence permit, EU registration certificate, MitID, health card, yellow card, tax card, bank account, NemKonto, Digital Post, housing, deposit, Danish lessons, driving licence, child benefit, unemployment insurance
+
+This section repeats the most important points of the knowledge base in English so that questions asked in English can be matched. The Danish sections above contain the full details.
+
+29.1 What is the correct order of steps when moving to Denmark?
+1) Secure your legal basis for residence (EU registration certificate from SIRI for EU/EEA/Swiss citizens, residence and work permit for non-EU citizens, nothing for Nordic citizens). 2) Find a place to live where you are allowed to register your address. 3) Register at Borgerservice (the municipal citizen service) or International Citizen Service (ICS) to get a CPR number. 4) Choose a GP and receive the yellow health card by post. 5) Set up MitID, the national digital ID. 6) Apply for a tax card and fill in the preliminary income assessment (forskudsopgørelse) at skat.dk. 7) Open a Danish bank account and designate it as your NemKonto. 8) Activate Digital Post (e-Boks, mit.dk or borger.dk).
+
+29.2 What is a CPR number and who needs one?
+The CPR number is a ten-digit civil registration number (DDMMYY-XXXX). Anyone staying in Denmark for more than three months (six months for Nordic citizens) must register their address and will get a CPR number. It is required for health care, salary, banking, tax and almost all contact with the authorities. Registration is free and done in person.
+
+29.3 What documents do I need to bring to get a CPR number?
+Passport or national ID card, EU registration certificate or residence permit (not required for Nordic citizens), proof of address in Denmark (tenancy agreement or a declaration from the person you live with), marriage certificate if married, and birth certificates for accompanying children. Documents not in Danish, English, German, Norwegian or Swedish normally need a certified translation and possibly legalisation or an apostille.
+
+29.4 Can I register for a CPR number while staying in a hotel or Airbnb?
+Normally not. You need a permanent place to live where you actually stay. A PO box or a c/o address without real residence is not accepted.
+
+29.5 How do EU/EEA citizens get the right to stay?
+EU/EEA and Swiss citizens can stay for up to three months without registration (six months as jobseekers). For longer stays they must apply to SIRI for an EU registration certificate as a worker, self-employed person, student, person with sufficient funds, or family member. The certificate is free and must be issued before the municipality can give a CPR number.
+
+29.6 How do non-EU citizens get the right to live and work in Denmark?
+They normally need a residence and work permit before arrival, applied for through nyidanmark.dk (New to Denmark). Common schemes are the Pay Limit Scheme, the Positive Lists, the Fast-track Scheme for certified companies, the researcher scheme, study permits and family reunification. A fee applies and biometrics (photo and fingerprints) must be recorded.
+
+29.7 How do I get MitID as a foreigner?
+You need a CPR number. If you have a biometric passport supported by the MitID app and a smartphone with NFC, you can scan your passport and face in the app. Otherwise book an appointment at Borgerservice and bring your passport and, if possible, a witness who has had MitID for at least 30 days.
+
+29.8 How does health care work?
+Once registered with a CPR number you are covered by public health insurance. GP visits and hospital treatment are free. You choose a GP when you register, and the GP refers you to specialists. Adults pay for dental care and part of the cost of prescription medicine. Call 112 in life-threatening emergencies; call the regional out-of-hours medical service (1813 in the Capital Region) before going to an emergency department.
+
+29.9 How does tax work for newcomers?
+You pay tax from your first working day. Apply for a tax card at skat.dk; without one your employer must withhold 55 %. Your tax card is electronic and your employer retrieves it automatically. The preliminary income assessment is your tax budget for the year, and the annual tax assessment in March shows whether you get a refund or owe tax. Total tax for an average employee is roughly 35-40 %, including the 8 % labour market contribution. Highly paid employees and researchers recruited from abroad may qualify for the special 27 % expat tax scheme for up to seven years.
+
+29.10 How do I open a bank account?
+Banks normally require a CPR number, passport, Danish address, proof of employment or study, and your foreign tax identification number. Everyone legally residing in the EU has the right to a basic payment account. Tell your bank to register the account as your NemKonto so that public authorities can pay money to you.
+
+29.11 What should I know about renting?
+A landlord may ask for up to three months' rent as a deposit plus up to three months' prepaid rent. Report defects in writing within 14 days of moving in. Tenants can normally terminate with three months' notice. Put your full name on the mailbox, otherwise your health card and bank cards will not be delivered. Never pay a deposit before you have seen the home and signed a contract.
+
+29.12 Is there a minimum wage?
+There is no statutory minimum wage. Pay and conditions are set by collective agreements between trade unions and employers or by the individual contract. All employees are entitled to five weeks of paid holiday per year.
+
+29.13 What are an a-kasse and a trade union?
+An a-kasse is a voluntary unemployment insurance fund; normally one year of membership plus an income requirement gives the right to unemployment benefits. A trade union gives legal help and advice on contracts and pay. EU citizens can transfer insurance periods from another EU country with form PD U1 if they join a Danish a-kasse within eight weeks.
+
+29.14 Can I use my foreign driving licence?
+Licences from EU/EEA countries are valid in Denmark. Licences from other countries can be used for 180 days after you register your address and must then be exchanged; depending on the issuing country, a theory and practical test may be required. A car brought from abroad must be registered in Denmark and registration tax paid within 30 days.
+
+29.15 Are Danish lessons free?
+Yes, most adult newcomers with a CPR number are entitled to free Danish courses through their municipality. Self-supporting students pay a refundable deposit of about DKK 2,000.
+
+29.16 What about children?
+Sign children up for nursery or kindergarten through the digital waiting list on borger.dk; municipalities guarantee a place. Public school is free and compulsory education lasts ten years. Child benefit is earned gradually over six years of residence or employment, but EU rules allow periods from other EU countries to count.
+
+29.17 What should I do when leaving Denmark?
+Terminate your lease, report your departure to the municipality, inform the tax agency, request payout of holiday pay, contact your pension provider, and keep your MitID and Digital Post so you can still receive your annual tax assessment.
+
+================================================================================
+SLUT PÅ VIDENSBASE
+================================================================================
