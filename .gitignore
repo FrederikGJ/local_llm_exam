@@ -124,3 +124,9 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 .directory
+
+# =========================
+# originale dokumenter i pdf format
+# =========================
+/viden_pdf
+
