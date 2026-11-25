@@ -130,3 +130,8 @@ Desktop.ini
 # =========================
 /viden_pdf
 
+
+# =========================
+# lokal terminal-app til at teste LLM'en
+# =========================
+/local_test
