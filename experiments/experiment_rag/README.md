@@ -14,7 +14,7 @@ Anden halvdel af sammenligningsøvelsen. Den lokale LLM forudsiger husleje ud fr
 | Svarformat | Ollamas structured output (`format` med et JSON-schema) tvinger svaret til `{"monthly_rent_dkk": <heltal>}`. |
 | Uden RAG | Samme LLM og systemprompt, men uden eksempler. Bruges til at se, hvad retrieval ændrer. |
 
-`load_dataset()` i `llm_rag_predict.py` returnerer kun arealet fra testrækkerne. Testlejen indlæses først i `compare.py` og i notebookens trin 5, når fejlen skal måles. LLM'en får kun tekst. Den kalder ikke regressionsmodellen og kører ingen kode.
+`load_dataset()` i `llm_rag_predict.py` returnerer kun arealet fra testrækkerne. Testlejen indlæses først i `compare.py` og i notebookens afsnit 4.3, når fejlen skal måles. LLM'en får kun tekst. Den kalder ikke regressionsmodellen og kører ingen kode.
 
 `retrieval_log.md` viser for hver testcase de hentede eksempler med cosine-score, den fulde prompt og LLM'ens rå svar.
 
@@ -49,4 +49,4 @@ Notebook med de samme trin, tabeller og grafer:
 jupyter notebook experiments/experiment_rag/llm_rag.ipynb
 ```
 
-Kør `python experiments/regression/train_linear_regression.py` først, hvis `../regression/predictions_regression.csv` mangler. Notebookens sidste trin sammenligner med den.
+Kør `python experiments/regression/train_linear_regression.py` først, hvis `../regression/predictions_regression.csv` mangler. Notebookens afsnit 4.3 sammenligner med den.
