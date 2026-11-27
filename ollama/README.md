@@ -13,6 +13,8 @@ docker compose logs -f model-init   # vent på "Klar: rag-llm -> ..."
 
 Ollama kører på `http://localhost:11434`. RAG-appen skal altid kalde modellen **`rag-llm`**. Det er et alias, der peger på `OLLAMA_MODEL` med `temperature` og `num_ctx` fra `.env`.
 
+`model-init` henter også embeddingmodellen `EMBED_MODEL` (standard `bge-m3`, ~1,2 GB), som `rag/ingest.py` og `experiments/experiment_rag/` bruger. Første gang tager det et par minutter.
+
 Test:
 ```bash
 curl http://localhost:11434/api/chat -d '{"model":"rag-llm","messages":[{"role":"user","content":"Hvad er et CPR-nummer?"}],"stream":false}'

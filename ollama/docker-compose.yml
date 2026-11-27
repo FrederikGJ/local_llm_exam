@@ -20,7 +20,7 @@ services:
       retries: 30
     restart: unless-stopped
 
-  # Engangs-container: henter modellen og opretter alias-modellen (LLM_ALIAS) med parametrene fra .env.
+  # Engangs-container: henter chat- og embeddingmodellen og opretter alias-modellen (LLM_ALIAS) med parametrene fra .env.
   model-init:
     image: *ollama-image
     depends_on:
@@ -29,6 +29,7 @@ services:
     environment:
       OLLAMA_HOST: http://ollama:11434
       OLLAMA_MODEL: ${OLLAMA_MODEL:-qwen:0.5b-chat-v1.5-q2_K}
+      EMBED_MODEL: ${EMBED_MODEL:-bge-m3}
       LLM_ALIAS: ${LLM_ALIAS:-rag-llm}
       LLM_TEMPERATURE: ${LLM_TEMPERATURE:-0.2}
       LLM_NUM_CTX: ${LLM_NUM_CTX:-4096}

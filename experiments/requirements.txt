@@ -1,0 +1,5 @@
+# Sammenligningsøvelsen (regression vs. lokal LLM + RAG).
+# LLM + RAG-delen og rag/ bruger kun standardbiblioteket.
+scikit-learn>=1.9
+matplotlib>=3.11
+notebook>=7.6

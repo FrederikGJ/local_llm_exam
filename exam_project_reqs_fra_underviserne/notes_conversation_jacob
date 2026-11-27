@@ -1,0 +1,14 @@
+ekstra kolonne API LLM uden RAG og API LLM med RAG
+
+Data -- hvordan virker simuleret data ?? er det normaliseret ??
+Forstærker -- den bias ift original data ??
+Kan vi lave et plot fra det originale data ? eller hvilken betydning har det ?
+HVad har det af betydning ift vores opgave?
+
+kan vi finde lad os sigee 20-50 punkter mere fra boligportalen?
+
+Er vi sikre på at en linær regression er det rigtige ?
+Kunne det være noget andet ?
+
+Vi laver også en API versoin og tilfæjer til modellen !
+
